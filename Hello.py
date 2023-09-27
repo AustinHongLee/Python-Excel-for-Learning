@@ -4,6 +4,14 @@ import os
 print("創建一個新的工作簿...")
 # 創建一個新的工作簿
 wb = openpyxl.Workbook()
+ws = wb.active  # 獲取當前工作表
+
+print("向工作簿中添加數據...")
+# 將值寫入 A1 儲存格
+ws["A1"].value = "C150x50x6t"
+
+# 將公式寫入 B1 儲存格
+ws["B1"].value = "=LEFT(A1,1)"
 
 print("保存工作簿到一個文件...")
 # 保存工作簿到一個文件
