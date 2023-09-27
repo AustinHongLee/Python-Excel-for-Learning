@@ -1,24 +1,29 @@
-import openpyxl
-import os
-import tkinter as tk
-from tkinter import messagebox, StringVar
+import openpyxl 
+import os 
+import tkinter as tk 
+from tkinter import messagebox, StringVar 
 
+current_row = 1  # 全局變數，用於追踪目前正在寫入的行
 
-def create_excel():
-    print("創建一個新的工作簿...")
-    wb = openpyxl.Workbook()
-    ws = wb.active
+def create_excel(): 
+    global current_row  # 使用全局變數
+    print("創建一個新的工作簿...") 
+    wb = openpyxl.Workbook() 
+    ws = wb.active 
 
-    print("向工作簿中添加數據...")
-    ws["A1"].value = selected_option.get()
-    ws["B1"].value = "=LEFT(A1,1)"
+    print("向工作簿中添加數據...") 
+    ws[f"A{current_row}"].value = selected_option.get() 
+    ws[f"B{current_row}"].value = f"=LEFT(A{current_row},1)" 
+    current_row += 1  # 在選擇後增加行數
 
-    print("保存工作簿到一個文件...")
-    wb.save("new_blank_workbook.xlsx")
-    print(f"保存工作簿到 {os.getcwd()}\\new_blank_workbook.xlsx...")
+    print("保存工作簿到一個文件...") 
+    wb.save("new_blank_workbook.xlsx") 
+    print(f"保存工作簿到 {os.getcwd()}\\new_blank_workbook.xlsx...") 
 
-    print("打開新創建的工作簿...")
-    os.startfile("new_blank_workbook.xlsx")
+    print("打開新創建的工作簿...") 
+    os.startfile("new_blank_workbook.xlsx") 
+
+# ...[其餘代碼保持不變]
 
 
 
