@@ -1,4 +1,16 @@
 import difflib
 
-words = ["apple", "banana", "cherry", "date", "applepie", "pineapple"]
-print(difflib.get_close_matches("appel", words))
+
+words = [
+    "check",
+    "cheese",
+    "chemical",
+    "chemist",
+    "chemistry",
+    "cherish",
+    "cherry",
+    "chess",
+    "chew",
+    "cheek"
+]
+print(difflib.get_close_matches("che", words))
