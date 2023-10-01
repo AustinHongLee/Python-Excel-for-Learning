@@ -1,0 +1,88 @@
+import openpyxl
+import difflib
+
+# 載入Excel文件
+wb = openpyxl.load_workbook(r'C:\Users\user\OneDrive\文件\GitHub\Python Excel for Learning\example.xlsx')
+ws = wb.active
+
+# 模糊匹配的關鍵字列表
+keywords = ["Pipe", "Valve", "Bolt", "Nut", "Elbow", "Flange"]
+
+for row in ws.iter_rows(min_row=1, max_row=2, min_col=1, max_col=1):
+    """
+    這一行的說明如下：
+
+for row in ...: 這是一個for循環,它將逐行迭代ws.iter_rows()返回的每一行。
+
+ws.iter_rows(): 這是openpyxl工作表物件的一個方法,它用於迭代工作表中的行。
+
+min_row=1: 這指定從第一行開始迭代。
+
+max_row=ws.max_row: 這指定迭代到工作表中的最後一行。ws.max_row是工作表中的最後一行的行號。
+
+min_col=1, max_col=1: 這指定只迭代第一列,也就是A欄,。因此,您只處理A欄的數據。
+
+在這個for循環中,每次迭代將獲得A欄的一行數據。您可以使用row[0]來訪問該行的單元格值,因為您只迭代了一列。這允許您對A欄中的每個單元格的值進行操作。
+    """
+    
+    cell = row[0]
+    if cell.value is None:
+        print('cell.value: ', cell.value)
+        print(f"Checking value: {cell.value}")
+
+        continue
+    
+    
+    matches = difflib.get_close_matches(cell.value, keywords, n=1, cutoff=0.7)
+    if matches:
+        # 如果找到匹配或相似項目，將其寫入B欄
+        ws.cell(row=cell.row, column=2).value = matches[0]
+
+# 保存修改後的Excel文件
+wb.save('example.xlsx')
+
+
+"""
+input_str = "Pipe, ASME B36.10; Beveled End | ASTM A53-B, Electric Resistance Welded (Ej =0.85); SCH/THK S-STD"
+words = re.split(',|;|\|', input_str)
+print('正在使用#2 ->words: ', words)
+
+translated_words = [closest_translation(word.strip(), word_list) for word in words]
+print(translated_words)
+
+"""
+"""
+words = [
+    "check",
+    "cheese",
+    "chemical",
+    "chemist",
+    "chemistry",
+    "cherish",
+    "cherry",
+    "chess",
+    "chew",
+    "cheek"
+]
+print(difflib.get_close_matches("che", words))
+dilllib.get_close_matches("關鍵字",變數通常為一個要給關鍵字判讀的列表)
+
+
+reference_list:  ["Pipe", "Valve", "Bolt", "Nut", "Elbow", "Flange"]
+
+當 target_word = "Pype"時:
+
+Pype
+||
+Pipe       (相似性很高)
+
+Pype
+||
+Valve      (相似性較低)
+
+Pype
+||
+Bolt       (相似性很低)
+
+
+"""
