@@ -1,6 +1,7 @@
 正在嘗試加載Excel文件...
+找不到文件 C:\Users\a0976\OneDrive\文件\GitHub\Python Excel for Learning\example.xlsx，正在嘗試使用本地資料夾內的 example.xlsx 檔案...
 Excel文件成功加載。
-開始迭代工作表中的{ws.max_row}行...
+開始迭代工作表中的300行...
 正在檢查第1行的單元格，其值為: Description
 exact_match_start沒有匹配值
 re.split的結果為: ['Description']
@@ -378,8 +379,9 @@ in_match沒有匹配值
 正在檢查第70行的單元格，其值為: BLIND FLANGE CL150 RF 125-250 RA-FN CS ASTM A105 W/ HDZ. ASME-B16.5
 exact_match_start沒有匹配值
 re.split的結果為: ['BLIND', 'FLANGE', 'CL150', 'RF', '125', '250', 'RA', 'FN', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '5']
-使用了整體匹配模組，匹配關鍵字為: Blind Flange
-在第70行的單元格中找到了匹配項 Blind Flange。正在將值寫入B列70行。
+正在檢查單詞 BLIND 與關鍵字 Blind 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Blind
+在第70行的單元格中找到了匹配項 Blind。正在將值寫入B列70行。
 正在檢查第71行的單元格，其值為: AI-5-001B_AN
 exact_match_start沒有匹配值
 re.split的結果為: ['AI', '5', '001B_AN']
@@ -1140,6 +1142,7 @@ in_match沒有匹配值
 正在檢查第215行的單元格，其值為: STUB END SMLS BW S-10S SSASTM A403 Gr.WP304 125-250 RA-FN SHORTPARTTERN MSS SP-43
 exact_match_start沒有匹配值
 re.split的結果為: ['STUB', 'END', 'SMLS', 'BW', 'S', '10S', 'SSASTM', 'A403', 'Gr', 'WP304', '125', '250', 'RA', 'FN', 'SHORTPARTTERN', 'MSS', 'SP', '43']
+正在檢查單詞 END 與關鍵字 Bend 的相似度，相似度為 0.8571428571428571
 使用了整體匹配模組，匹配關鍵字為: Stub End
 在第215行的單元格中找到了匹配項 Stub End。正在將值寫入B列215行。
 正在檢查第216行的單元格，其值為: T-5701-P_AN
@@ -1150,6 +1153,7 @@ in_match沒有匹配值
 正在檢查第217行的單元格，其值為: STUB END SMLS BW S-10S SSASTM A403 Gr.WP304 125-250 RA-FN SHORTPARTTERN MSS SP-43
 exact_match_start沒有匹配值
 re.split的結果為: ['STUB', 'END', 'SMLS', 'BW', 'S', '10S', 'SSASTM', 'A403', 'Gr', 'WP304', '125', '250', 'RA', 'FN', 'SHORTPARTTERN', 'MSS', 'SP', '43']
+正在檢查單詞 END 與關鍵字 Bend 的相似度，相似度為 0.8571428571428571
 使用了整體匹配模組，匹配關鍵字為: Stub End
 在第217行的單元格中找到了匹配項 Stub End。正在將值寫入B列217行。
 正在檢查第218行的單元格，其值為: AN-5-008_AN
@@ -1597,8 +1601,9 @@ in_match沒有匹配值
 正在保存Excel文件...
 Excel文件保存成功。
 正在嘗試加載Excel文件...
+找不到文件 C:\Users\a0976\OneDrive\文件\GitHub\Python Excel for Learning\example.xlsx，正在嘗試使用本地資料夾內的 example.xlsx 檔案...
 Excel文件成功加載。
-開始迭代工作表中的{ws.max_row}行...
+開始迭代工作表中的300行...
 正在檢查第1行的單元格，其值為: Description
 exact_match_start沒有匹配值
 re.split的結果為: ['Description']
@@ -1976,8 +1981,9 @@ in_match沒有匹配值
 正在檢查第70行的單元格，其值為: BLIND FLANGE CL150 RF 125-250 RA-FN CS ASTM A105 W/ HDZ. ASME-B16.5
 exact_match_start沒有匹配值
 re.split的結果為: ['BLIND', 'FLANGE', 'CL150', 'RF', '125', '250', 'RA', 'FN', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '5']
-使用了整體匹配模組，匹配關鍵字為: Blind Flange
-在第70行的單元格中找到了匹配項 Blind Flange。正在將值寫入B列70行。
+正在檢查單詞 BLIND 與關鍵字 Blind 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Blind
+在第70行的單元格中找到了匹配項 Blind。正在將值寫入B列70行。
 正在檢查第71行的單元格，其值為: AI-5-001B_AN
 exact_match_start沒有匹配值
 re.split的結果為: ['AI', '5', '001B_AN']
@@ -2738,6 +2744,7 @@ in_match沒有匹配值
 正在檢查第215行的單元格，其值為: STUB END SMLS BW S-10S SSASTM A403 Gr.WP304 125-250 RA-FN SHORTPARTTERN MSS SP-43
 exact_match_start沒有匹配值
 re.split的結果為: ['STUB', 'END', 'SMLS', 'BW', 'S', '10S', 'SSASTM', 'A403', 'Gr', 'WP304', '125', '250', 'RA', 'FN', 'SHORTPARTTERN', 'MSS', 'SP', '43']
+正在檢查單詞 END 與關鍵字 Bend 的相似度，相似度為 0.8571428571428571
 使用了整體匹配模組，匹配關鍵字為: Stub End
 在第215行的單元格中找到了匹配項 Stub End。正在將值寫入B列215行。
 正在檢查第216行的單元格，其值為: T-5701-P_AN
@@ -2748,6 +2755,7 @@ in_match沒有匹配值
 正在檢查第217行的單元格，其值為: STUB END SMLS BW S-10S SSASTM A403 Gr.WP304 125-250 RA-FN SHORTPARTTERN MSS SP-43
 exact_match_start沒有匹配值
 re.split的結果為: ['STUB', 'END', 'SMLS', 'BW', 'S', '10S', 'SSASTM', 'A403', 'Gr', 'WP304', '125', '250', 'RA', 'FN', 'SHORTPARTTERN', 'MSS', 'SP', '43']
+正在檢查單詞 END 與關鍵字 Bend 的相似度，相似度為 0.8571428571428571
 使用了整體匹配模組，匹配關鍵字為: Stub End
 在第217行的單元格中找到了匹配項 Stub End。正在將值寫入B列217行。
 正在檢查第218行的單元格，其值為: AN-5-008_AN
@@ -2924,15 +2932,4 @@ re.split的結果為: ['SUPPORT']
 在第250行的單元格中找到了匹配項 Support。正在將值寫入B列250行。
 正在檢查第251行的單元格，其值為: AN-5-007_AN
 exact_match_start沒有匹配值
-re.split的結果為: ['AN', '5', '007_AN']
-in_match沒有匹配值
-在第251行的單元格中沒有找到匹配項。
-正在檢查第252行的單元格，其值為: WI-5-007_AN
-exact_match_start沒有匹配值
-re.split的結果為: ['WI', '5', '007_AN']
-in_match沒有匹配值
-在第252行的單元格中沒有找到匹配項。
-正在檢查第253行的單元格，其值為: SUPPORT
-exact_match_start沒有匹配值
-re.split的結果為: ['SUPPORT']
-正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+
