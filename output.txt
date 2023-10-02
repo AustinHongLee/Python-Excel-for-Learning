@@ -1,1236 +1,2938 @@
 正在嘗試加載Excel文件...
 Excel文件成功加載。
-開始迭代工作表中的3行...
-正在檢查第1行的單元格，其值為: DESCRIPTION
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-正在進行明確匹配，關鍵字為: Lap Joint Flange
-正在進行明確匹配，關鍵字為: Threaded Flange
-正在進行明確匹配，關鍵字為: Blind Flange
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Ball Valve
-正在進行明確匹配，關鍵字為: Gate Valve
-正在進行明確匹配，關鍵字為: Dual Plate Check Valve
-正在進行明確匹配，關鍵字為: Globe Valve
-正在進行明確匹配，關鍵字為: Needle Valve
-正在進行明確匹配，關鍵字為: Check Valve
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Support
-正在進行明確匹配，關鍵字為: Stub End
-正在進行明確匹配，關鍵字為: Swage Nipple
-正在進行明確匹配，關鍵字為: Spectacle Blind
-正在進行明確匹配，關鍵字為: Orifice Flange
-正在進行明確匹配，關鍵字為: Sockolet
-正在進行明確匹配，關鍵字為: Weldolet
-正在進行明確匹配，關鍵字為: Reducer
-正在進行明確匹配，關鍵字為: Tee
-正在進行模糊匹配，關鍵字為: Pipe，相似度為: 0.13333333333333333
-正在進行模糊匹配，關鍵字為: Bolt，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Nut，相似度為: 0.14285714285714285
-正在進行模糊匹配，關鍵字為: Elbow，相似度為: 0.125
-正在進行模糊匹配，關鍵字為: Gasket，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Nipple，相似度為: 0.11764705882352941
-正在進行模糊匹配，關鍵字為: Union，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Coupling，相似度為: 0.10526315789473684
-正在進行模糊匹配，關鍵字為: Plug，相似度為: 0.13333333333333333
-正在進行模糊匹配，關鍵字為: Cap，相似度為: 0.14285714285714285
-正在進行模糊匹配，關鍵字為: Weld Neck Flange，相似度為: 0.07407407407407407
-正在進行模糊匹配，關鍵字為: Socket Weld Flange，相似度為: 0.06896551724137931
-正在進行模糊匹配，關鍵字為: Slip-On Flange，相似度為: 0.16
-正在進行模糊匹配，關鍵字為: Lap Joint Flange，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Threaded Flange，相似度為: 0.07692307692307693
-正在進行模糊匹配，關鍵字為: Blind Flange，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Ball Valve，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Gate Valve，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Dual Plate Check Valve，相似度為: 0.12121212121212122
-正在進行模糊匹配，關鍵字為: Globe Valve，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Needle Valve，相似度為: 0.08695652173913043
-正在進行模糊匹配，關鍵字為: Check Valve，相似度為: 0.09090909090909091
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Support，相似度為: 0.1111111111111111
-正在進行模糊匹配，關鍵字為: Stub End，相似度為: 0.10526315789473684
-正在進行模糊匹配，關鍵字為: Swage Nipple，相似度為: 0.17391304347826086
-正在進行模糊匹配，關鍵字為: Spectacle Blind，相似度為: 0.07692307692307693
-正在進行模糊匹配，關鍵字為: Orifice Flange，相似度為: 0.08
-正在進行模糊匹配，關鍵字為: Sockolet，相似度為: 0.10526315789473684
-正在進行模糊匹配，關鍵字為: Weldolet，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Reducer，相似度為: 0.1111111111111111
-正在進行模糊匹配，關鍵字為: Tee，相似度為: 0.14285714285714285
+開始迭代工作表中的{ws.max_row}行...
+正在檢查第1行的單元格，其值為: Description
+exact_match_start沒有匹配值
+re.split的結果為: ['Description']
+in_match沒有匹配值
 在第1行的單元格中沒有找到匹配項。
-正在檢查第2行的單元格，其值為: Pipe , ASME B36.10 , Beveled End , ASTM A53-B , Electric Resistance Welded (Ej =0.85), SCH/THK S-STD
-正在進行明確匹配，關鍵字為: Pipe
-在第2行的單元格中找到了匹配項 Pipe。正在將值寫入B列2行。
-正在檢查第3行的單元格，其值為: SockoletR, Reducing , MSS SP-97 , Class 3000 , Socket Welded End , ASTM A105N ,-
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-正在進行明確匹配，關鍵字為: Lap Joint Flange
-正在進行明確匹配，關鍵字為: Threaded Flange
-正在進行明確匹配，關鍵字為: Blind Flange
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Ball Valve
-正在進行明確匹配，關鍵字為: Gate Valve
-正在進行明確匹配，關鍵字為: Dual Plate Check Valve
-正在進行明確匹配，關鍵字為: Globe Valve
-正在進行明確匹配，關鍵字為: Needle Valve
-正在進行明確匹配，關鍵字為: Check Valve
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Support
-正在進行明確匹配，關鍵字為: Stub End
-正在進行明確匹配，關鍵字為: Swage Nipple
-正在進行明確匹配，關鍵字為: Spectacle Blind
-正在進行明確匹配，關鍵字為: Orifice Flange
-正在進行明確匹配，關鍵字為: Sockolet
-在第3行的單元格中找到了匹配項 Sockolet。正在將值寫入B列3行。
-正在檢查第4行的單元格，其值為: 90 Degree Long Radius Elbow , ASME B16.9 , Beveled End , ASTM A234 Grade WPB ,Type W, SCH/THK S-STDERECTION MATERIALS
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-正在進行明確匹配，關鍵字為: Lap Joint Flange
-正在進行明確匹配，關鍵字為: Threaded Flange
-正在進行明確匹配，關鍵字為: Blind Flange
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Ball Valve
-正在進行明確匹配，關鍵字為: Gate Valve
-正在進行明確匹配，關鍵字為: Dual Plate Check Valve
-正在進行明確匹配，關鍵字為: Globe Valve
-正在進行明確匹配，關鍵字為: Needle Valve
-正在進行明確匹配，關鍵字為: Check Valve
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Support
-正在進行明確匹配，關鍵字為: Stub End
-正在進行明確匹配，關鍵字為: Swage Nipple
-正在進行明確匹配，關鍵字為: Spectacle Blind
-正在進行明確匹配，關鍵字為: Orifice Flange
-正在進行明確匹配，關鍵字為: Sockolet
-正在進行明確匹配，關鍵字為: Weldolet
-正在進行明確匹配，關鍵字為: Reducer
-正在進行明確匹配，關鍵字為: Tee
-正在進行模糊匹配，關鍵字為: Pipe，相似度為: 0.049586776859504134
-正在進行模糊匹配，關鍵字為: Bolt，相似度為: 0.03305785123966942
-正在進行模糊匹配，關鍵字為: Nut，相似度為: 0.016666666666666666
-正在進行模糊匹配，關鍵字為: Elbow，相似度為: 0.08196721311475409
-正在進行模糊匹配，關鍵字為: Gasket，相似度為: 0.04878048780487805
-正在進行模糊匹配，關鍵字為: Nipple，相似度為: 0.04878048780487805
-正在進行模糊匹配，關鍵字為: Union，相似度為: 0.03278688524590164
-正在進行模糊匹配，關鍵字為: Coupling，相似度為: 0.048
-正在進行模糊匹配，關鍵字為: Plug，相似度為: 0.01652892561983471
-正在進行模糊匹配，關鍵字為: Cap，相似度為: 0.016666666666666666
-正在進行模糊匹配，關鍵字為: Weld Neck Flange，相似度為: 0.09022556390977443
-正在進行模糊匹配，關鍵字為: Socket Weld Flange，相似度為: 0.08888888888888889
-正在進行模糊匹配，關鍵字為: Slip-On Flange，相似度為: 0.061068702290076333
-正在進行模糊匹配，關鍵字為: Lap Joint Flange，相似度為: 0.07518796992481203
-正在進行模糊匹配，關鍵字為: Threaded Flange，相似度為: 0.10606060606060606
-正在進行模糊匹配，關鍵字為: Blind Flange，相似度為: 0.10852713178294573
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.06060606060606061
-正在進行模糊匹配，關鍵字為: Ball Valve，相似度為: 0.06299212598425197
-正在進行模糊匹配，關鍵字為: Gate Valve，相似度為: 0.09448818897637795
-正在進行模糊匹配，關鍵字為: Dual Plate Check Valve，相似度為: 0.08633093525179857
-正在進行模糊匹配，關鍵字為: Globe Valve，相似度為: 0.09375
-正在進行模糊匹配，關鍵字為: Needle Valve，相似度為: 0.12403100775193798
-正在進行模糊匹配，關鍵字為: Check Valve，相似度為: 0.09375
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.06060606060606061
-正在進行模糊匹配，關鍵字為: Support，相似度為: 0.03225806451612903
-正在進行模糊匹配，關鍵字為: Stub End，相似度為: 0.08
-正在進行模糊匹配，關鍵字為: Swage Nipple，相似度為: 0.09302325581395349
-正在進行模糊匹配，關鍵字為: Spectacle Blind，相似度為: 0.06060606060606061
-正在進行模糊匹配，關鍵字為: Orifice Flange，相似度為: 0.0916030534351145
-正在進行模糊匹配，關鍵字為: Sockolet，相似度為: 0.048
-正在進行模糊匹配，關鍵字為: Weldolet，相似度為: 0.064
-正在進行模糊匹配，關鍵字為: Reducer，相似度為: 0.06451612903225806
-正在進行模糊匹配，關鍵字為: Tee，相似度為: 0.03333333333333333
-在第4行的單元格中沒有找到匹配項。
-正在檢查第5行的單元格，其值為: Nipple , ASME B36.10 , Plain End x Male Threaded End , ASTM A106-B , 4in Long ,Seamless, SCH/THK S-XS
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-在第5行的單元格中找到了匹配項 Nipple。正在將值寫入B列5行。
-正在檢查第6行的單元格，其值為: Plug Hexagonal Head , ASME B16.11 , Male Threaded End , ASTM A105N
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-在第6行的單元格中找到了匹配項 Plug。正在將值寫入B列6行。
-正在檢查第7行的單元格，其值為: Slip-On Flange , ASME B16.5 , Class 150 , Flat-face flanged end , ASTM A105N ,-
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-在第7行的單元格中找到了匹配項 Slip-On Flange。正在將值寫入B列7行。
-正在檢查第8行的單元格，其值為: Stud Bolt (IN-MM) - , ASTM A193 Grade B7 , Studs - 145 mm Length
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-正在進行明確匹配，關鍵字為: Lap Joint Flange
-正在進行明確匹配，關鍵字為: Threaded Flange
-正在進行明確匹配，關鍵字為: Blind Flange
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Ball Valve
-正在進行明確匹配，關鍵字為: Gate Valve
-正在進行明確匹配，關鍵字為: Dual Plate Check Valve
-正在進行明確匹配，關鍵字為: Globe Valve
-正在進行明確匹配，關鍵字為: Needle Valve
-正在進行明確匹配，關鍵字為: Check Valve
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Support
-正在進行明確匹配，關鍵字為: Stub End
-正在進行明確匹配，關鍵字為: Swage Nipple
-正在進行明確匹配，關鍵字為: Spectacle Blind
-正在進行明確匹配，關鍵字為: Orifice Flange
-正在進行明確匹配，關鍵字為: Sockolet
-正在進行明確匹配，關鍵字為: Weldolet
-正在進行明確匹配，關鍵字為: Reducer
-正在進行明確匹配，關鍵字為: Tee
-正在進行模糊匹配，關鍵字為: Pipe，相似度為: 0.029411764705882353
-正在進行模糊匹配，關鍵字為: Bolt，相似度為: 0.11764705882352941
-正在進行模糊匹配，關鍵字為: Nut，相似度為: 0.08955223880597014
-正在進行模糊匹配，關鍵字為: Elbow，相似度為: 0.028985507246376812
-正在進行模糊匹配，關鍵字為: Gasket，相似度為: 0.14285714285714285
-正在進行模糊匹配，關鍵字為: Nipple，相似度為: 0.05714285714285714
-正在進行模糊匹配，關鍵字為: Union，相似度為: 0.028985507246376812
-正在進行模糊匹配，關鍵字為: Coupling，相似度為: 0.1111111111111111
-正在進行模糊匹配，關鍵字為: Plug，相似度為: 0.08823529411764706
-正在進行模糊匹配，關鍵字為: Cap，相似度為: 0.029850746268656716
-正在進行模糊匹配，關鍵字為: Weld Neck Flange，相似度為: 0.175
-正在進行模糊匹配，關鍵字為: Socket Weld Flange，相似度為: 0.21951219512195122
-正在進行模糊匹配，關鍵字為: Slip-On Flange，相似度為: 0.1794871794871795
-正在進行模糊匹配，關鍵字為: Lap Joint Flange，相似度為: 0.175
-正在進行模糊匹配，關鍵字為: Threaded Flange，相似度為: 0.22784810126582278
-正在進行模糊匹配，關鍵字為: Blind Flange，相似度為: 0.15789473684210525
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.0759493670886076
-正在進行模糊匹配，關鍵字為: Ball Valve，相似度為: 0.10810810810810811
-正在進行模糊匹配，關鍵字為: Gate Valve，相似度為: 0.13513513513513514
-正在進行模糊匹配，關鍵字為: Dual Plate Check Valve，相似度為: 0.11627906976744186
-正在進行模糊匹配，關鍵字為: Globe Valve，相似度為: 0.10666666666666667
-正在進行模糊匹配，關鍵字為: Needle Valve，相似度為: 0.13157894736842105
-正在進行模糊匹配，關鍵字為: Check Valve，相似度為: 0.02666666666666667
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.0759493670886076
-正在進行模糊匹配，關鍵字為: Support，相似度為: 0.14084507042253522
-正在進行模糊匹配，關鍵字為: Stub End，相似度為: 0.1388888888888889
-正在進行模糊匹配，關鍵字為: Swage Nipple，相似度為: 0.13157894736842105
-正在進行模糊匹配，關鍵字為: Spectacle Blind，相似度為: 0.17721518987341772
-正在進行模糊匹配，關鍵字為: Orifice Flange，相似度為: 0.1282051282051282
-正在進行模糊匹配，關鍵字為: Sockolet，相似度為: 0.1388888888888889
-正在進行模糊匹配，關鍵字為: Weldolet，相似度為: 0.1388888888888889
-正在進行模糊匹配，關鍵字為: Reducer，相似度為: 0.08450704225352113
-正在進行模糊匹配，關鍵字為: Tee，相似度為: 0.08955223880597014
-在第8行的單元格中沒有找到匹配項。
-正在檢查第9行的單元格，其值為: Hexagonal Head Nut , ASME B18.2.2 Heavy Hex , ASTM A563 Grade A
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-正在進行明確匹配，關鍵字為: Lap Joint Flange
-正在進行明確匹配，關鍵字為: Threaded Flange
-正在進行明確匹配，關鍵字為: Blind Flange
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Ball Valve
-正在進行明確匹配，關鍵字為: Gate Valve
-正在進行明確匹配，關鍵字為: Dual Plate Check Valve
-正在進行明確匹配，關鍵字為: Globe Valve
-正在進行明確匹配，關鍵字為: Needle Valve
-正在進行明確匹配，關鍵字為: Check Valve
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Support
-正在進行明確匹配，關鍵字為: Stub End
-正在進行明確匹配，關鍵字為: Swage Nipple
-正在進行明確匹配，關鍵字為: Spectacle Blind
-正在進行明確匹配，關鍵字為: Orifice Flange
-正在進行明確匹配，關鍵字為: Sockolet
-正在進行明確匹配，關鍵字為: Weldolet
-正在進行明確匹配，關鍵字為: Reducer
-正在進行明確匹配，關鍵字為: Tee
-正在進行模糊匹配，關鍵字為: Pipe，相似度為: 0.029850746268656716
-正在進行模糊匹配，關鍵字為: Bolt，相似度為: 0.029850746268656716
-正在進行模糊匹配，關鍵字為: Nut，相似度為: 0.09090909090909091
-正在進行模糊匹配，關鍵字為: Elbow，相似度為: 0.029411764705882353
-正在進行模糊匹配，關鍵字為: Gasket，相似度為: 0.08695652173913043
-正在進行模糊匹配，關鍵字為: Nipple，相似度為: 0.057971014492753624
-正在進行模糊匹配，關鍵字為: Union，相似度為: 0.058823529411764705
-正在進行模糊匹配，關鍵字為: Coupling，相似度為: 0.056338028169014086
-正在進行模糊匹配，關鍵字為: Plug，相似度為: 0.05970149253731343
-正在進行模糊匹配，關鍵字為: Cap，相似度為: 0.030303030303030304
-正在進行模糊匹配，關鍵字為: Weld Neck Flange，相似度為: 0.22784810126582278
-正在進行模糊匹配，關鍵字為: Socket Weld Flange，相似度為: 0.1728395061728395
-正在進行模糊匹配，關鍵字為: Slip-On Flange，相似度為: 0.1038961038961039
-正在進行模糊匹配，關鍵字為: Lap Joint Flange，相似度為: 0.1518987341772152
-正在進行模糊匹配，關鍵字為: Threaded Flange，相似度為: 0.15384615384615385
-正在進行模糊匹配，關鍵字為: Blind Flange，相似度為: 0.13333333333333333
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.1794871794871795
-正在進行模糊匹配，關鍵字為: Ball Valve，相似度為: 0.1643835616438356
-正在進行模糊匹配，關鍵字為: Gate Valve，相似度為: 0.1095890410958904
-正在進行模糊匹配，關鍵字為: Dual Plate Check Valve，相似度為: 0.16470588235294117
-正在進行模糊匹配，關鍵字為: Globe Valve，相似度為: 0.08108108108108109
-正在進行模糊匹配，關鍵字為: Needle Valve，相似度為: 0.16
-正在進行模糊匹配，關鍵字為: Check Valve，相似度為: 0.13513513513513514
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.1794871794871795
-正在進行模糊匹配，關鍵字為: Support，相似度為: 0.05714285714285714
-正在進行模糊匹配，關鍵字為: Stub End，相似度為: 0.08450704225352113
-正在進行模糊匹配，關鍵字為: Swage Nipple，相似度為: 0.10666666666666667
-正在進行模糊匹配，關鍵字為: Spectacle Blind，相似度為: 0.1282051282051282
-正在進行模糊匹配，關鍵字為: Orifice Flange，相似度為: 0.07792207792207792
-正在進行模糊匹配，關鍵字為: Sockolet，相似度為: 0.056338028169014086
-正在進行模糊匹配，關鍵字為: Weldolet，相似度為: 0.11267605633802817
-正在進行模糊匹配，關鍵字為: Reducer，相似度為: 0.14285714285714285
-正在進行模糊匹配，關鍵字為: Tee，相似度為: 0.06060606060606061
+正在檢查第2行的單元格，其值為: 130 mm BOLT & NUT UNC STUD AS ASTM A193 Gr.B7 W /TWO HEAVY HEX NUTS W/ ZINC-CHROMEATE COATING ASTM A194 Gr.2H ASME/ANSI B1.1 B18.2.2
+exact_match_start沒有匹配值
+re.split的結果為: ['130', 'mm', 'BOLT', '&', 'NUT', 'UNC', 'STUD', 'AS', 'ASTM', 'A193', 'Gr', 'B7', 'W', '/TWO', 'HEAVY', 'HEX', 'NUTS', 'W/', 'ZINC', 'CHROMEATE', 'COATING', 'ASTM', 'A194', 'Gr', '2H', 'ASME/ANSI', 'B1', '1', 'B18', '2', '2']
+正在檢查單詞 BOLT 與關鍵字 Bolt 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Bolt
+在第2行的單元格中找到了匹配項 Bolt。正在將值寫入B列2行。
+正在檢查第3行的單元格，其值為: T-5701-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'N3_AN']
+in_match沒有匹配值
+在第3行的單元格中沒有找到匹配項。
+正在檢查第4行的單元格，其值為: 75 mm BOLT & NUT UNC STUD AS ASTM A193 Gr.B7 W/ TWO HEAVY HEX NUTS ASTM A194 Gr.2H W/ HDZ. ASME/ANSI B1.1 B18.2.2
+exact_match_start沒有匹配值
+re.split的結果為: ['75', 'mm', 'BOLT', '&', 'NUT', 'UNC', 'STUD', 'AS', 'ASTM', 'A193', 'Gr', 'B7', 'W/', 'TWO', 'HEAVY', 'HEX', 'NUTS', 'ASTM', 'A194', 'Gr', '2H', 'W/', 'HDZ', 'ASME/ANSI', 'B1', '1', 'B18', '2', '2']
+正在檢查單詞 BOLT 與關鍵字 Bolt 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Bolt
+在第4行的單元格中找到了匹配項 Bolt。正在將值寫入B列4行。
+正在檢查第5行的單元格，其值為: WI-5-009_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '009_AN']
+in_match沒有匹配值
+在第5行的單元格中沒有找到匹配項。
+正在檢查第6行的單元格，其值為: 85 mm BOLT & NUT UNC STUD AS ASTM A193 Gr.B7 W/ TWO HEAVY HEX NUTS ASTM A194 Gr.2H W/ HDZ. ASME/ANSI B1.1 B18.2.2
+exact_match_start沒有匹配值
+re.split的結果為: ['85', 'mm', 'BOLT', '&', 'NUT', 'UNC', 'STUD', 'AS', 'ASTM', 'A193', 'Gr', 'B7', 'W/', 'TWO', 'HEAVY', 'HEX', 'NUTS', 'ASTM', 'A194', 'Gr', '2H', 'W/', 'HDZ', 'ASME/ANSI', 'B1', '1', 'B18', '2', '2']
+正在檢查單詞 BOLT 與關鍵字 Bolt 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Bolt
+在第6行的單元格中找到了匹配項 Bolt。正在將值寫入B列6行。
+正在檢查第7行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第7行的單元格中沒有找到匹配項。
+正在檢查第8行的單元格，其值為: FULL COUPLING CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['FULL', 'COUPLING', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 COUPLING 與關鍵字 Coupling 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Coupling
+在第8行的單元格中找到了匹配項 Coupling。正在將值寫入B列8行。
+正在檢查第9行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
 在第9行的單元格中沒有找到匹配項。
-正在檢查第10行的單元格，其值為: Butterfly Valve, Wafer Type , API 609 Category A , 150 psig , Flat Facew/Integral Gaskets , Manual gearoperator , ASTM A126 Grade B or A536Grade 65-45-12 , Nylon Coated Disc ,EPDM Sleeve , Stainless Steel Stem ,Standard Clean (SC) acc. to 4WPI-SW70001
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-正在進行明確匹配，關鍵字為: Lap Joint Flange
-正在進行明確匹配，關鍵字為: Threaded Flange
-正在進行明確匹配，關鍵字為: Blind Flange
-正在進行明確匹配，關鍵字為: Butterfly Valve
-在第10行的單元格中找到了匹配項 Butterfly Valve。正在將值寫入B列10行。
-正在檢查第11行的單元格，其值為: Ball Valve , Generic manufacturer , 600 psig , Female Threaded End , Two PieceFloating Ball , Lever Operator , Bronzeor Brass Body , Bronze or Bronze Trim ,PTFE Packing , PTFE Seat , StandardClean (SC) acc. to 4WPI-SW70001
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-正在進行明確匹配，關鍵字為: Lap Joint Flange
-正在進行明確匹配，關鍵字為: Threaded Flange
-正在進行明確匹配，關鍵字為: Blind Flange
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Ball Valve
-在第11行的單元格中找到了匹配項 Ball Valve。正在將值寫入B列11行。
-正在檢查第12行的單元格，其值為: SEE PIPING SUPPORT INDEX 
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-正在進行明確匹配，關鍵字為: Lap Joint Flange
-正在進行明確匹配，關鍵字為: Threaded Flange
-正在進行明確匹配，關鍵字為: Blind Flange
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Ball Valve
-正在進行明確匹配，關鍵字為: Gate Valve
-正在進行明確匹配，關鍵字為: Dual Plate Check Valve
-正在進行明確匹配，關鍵字為: Globe Valve
-正在進行明確匹配，關鍵字為: Needle Valve
-正在進行明確匹配，關鍵字為: Check Valve
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Support
-正在進行明確匹配，關鍵字為: Stub End
-正在進行明確匹配，關鍵字為: Swage Nipple
-正在進行明確匹配，關鍵字為: Spectacle Blind
-正在進行明確匹配，關鍵字為: Orifice Flange
-正在進行明確匹配，關鍵字為: Sockolet
-正在進行明確匹配，關鍵字為: Weldolet
-正在進行明確匹配，關鍵字為: Reducer
-正在進行明確匹配，關鍵字為: Tee
-正在進行模糊匹配，關鍵字為: Pipe，相似度為: 0.06896551724137931
-正在進行模糊匹配，關鍵字為: Bolt，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Nut，相似度為: 0.07142857142857142
-正在進行模糊匹配，關鍵字為: Elbow，相似度為: 0.06666666666666667
-正在進行模糊匹配，關鍵字為: Gasket，相似度為: 0.06451612903225806
-正在進行模糊匹配，關鍵字為: Nipple，相似度為: 0.06451612903225806
-正在進行模糊匹配，關鍵字為: Union，相似度為: 0.06666666666666667
-正在進行模糊匹配，關鍵字為: Coupling，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Plug，相似度為: 0.06896551724137931
-正在進行模糊匹配，關鍵字為: Cap，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Weld Neck Flange，相似度為: 0.14634146341463414
-正在進行模糊匹配，關鍵字為: Socket Weld Flange，相似度為: 0.13953488372093023
-正在進行模糊匹配，關鍵字為: Slip-On Flange，相似度為: 0.15384615384615385
-正在進行模糊匹配，關鍵字為: Lap Joint Flange，相似度為: 0.0975609756097561
-正在進行模糊匹配，關鍵字為: Threaded Flange，相似度為: 0.1
-正在進行模糊匹配，關鍵字為: Blind Flange，相似度為: 0.05405405405405406
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.05
-正在進行模糊匹配，關鍵字為: Ball Valve，相似度為: 0.05714285714285714
-正在進行模糊匹配，關鍵字為: Gate Valve，相似度為: 0.11428571428571428
-正在進行模糊匹配，關鍵字為: Dual Plate Check Valve，相似度為: 0.1702127659574468
-正在進行模糊匹配，關鍵字為: Globe Valve，相似度為: 0.1111111111111111
-正在進行模糊匹配，關鍵字為: Needle Valve，相似度為: 0.10810810810810811
-正在進行模糊匹配，關鍵字為: Check Valve，相似度為: 0.05555555555555555
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.05
-正在進行模糊匹配，關鍵字為: Support，相似度為: 0.0625
-正在進行模糊匹配，關鍵字為: Stub End，相似度為: 0.18181818181818182
-正在進行模糊匹配，關鍵字為: Swage Nipple，相似度為: 0.16216216216216217
-正在進行模糊匹配，關鍵字為: Spectacle Blind，相似度為: 0.1
-正在進行模糊匹配，關鍵字為: Orifice Flange，相似度為: 0.10256410256410256
-正在進行模糊匹配，關鍵字為: Sockolet，相似度為: 0.06060606060606061
-正在進行模糊匹配，關鍵字為: Weldolet，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Reducer，相似度為: 0.0625
-正在進行模糊匹配，關鍵字為: Tee，相似度為: 0.07142857142857142
-在第12行的單元格中沒有找到匹配項。
-正在檢查第13行的單元格，其值為: SEE PIPING SUPPORT INDEX 
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-正在進行明確匹配，關鍵字為: Lap Joint Flange
-正在進行明確匹配，關鍵字為: Threaded Flange
-正在進行明確匹配，關鍵字為: Blind Flange
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Ball Valve
-正在進行明確匹配，關鍵字為: Gate Valve
-正在進行明確匹配，關鍵字為: Dual Plate Check Valve
-正在進行明確匹配，關鍵字為: Globe Valve
-正在進行明確匹配，關鍵字為: Needle Valve
-正在進行明確匹配，關鍵字為: Check Valve
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Support
-正在進行明確匹配，關鍵字為: Stub End
-正在進行明確匹配，關鍵字為: Swage Nipple
-正在進行明確匹配，關鍵字為: Spectacle Blind
-正在進行明確匹配，關鍵字為: Orifice Flange
-正在進行明確匹配，關鍵字為: Sockolet
-正在進行明確匹配，關鍵字為: Weldolet
-正在進行明確匹配，關鍵字為: Reducer
-正在進行明確匹配，關鍵字為: Tee
-正在進行模糊匹配，關鍵字為: Pipe，相似度為: 0.06896551724137931
-正在進行模糊匹配，關鍵字為: Bolt，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Nut，相似度為: 0.07142857142857142
-正在進行模糊匹配，關鍵字為: Elbow，相似度為: 0.06666666666666667
-正在進行模糊匹配，關鍵字為: Gasket，相似度為: 0.06451612903225806
-正在進行模糊匹配，關鍵字為: Nipple，相似度為: 0.06451612903225806
-正在進行模糊匹配，關鍵字為: Union，相似度為: 0.06666666666666667
-正在進行模糊匹配，關鍵字為: Coupling，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Plug，相似度為: 0.06896551724137931
-正在進行模糊匹配，關鍵字為: Cap，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Weld Neck Flange，相似度為: 0.14634146341463414
-正在進行模糊匹配，關鍵字為: Socket Weld Flange，相似度為: 0.13953488372093023
-正在進行模糊匹配，關鍵字為: Slip-On Flange，相似度為: 0.15384615384615385
-正在進行模糊匹配，關鍵字為: Lap Joint Flange，相似度為: 0.0975609756097561
-正在進行模糊匹配，關鍵字為: Threaded Flange，相似度為: 0.1
-正在進行模糊匹配，關鍵字為: Blind Flange，相似度為: 0.05405405405405406
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.05
-正在進行模糊匹配，關鍵字為: Ball Valve，相似度為: 0.05714285714285714
-正在進行模糊匹配，關鍵字為: Gate Valve，相似度為: 0.11428571428571428
-正在進行模糊匹配，關鍵字為: Dual Plate Check Valve，相似度為: 0.1702127659574468
-正在進行模糊匹配，關鍵字為: Globe Valve，相似度為: 0.1111111111111111
-正在進行模糊匹配，關鍵字為: Needle Valve，相似度為: 0.10810810810810811
-正在進行模糊匹配，關鍵字為: Check Valve，相似度為: 0.05555555555555555
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.05
-正在進行模糊匹配，關鍵字為: Support，相似度為: 0.0625
-正在進行模糊匹配，關鍵字為: Stub End，相似度為: 0.18181818181818182
-正在進行模糊匹配，關鍵字為: Swage Nipple，相似度為: 0.16216216216216217
-正在進行模糊匹配，關鍵字為: Spectacle Blind，相似度為: 0.1
-正在進行模糊匹配，關鍵字為: Orifice Flange，相似度為: 0.10256410256410256
-正在進行模糊匹配，關鍵字為: Sockolet，相似度為: 0.06060606060606061
-正在進行模糊匹配，關鍵字為: Weldolet，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Reducer，相似度為: 0.0625
-正在進行模糊匹配，關鍵字為: Tee，相似度為: 0.07142857142857142
+正在檢查第10行的單元格，其值為: FULL COUPLING CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['FULL', 'COUPLING', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 COUPLING 與關鍵字 Coupling 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Coupling
+在第10行的單元格中找到了匹配項 Coupling。正在將值寫入B列10行。
+正在檢查第11行的單元格，其值為: WI-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '008_AN']
+in_match沒有匹配值
+在第11行的單元格中沒有找到匹配項。
+正在檢查第12行的單元格，其值為: CAP CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['CAP', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 CAP 與關鍵字 Cap 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Cap
+在第12行的單元格中找到了匹配項 Cap。正在將值寫入B列12行。
+正在檢查第13行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
 在第13行的單元格中沒有找到匹配項。
-正在檢查第14行的單元格，其值為: WeldoletR Reducing , MSS SP-97 , Beveled End , ASTM A105N -, SCH/THK S-STD
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-正在進行明確匹配，關鍵字為: Lap Joint Flange
-正在進行明確匹配，關鍵字為: Threaded Flange
-正在進行明確匹配，關鍵字為: Blind Flange
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Ball Valve
-正在進行明確匹配，關鍵字為: Gate Valve
-正在進行明確匹配，關鍵字為: Dual Plate Check Valve
-正在進行明確匹配，關鍵字為: Globe Valve
-正在進行明確匹配，關鍵字為: Needle Valve
-正在進行明確匹配，關鍵字為: Check Valve
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Support
-正在進行明確匹配，關鍵字為: Stub End
-正在進行明確匹配，關鍵字為: Swage Nipple
-正在進行明確匹配，關鍵字為: Spectacle Blind
-正在進行明確匹配，關鍵字為: Orifice Flange
-正在進行明確匹配，關鍵字為: Sockolet
-正在進行明確匹配，關鍵字為: Weldolet
-在第14行的單元格中找到了匹配項 Weldolet。正在將值寫入B列14行。
-正在檢查第15行的單元格，其值為: WeldoletR Reducing , MSS SP-97 , Beveled End , ASTM A105N -, SCH/THK S-STD
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-正在進行明確匹配，關鍵字為: Lap Joint Flange
-正在進行明確匹配，關鍵字為: Threaded Flange
-正在進行明確匹配，關鍵字為: Blind Flange
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Ball Valve
-正在進行明確匹配，關鍵字為: Gate Valve
-正在進行明確匹配，關鍵字為: Dual Plate Check Valve
-正在進行明確匹配，關鍵字為: Globe Valve
-正在進行明確匹配，關鍵字為: Needle Valve
-正在進行明確匹配，關鍵字為: Check Valve
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Support
-正在進行明確匹配，關鍵字為: Stub End
-正在進行明確匹配，關鍵字為: Swage Nipple
-正在進行明確匹配，關鍵字為: Spectacle Blind
-正在進行明確匹配，關鍵字為: Orifice Flange
-正在進行明確匹配，關鍵字為: Sockolet
-正在進行明確匹配，關鍵字為: Weldolet
-在第15行的單元格中找到了匹配項 Weldolet。正在將值寫入B列15行。
-正在檢查第16行的單元格，其值為: SEE PIPING SUPPORT INDEX 
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-正在進行明確匹配，關鍵字為: Lap Joint Flange
-正在進行明確匹配，關鍵字為: Threaded Flange
-正在進行明確匹配，關鍵字為: Blind Flange
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Ball Valve
-正在進行明確匹配，關鍵字為: Gate Valve
-正在進行明確匹配，關鍵字為: Dual Plate Check Valve
-正在進行明確匹配，關鍵字為: Globe Valve
-正在進行明確匹配，關鍵字為: Needle Valve
-正在進行明確匹配，關鍵字為: Check Valve
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Support
-正在進行明確匹配，關鍵字為: Stub End
-正在進行明確匹配，關鍵字為: Swage Nipple
-正在進行明確匹配，關鍵字為: Spectacle Blind
-正在進行明確匹配，關鍵字為: Orifice Flange
-正在進行明確匹配，關鍵字為: Sockolet
-正在進行明確匹配，關鍵字為: Weldolet
-正在進行明確匹配，關鍵字為: Reducer
-正在進行明確匹配，關鍵字為: Tee
-正在進行模糊匹配，關鍵字為: Pipe，相似度為: 0.06896551724137931
-正在進行模糊匹配，關鍵字為: Bolt，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Nut，相似度為: 0.07142857142857142
-正在進行模糊匹配，關鍵字為: Elbow，相似度為: 0.06666666666666667
-正在進行模糊匹配，關鍵字為: Gasket，相似度為: 0.06451612903225806
-正在進行模糊匹配，關鍵字為: Nipple，相似度為: 0.06451612903225806
-正在進行模糊匹配，關鍵字為: Union，相似度為: 0.06666666666666667
-正在進行模糊匹配，關鍵字為: Coupling，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Plug，相似度為: 0.06896551724137931
-正在進行模糊匹配，關鍵字為: Cap，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Weld Neck Flange，相似度為: 0.14634146341463414
-正在進行模糊匹配，關鍵字為: Socket Weld Flange，相似度為: 0.13953488372093023
-正在進行模糊匹配，關鍵字為: Slip-On Flange，相似度為: 0.15384615384615385
-正在進行模糊匹配，關鍵字為: Lap Joint Flange，相似度為: 0.0975609756097561
-正在進行模糊匹配，關鍵字為: Threaded Flange，相似度為: 0.1
-正在進行模糊匹配，關鍵字為: Blind Flange，相似度為: 0.05405405405405406
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.05
-正在進行模糊匹配，關鍵字為: Ball Valve，相似度為: 0.05714285714285714
-正在進行模糊匹配，關鍵字為: Gate Valve，相似度為: 0.11428571428571428
-正在進行模糊匹配，關鍵字為: Dual Plate Check Valve，相似度為: 0.1702127659574468
-正在進行模糊匹配，關鍵字為: Globe Valve，相似度為: 0.1111111111111111
-正在進行模糊匹配，關鍵字為: Needle Valve，相似度為: 0.10810810810810811
-正在進行模糊匹配，關鍵字為: Check Valve，相似度為: 0.05555555555555555
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.05
-正在進行模糊匹配，關鍵字為: Support，相似度為: 0.0625
-正在進行模糊匹配，關鍵字為: Stub End，相似度為: 0.18181818181818182
-正在進行模糊匹配，關鍵字為: Swage Nipple，相似度為: 0.16216216216216217
-正在進行模糊匹配，關鍵字為: Spectacle Blind，相似度為: 0.1
-正在進行模糊匹配，關鍵字為: Orifice Flange，相似度為: 0.10256410256410256
-正在進行模糊匹配，關鍵字為: Sockolet，相似度為: 0.06060606060606061
-正在進行模糊匹配，關鍵字為: Weldolet，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Reducer，相似度為: 0.0625
-正在進行模糊匹配，關鍵字為: Tee，相似度為: 0.07142857142857142
-在第16行的單元格中沒有找到匹配項。
-正在檢查第17行的單元格，其值為: SEE PIPING SUPPORT INDEX 
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-正在進行明確匹配，關鍵字為: Lap Joint Flange
-正在進行明確匹配，關鍵字為: Threaded Flange
-正在進行明確匹配，關鍵字為: Blind Flange
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Ball Valve
-正在進行明確匹配，關鍵字為: Gate Valve
-正在進行明確匹配，關鍵字為: Dual Plate Check Valve
-正在進行明確匹配，關鍵字為: Globe Valve
-正在進行明確匹配，關鍵字為: Needle Valve
-正在進行明確匹配，關鍵字為: Check Valve
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Support
-正在進行明確匹配，關鍵字為: Stub End
-正在進行明確匹配，關鍵字為: Swage Nipple
-正在進行明確匹配，關鍵字為: Spectacle Blind
-正在進行明確匹配，關鍵字為: Orifice Flange
-正在進行明確匹配，關鍵字為: Sockolet
-正在進行明確匹配，關鍵字為: Weldolet
-正在進行明確匹配，關鍵字為: Reducer
-正在進行明確匹配，關鍵字為: Tee
-正在進行模糊匹配，關鍵字為: Pipe，相似度為: 0.06896551724137931
-正在進行模糊匹配，關鍵字為: Bolt，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Nut，相似度為: 0.07142857142857142
-正在進行模糊匹配，關鍵字為: Elbow，相似度為: 0.06666666666666667
-正在進行模糊匹配，關鍵字為: Gasket，相似度為: 0.06451612903225806
-正在進行模糊匹配，關鍵字為: Nipple，相似度為: 0.06451612903225806
-正在進行模糊匹配，關鍵字為: Union，相似度為: 0.06666666666666667
-正在進行模糊匹配，關鍵字為: Coupling，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Plug，相似度為: 0.06896551724137931
-正在進行模糊匹配，關鍵字為: Cap，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Weld Neck Flange，相似度為: 0.14634146341463414
-正在進行模糊匹配，關鍵字為: Socket Weld Flange，相似度為: 0.13953488372093023
-正在進行模糊匹配，關鍵字為: Slip-On Flange，相似度為: 0.15384615384615385
-正在進行模糊匹配，關鍵字為: Lap Joint Flange，相似度為: 0.0975609756097561
-正在進行模糊匹配，關鍵字為: Threaded Flange，相似度為: 0.1
-正在進行模糊匹配，關鍵字為: Blind Flange，相似度為: 0.05405405405405406
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.05
-正在進行模糊匹配，關鍵字為: Ball Valve，相似度為: 0.05714285714285714
-正在進行模糊匹配，關鍵字為: Gate Valve，相似度為: 0.11428571428571428
-正在進行模糊匹配，關鍵字為: Dual Plate Check Valve，相似度為: 0.1702127659574468
-正在進行模糊匹配，關鍵字為: Globe Valve，相似度為: 0.1111111111111111
-正在進行模糊匹配，關鍵字為: Needle Valve，相似度為: 0.10810810810810811
-正在進行模糊匹配，關鍵字為: Check Valve，相似度為: 0.05555555555555555
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.05
-正在進行模糊匹配，關鍵字為: Support，相似度為: 0.0625
-正在進行模糊匹配，關鍵字為: Stub End，相似度為: 0.18181818181818182
-正在進行模糊匹配，關鍵字為: Swage Nipple，相似度為: 0.16216216216216217
-正在進行模糊匹配，關鍵字為: Spectacle Blind，相似度為: 0.1
-正在進行模糊匹配，關鍵字為: Orifice Flange，相似度為: 0.10256410256410256
-正在進行模糊匹配，關鍵字為: Sockolet，相似度為: 0.06060606060606061
-正在進行模糊匹配，關鍵字為: Weldolet，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Reducer，相似度為: 0.0625
-正在進行模糊匹配，關鍵字為: Tee，相似度為: 0.07142857142857142
+正在檢查第14行的單元格，其值為: 90 ELBOW CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['90', 'ELBOW', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第14行的單元格中找到了匹配項 Elbow。正在將值寫入B列14行。
+正在檢查第15行的單元格，其值為: WI-5-009_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '009_AN']
+in_match沒有匹配值
+在第15行的單元格中沒有找到匹配項。
+正在檢查第16行的單元格，其值為: 45 ELBOW CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['45', 'ELBOW', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第16行的單元格中找到了匹配項 Elbow。正在將值寫入B列16行。
+正在檢查第17行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
 在第17行的單元格中沒有找到匹配項。
-正在檢查第18行的單元格，其值為: SEE PIPING SUPPORT INDEX 
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-正在進行明確匹配，關鍵字為: Lap Joint Flange
-正在進行明確匹配，關鍵字為: Threaded Flange
-正在進行明確匹配，關鍵字為: Blind Flange
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Ball Valve
-正在進行明確匹配，關鍵字為: Gate Valve
-正在進行明確匹配，關鍵字為: Dual Plate Check Valve
-正在進行明確匹配，關鍵字為: Globe Valve
-正在進行明確匹配，關鍵字為: Needle Valve
-正在進行明確匹配，關鍵字為: Check Valve
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Support
-正在進行明確匹配，關鍵字為: Stub End
-正在進行明確匹配，關鍵字為: Swage Nipple
-正在進行明確匹配，關鍵字為: Spectacle Blind
-正在進行明確匹配，關鍵字為: Orifice Flange
-正在進行明確匹配，關鍵字為: Sockolet
-正在進行明確匹配，關鍵字為: Weldolet
-正在進行明確匹配，關鍵字為: Reducer
-正在進行明確匹配，關鍵字為: Tee
-正在進行模糊匹配，關鍵字為: Pipe，相似度為: 0.06896551724137931
-正在進行模糊匹配，關鍵字為: Bolt，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Nut，相似度為: 0.07142857142857142
-正在進行模糊匹配，關鍵字為: Elbow，相似度為: 0.06666666666666667
-正在進行模糊匹配，關鍵字為: Gasket，相似度為: 0.06451612903225806
-正在進行模糊匹配，關鍵字為: Nipple，相似度為: 0.06451612903225806
-正在進行模糊匹配，關鍵字為: Union，相似度為: 0.06666666666666667
-正在進行模糊匹配，關鍵字為: Coupling，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Plug，相似度為: 0.06896551724137931
-正在進行模糊匹配，關鍵字為: Cap，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Weld Neck Flange，相似度為: 0.14634146341463414
-正在進行模糊匹配，關鍵字為: Socket Weld Flange，相似度為: 0.13953488372093023
-正在進行模糊匹配，關鍵字為: Slip-On Flange，相似度為: 0.15384615384615385
-正在進行模糊匹配，關鍵字為: Lap Joint Flange，相似度為: 0.0975609756097561
-正在進行模糊匹配，關鍵字為: Threaded Flange，相似度為: 0.1
-正在進行模糊匹配，關鍵字為: Blind Flange，相似度為: 0.05405405405405406
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.05
-正在進行模糊匹配，關鍵字為: Ball Valve，相似度為: 0.05714285714285714
-正在進行模糊匹配，關鍵字為: Gate Valve，相似度為: 0.11428571428571428
-正在進行模糊匹配，關鍵字為: Dual Plate Check Valve，相似度為: 0.1702127659574468
-正在進行模糊匹配，關鍵字為: Globe Valve，相似度為: 0.1111111111111111
-正在進行模糊匹配，關鍵字為: Needle Valve，相似度為: 0.10810810810810811
-正在進行模糊匹配，關鍵字為: Check Valve，相似度為: 0.05555555555555555
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.05
-正在進行模糊匹配，關鍵字為: Support，相似度為: 0.0625
-正在進行模糊匹配，關鍵字為: Stub End，相似度為: 0.18181818181818182
-正在進行模糊匹配，關鍵字為: Swage Nipple，相似度為: 0.16216216216216217
-正在進行模糊匹配，關鍵字為: Spectacle Blind，相似度為: 0.1
-正在進行模糊匹配，關鍵字為: Orifice Flange，相似度為: 0.10256410256410256
-正在進行模糊匹配，關鍵字為: Sockolet，相似度為: 0.06060606060606061
-正在進行模糊匹配，關鍵字為: Weldolet，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Reducer，相似度為: 0.0625
-正在進行模糊匹配，關鍵字為: Tee，相似度為: 0.07142857142857142
-在第18行的單元格中沒有找到匹配項。
-正在檢查第19行的單元格，其值為: SEE PIPING SUPPORT INDEX 
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-正在進行明確匹配，關鍵字為: Lap Joint Flange
-正在進行明確匹配，關鍵字為: Threaded Flange
-正在進行明確匹配，關鍵字為: Blind Flange
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Ball Valve
-正在進行明確匹配，關鍵字為: Gate Valve
-正在進行明確匹配，關鍵字為: Dual Plate Check Valve
-正在進行明確匹配，關鍵字為: Globe Valve
-正在進行明確匹配，關鍵字為: Needle Valve
-正在進行明確匹配，關鍵字為: Check Valve
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Support
-正在進行明確匹配，關鍵字為: Stub End
-正在進行明確匹配，關鍵字為: Swage Nipple
-正在進行明確匹配，關鍵字為: Spectacle Blind
-正在進行明確匹配，關鍵字為: Orifice Flange
-正在進行明確匹配，關鍵字為: Sockolet
-正在進行明確匹配，關鍵字為: Weldolet
-正在進行明確匹配，關鍵字為: Reducer
-正在進行明確匹配，關鍵字為: Tee
-正在進行模糊匹配，關鍵字為: Pipe，相似度為: 0.06896551724137931
-正在進行模糊匹配，關鍵字為: Bolt，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Nut，相似度為: 0.07142857142857142
-正在進行模糊匹配，關鍵字為: Elbow，相似度為: 0.06666666666666667
-正在進行模糊匹配，關鍵字為: Gasket，相似度為: 0.06451612903225806
-正在進行模糊匹配，關鍵字為: Nipple，相似度為: 0.06451612903225806
-正在進行模糊匹配，關鍵字為: Union，相似度為: 0.06666666666666667
-正在進行模糊匹配，關鍵字為: Coupling，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Plug，相似度為: 0.06896551724137931
-正在進行模糊匹配，關鍵字為: Cap，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Weld Neck Flange，相似度為: 0.14634146341463414
-正在進行模糊匹配，關鍵字為: Socket Weld Flange，相似度為: 0.13953488372093023
-正在進行模糊匹配，關鍵字為: Slip-On Flange，相似度為: 0.15384615384615385
-正在進行模糊匹配，關鍵字為: Lap Joint Flange，相似度為: 0.0975609756097561
-正在進行模糊匹配，關鍵字為: Threaded Flange，相似度為: 0.1
-正在進行模糊匹配，關鍵字為: Blind Flange，相似度為: 0.05405405405405406
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.05
-正在進行模糊匹配，關鍵字為: Ball Valve，相似度為: 0.05714285714285714
-正在進行模糊匹配，關鍵字為: Gate Valve，相似度為: 0.11428571428571428
-正在進行模糊匹配，關鍵字為: Dual Plate Check Valve，相似度為: 0.1702127659574468
-正在進行模糊匹配，關鍵字為: Globe Valve，相似度為: 0.1111111111111111
-正在進行模糊匹配，關鍵字為: Needle Valve，相似度為: 0.10810810810810811
-正在進行模糊匹配，關鍵字為: Check Valve，相似度為: 0.05555555555555555
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.05
-正在進行模糊匹配，關鍵字為: Support，相似度為: 0.0625
-正在進行模糊匹配，關鍵字為: Stub End，相似度為: 0.18181818181818182
-正在進行模糊匹配，關鍵字為: Swage Nipple，相似度為: 0.16216216216216217
-正在進行模糊匹配，關鍵字為: Spectacle Blind，相似度為: 0.1
-正在進行模糊匹配，關鍵字為: Orifice Flange，相似度為: 0.10256410256410256
-正在進行模糊匹配，關鍵字為: Sockolet，相似度為: 0.06060606060606061
-正在進行模糊匹配，關鍵字為: Weldolet，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Reducer，相似度為: 0.0625
-正在進行模糊匹配，關鍵字為: Tee，相似度為: 0.07142857142857142
+正在檢查第18行的單元格，其值為: 90 ELBOW CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['90', 'ELBOW', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第18行的單元格中找到了匹配項 Elbow。正在將值寫入B列18行。
+正在檢查第19行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
 在第19行的單元格中沒有找到匹配項。
-正在檢查第20行的單元格，其值為: SEE PIPING SUPPORT INDEX 
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-正在進行明確匹配，關鍵字為: Lap Joint Flange
-正在進行明確匹配，關鍵字為: Threaded Flange
-正在進行明確匹配，關鍵字為: Blind Flange
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Ball Valve
-正在進行明確匹配，關鍵字為: Gate Valve
-正在進行明確匹配，關鍵字為: Dual Plate Check Valve
-正在進行明確匹配，關鍵字為: Globe Valve
-正在進行明確匹配，關鍵字為: Needle Valve
-正在進行明確匹配，關鍵字為: Check Valve
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Support
-正在進行明確匹配，關鍵字為: Stub End
-正在進行明確匹配，關鍵字為: Swage Nipple
-正在進行明確匹配，關鍵字為: Spectacle Blind
-正在進行明確匹配，關鍵字為: Orifice Flange
-正在進行明確匹配，關鍵字為: Sockolet
-正在進行明確匹配，關鍵字為: Weldolet
-正在進行明確匹配，關鍵字為: Reducer
-正在進行明確匹配，關鍵字為: Tee
-正在進行模糊匹配，關鍵字為: Pipe，相似度為: 0.06896551724137931
-正在進行模糊匹配，關鍵字為: Bolt，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Nut，相似度為: 0.07142857142857142
-正在進行模糊匹配，關鍵字為: Elbow，相似度為: 0.06666666666666667
-正在進行模糊匹配，關鍵字為: Gasket，相似度為: 0.06451612903225806
-正在進行模糊匹配，關鍵字為: Nipple，相似度為: 0.06451612903225806
-正在進行模糊匹配，關鍵字為: Union，相似度為: 0.06666666666666667
-正在進行模糊匹配，關鍵字為: Coupling，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Plug，相似度為: 0.06896551724137931
-正在進行模糊匹配，關鍵字為: Cap，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Weld Neck Flange，相似度為: 0.14634146341463414
-正在進行模糊匹配，關鍵字為: Socket Weld Flange，相似度為: 0.13953488372093023
-正在進行模糊匹配，關鍵字為: Slip-On Flange，相似度為: 0.15384615384615385
-正在進行模糊匹配，關鍵字為: Lap Joint Flange，相似度為: 0.0975609756097561
-正在進行模糊匹配，關鍵字為: Threaded Flange，相似度為: 0.1
-正在進行模糊匹配，關鍵字為: Blind Flange，相似度為: 0.05405405405405406
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.05
-正在進行模糊匹配，關鍵字為: Ball Valve，相似度為: 0.05714285714285714
-正在進行模糊匹配，關鍵字為: Gate Valve，相似度為: 0.11428571428571428
-正在進行模糊匹配，關鍵字為: Dual Plate Check Valve，相似度為: 0.1702127659574468
-正在進行模糊匹配，關鍵字為: Globe Valve，相似度為: 0.1111111111111111
-正在進行模糊匹配，關鍵字為: Needle Valve，相似度為: 0.10810810810810811
-正在進行模糊匹配，關鍵字為: Check Valve，相似度為: 0.05555555555555555
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.05
-正在進行模糊匹配，關鍵字為: Support，相似度為: 0.0625
-正在進行模糊匹配，關鍵字為: Stub End，相似度為: 0.18181818181818182
-正在進行模糊匹配，關鍵字為: Swage Nipple，相似度為: 0.16216216216216217
-正在進行模糊匹配，關鍵字為: Spectacle Blind，相似度為: 0.1
-正在進行模糊匹配，關鍵字為: Orifice Flange，相似度為: 0.10256410256410256
-正在進行模糊匹配，關鍵字為: Sockolet，相似度為: 0.06060606060606061
-正在進行模糊匹配，關鍵字為: Weldolet，相似度為: 0.0
-正在進行模糊匹配，關鍵字為: Reducer，相似度為: 0.0625
-正在進行模糊匹配，關鍵字為: Tee，相似度為: 0.07142857142857142
-在第20行的單元格中沒有找到匹配項。
-正在檢查第21行的單元格，其值為: Pipe , ASME B36.10 , Beveled End , ASTM A53-B , Electric Resistance Welded (Ej =0.85), SCH/THK S-STD
-正在進行明確匹配，關鍵字為: Pipe
-在第21行的單元格中找到了匹配項 Pipe。正在將值寫入B列21行。
-正在檢查第22行的單元格，其值為: Pipe , ASME B36.10 , Beveled End , ASTM A53-B , Electric Resistance Welded (Ej =0.85), SCH/THK S-STD
-正在進行明確匹配，關鍵字為: Pipe
-在第22行的單元格中找到了匹配項 Pipe。正在將值寫入B列22行。
-正在檢查第23行的單元格，其值為: Concentric Reducer , ASME B16.9 , Beveled End , ASTM A234 Grade WPB , TypeW, SCH/THK S-STD
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-正在進行明確匹配，關鍵字為: Lap Joint Flange
-正在進行明確匹配，關鍵字為: Threaded Flange
-正在進行明確匹配，關鍵字為: Blind Flange
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Ball Valve
-正在進行明確匹配，關鍵字為: Gate Valve
-正在進行明確匹配，關鍵字為: Dual Plate Check Valve
-正在進行明確匹配，關鍵字為: Globe Valve
-正在進行明確匹配，關鍵字為: Needle Valve
-正在進行明確匹配，關鍵字為: Check Valve
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Support
-正在進行明確匹配，關鍵字為: Stub End
-正在進行明確匹配，關鍵字為: Swage Nipple
-正在進行明確匹配，關鍵字為: Spectacle Blind
-正在進行明確匹配，關鍵字為: Orifice Flange
-正在進行明確匹配，關鍵字為: Sockolet
-正在進行明確匹配，關鍵字為: Weldolet
-正在進行明確匹配，關鍵字為: Reducer
-正在進行明確匹配，關鍵字為: Tee
-正在進行模糊匹配，關鍵字為: Pipe，相似度為: 0.06382978723404255
-正在進行模糊匹配，關鍵字為: Bolt，相似度為: 0.0425531914893617
-正在進行模糊匹配，關鍵字為: Nut，相似度為: 0.021505376344086023
-正在進行模糊匹配，關鍵字為: Elbow，相似度為: 0.042105263157894736
-正在進行模糊匹配，關鍵字為: Gasket，相似度為: 0.0625
-正在進行模糊匹配，關鍵字為: Nipple，相似度為: 0.0625
-正在進行模糊匹配，關鍵字為: Union，相似度為: 0.042105263157894736
-正在進行模糊匹配，關鍵字為: Coupling，相似度為: 0.08163265306122448
-正在進行模糊匹配，關鍵字為: Plug，相似度為: 0.02127659574468085
-正在進行模糊匹配，關鍵字為: Cap，相似度為: 0.06451612903225806
-正在進行模糊匹配，關鍵字為: Weld Neck Flange，相似度為: 0.1320754716981132
-正在進行模糊匹配，關鍵字為: Socket Weld Flange，相似度為: 0.1111111111111111
-正在進行模糊匹配，關鍵字為: Slip-On Flange，相似度為: 0.07692307692307693
-正在進行模糊匹配，關鍵字為: Lap Joint Flange，相似度為: 0.1320754716981132
-正在進行模糊匹配，關鍵字為: Threaded Flange，相似度為: 0.13333333333333333
-正在進行模糊匹配，關鍵字為: Blind Flange，相似度為: 0.13725490196078433
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.11428571428571428
-正在進行模糊匹配，關鍵字為: Ball Valve，相似度為: 0.08
-正在進行模糊匹配，關鍵字為: Gate Valve，相似度為: 0.1
-正在進行模糊匹配，關鍵字為: Dual Plate Check Valve，相似度為: 0.10714285714285714
-正在進行模糊匹配，關鍵字為: Globe Valve，相似度為: 0.07920792079207921
-正在進行模糊匹配，關鍵字為: Needle Valve，相似度為: 0.1568627450980392
-正在進行模糊匹配，關鍵字為: Check Valve，相似度為: 0.1188118811881188
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.11428571428571428
-正在進行模糊匹配，關鍵字為: Support，相似度為: 0.041237113402061855
-正在進行模糊匹配，關鍵字為: Stub End，相似度為: 0.10204081632653061
-正在進行模糊匹配，關鍵字為: Swage Nipple，相似度為: 0.11764705882352941
-正在進行模糊匹配，關鍵字為: Spectacle Blind，相似度為: 0.0761904761904762
-正在進行模糊匹配，關鍵字為: Orifice Flange，相似度為: 0.15384615384615385
-正在進行模糊匹配，關鍵字為: Sockolet，相似度為: 0.061224489795918366
-正在進行模糊匹配，關鍵字為: Weldolet，相似度為: 0.08163265306122448
-正在進行模糊匹配，關鍵字為: Reducer，相似度為: 0.14432989690721648
-正在進行模糊匹配，關鍵字為: Tee，相似度為: 0.06451612903225806
+正在檢查第20行的單元格，其值為: 90 ELBOW CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['90', 'ELBOW', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第20行的單元格中找到了匹配項 Elbow。正在將值寫入B列20行。
+正在檢查第21行的單元格，其值為: WI-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '008_AN']
+in_match沒有匹配值
+在第21行的單元格中沒有找到匹配項。
+正在檢查第22行的單元格，其值為: SOCKET WELD FLANGE CL150 RF 125-250 RA-FN S-40 CS ASTM A105 W/ HDZ. ASME-B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['SOCKET', 'WELD', 'FLANGE', 'CL150', 'RF', '125', '250', 'RA', 'FN', 'S', '40', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '5']
+正在檢查單詞 SOCKET 與關鍵字 Sockolet 的相似度，相似度為 0.8571428571428571
+使用了整體匹配模組，匹配關鍵字為: Socket Weld Flange
+在第22行的單元格中找到了匹配項 Socket Weld Flange。正在將值寫入B列22行。
+正在檢查第23行的單元格，其值為: WI-5-009_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '009_AN']
+in_match沒有匹配值
 在第23行的單元格中沒有找到匹配項。
-正在檢查第24行的單元格，其值為: WeldoletR Reducing , MSS SP-97 , Beveled End , ASTM A105N -, SCH/THK S-STD
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-正在進行明確匹配，關鍵字為: Lap Joint Flange
-正在進行明確匹配，關鍵字為: Threaded Flange
-正在進行明確匹配，關鍵字為: Blind Flange
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Ball Valve
-正在進行明確匹配，關鍵字為: Gate Valve
-正在進行明確匹配，關鍵字為: Dual Plate Check Valve
-正在進行明確匹配，關鍵字為: Globe Valve
-正在進行明確匹配，關鍵字為: Needle Valve
-正在進行明確匹配，關鍵字為: Check Valve
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Support
-正在進行明確匹配，關鍵字為: Stub End
-正在進行明確匹配，關鍵字為: Swage Nipple
-正在進行明確匹配，關鍵字為: Spectacle Blind
-正在進行明確匹配，關鍵字為: Orifice Flange
-正在進行明確匹配，關鍵字為: Sockolet
-正在進行明確匹配，關鍵字為: Weldolet
-在第24行的單元格中找到了匹配項 Weldolet。正在將值寫入B列24行。
-正在檢查第25行的單元格，其值為: 90 Degree Long Radius Elbow , ASME B16.9 , Beveled End , ASTM A234 Grade WPB ,Type W, SCH/THK S-STD
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-正在進行明確匹配，關鍵字為: Lap Joint Flange
-正在進行明確匹配，關鍵字為: Threaded Flange
-正在進行明確匹配，關鍵字為: Blind Flange
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Ball Valve
-正在進行明確匹配，關鍵字為: Gate Valve
-正在進行明確匹配，關鍵字為: Dual Plate Check Valve
-正在進行明確匹配，關鍵字為: Globe Valve
-正在進行明確匹配，關鍵字為: Needle Valve
-正在進行明確匹配，關鍵字為: Check Valve
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Support
-正在進行明確匹配，關鍵字為: Stub End
-正在進行明確匹配，關鍵字為: Swage Nipple
-正在進行明確匹配，關鍵字為: Spectacle Blind
-正在進行明確匹配，關鍵字為: Orifice Flange
-正在進行明確匹配，關鍵字為: Sockolet
-正在進行明確匹配，關鍵字為: Weldolet
-正在進行明確匹配，關鍵字為: Reducer
-正在進行明確匹配，關鍵字為: Tee
-正在進行模糊匹配，關鍵字為: Pipe，相似度為: 0.05825242718446602
-正在進行模糊匹配，關鍵字為: Bolt，相似度為: 0.038834951456310676
-正在進行模糊匹配，關鍵字為: Nut，相似度為: 0.0196078431372549
-正在進行模糊匹配，關鍵字為: Elbow，相似度為: 0.09615384615384616
-正在進行模糊匹配，關鍵字為: Gasket，相似度為: 0.05714285714285714
-正在進行模糊匹配，關鍵字為: Nipple，相似度為: 0.05714285714285714
-正在進行模糊匹配，關鍵字為: Union，相似度為: 0.038461538461538464
-正在進行模糊匹配，關鍵字為: Coupling，相似度為: 0.056074766355140186
-正在進行模糊匹配，關鍵字為: Plug，相似度為: 0.019417475728155338
-正在進行模糊匹配，關鍵字為: Cap，相似度為: 0.0196078431372549
-正在進行模糊匹配，關鍵字為: Weld Neck Flange，相似度為: 0.12173913043478261
-正在進行模糊匹配，關鍵字為: Socket Weld Flange，相似度為: 0.10256410256410256
-正在進行模糊匹配，關鍵字為: Slip-On Flange，相似度為: 0.07079646017699115
-正在進行模糊匹配，關鍵字為: Lap Joint Flange，相似度為: 0.08695652173913043
-正在進行模糊匹配，關鍵字為: Threaded Flange，相似度為: 0.12280701754385964
-正在進行模糊匹配，關鍵字為: Blind Flange，相似度為: 0.12612612612612611
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.07017543859649122
-正在進行模糊匹配，關鍵字為: Ball Valve，相似度為: 0.07339449541284404
-正在進行模糊匹配，關鍵字為: Gate Valve，相似度為: 0.11009174311926606
-正在進行模糊匹配，關鍵字為: Dual Plate Check Valve，相似度為: 0.09917355371900827
-正在進行模糊匹配，關鍵字為: Globe Valve，相似度為: 0.10909090909090909
-正在進行模糊匹配，關鍵字為: Needle Valve，相似度為: 0.14414414414414414
-正在進行模糊匹配，關鍵字為: Check Valve，相似度為: 0.10909090909090909
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.07017543859649122
-正在進行模糊匹配，關鍵字為: Support，相似度為: 0.03773584905660377
-正在進行模糊匹配，關鍵字為: Stub End，相似度為: 0.09345794392523364
-正在進行模糊匹配，關鍵字為: Swage Nipple，相似度為: 0.10810810810810811
-正在進行模糊匹配，關鍵字為: Spectacle Blind，相似度為: 0.07017543859649122
-正在進行模糊匹配，關鍵字為: Orifice Flange，相似度為: 0.10619469026548672
-正在進行模糊匹配，關鍵字為: Sockolet，相似度為: 0.056074766355140186
-正在進行模糊匹配，關鍵字為: Weldolet，相似度為: 0.07476635514018691
-正在進行模糊匹配，關鍵字為: Reducer，相似度為: 0.07547169811320754
-正在進行模糊匹配，關鍵字為: Tee，相似度為: 0.0392156862745098
+正在檢查第24行的單元格，其值為: SOCKET WELD FLANGE CL150 RF 125-250 RA-FN S-40 CS ASTM A105 W/ HDZ. ASME-B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['SOCKET', 'WELD', 'FLANGE', 'CL150', 'RF', '125', '250', 'RA', 'FN', 'S', '40', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '5']
+正在檢查單詞 SOCKET 與關鍵字 Sockolet 的相似度，相似度為 0.8571428571428571
+使用了整體匹配模組，匹配關鍵字為: Socket Weld Flange
+在第24行的單元格中找到了匹配項 Socket Weld Flange。正在將值寫入B列24行。
+正在檢查第25行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
 在第25行的單元格中沒有找到匹配項。
-正在檢查第26行的單元格，其值為: SockoletR, Reducing , MSS SP-97 , Class 3000 , Socket Welded End , ASTM A105N ,-
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-正在進行明確匹配，關鍵字為: Lap Joint Flange
-正在進行明確匹配，關鍵字為: Threaded Flange
-正在進行明確匹配，關鍵字為: Blind Flange
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Ball Valve
-正在進行明確匹配，關鍵字為: Gate Valve
-正在進行明確匹配，關鍵字為: Dual Plate Check Valve
-正在進行明確匹配，關鍵字為: Globe Valve
-正在進行明確匹配，關鍵字為: Needle Valve
-正在進行明確匹配，關鍵字為: Check Valve
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Support
-正在進行明確匹配，關鍵字為: Stub End
-正在進行明確匹配，關鍵字為: Swage Nipple
-正在進行明確匹配，關鍵字為: Spectacle Blind
-正在進行明確匹配，關鍵字為: Orifice Flange
-正在進行明確匹配，關鍵字為: Sockolet
-在第26行的單元格中找到了匹配項 Sockolet。正在將值寫入B列26行。
-正在檢查第27行的單元格，其值為: 90 Degree Long Radius Elbow , ASME B16.9 , Beveled End , ASTM A234 Grade WPB ,Type W, SCH/THK S-STD
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-正在進行明確匹配，關鍵字為: Lap Joint Flange
-正在進行明確匹配，關鍵字為: Threaded Flange
-正在進行明確匹配，關鍵字為: Blind Flange
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Ball Valve
-正在進行明確匹配，關鍵字為: Gate Valve
-正在進行明確匹配，關鍵字為: Dual Plate Check Valve
-正在進行明確匹配，關鍵字為: Globe Valve
-正在進行明確匹配，關鍵字為: Needle Valve
-正在進行明確匹配，關鍵字為: Check Valve
-正在進行明確匹配，關鍵字為: Butterfly Valve
-正在進行明確匹配，關鍵字為: Support
-正在進行明確匹配，關鍵字為: Stub End
-正在進行明確匹配，關鍵字為: Swage Nipple
-正在進行明確匹配，關鍵字為: Spectacle Blind
-正在進行明確匹配，關鍵字為: Orifice Flange
-正在進行明確匹配，關鍵字為: Sockolet
-正在進行明確匹配，關鍵字為: Weldolet
-正在進行明確匹配，關鍵字為: Reducer
-正在進行明確匹配，關鍵字為: Tee
-正在進行模糊匹配，關鍵字為: Pipe，相似度為: 0.05825242718446602
-正在進行模糊匹配，關鍵字為: Bolt，相似度為: 0.038834951456310676
-正在進行模糊匹配，關鍵字為: Nut，相似度為: 0.0196078431372549
-正在進行模糊匹配，關鍵字為: Elbow，相似度為: 0.09615384615384616
-正在進行模糊匹配，關鍵字為: Gasket，相似度為: 0.05714285714285714
-正在進行模糊匹配，關鍵字為: Nipple，相似度為: 0.05714285714285714
-正在進行模糊匹配，關鍵字為: Union，相似度為: 0.038461538461538464
-正在進行模糊匹配，關鍵字為: Coupling，相似度為: 0.056074766355140186
-正在進行模糊匹配，關鍵字為: Plug，相似度為: 0.019417475728155338
-正在進行模糊匹配，關鍵字為: Cap，相似度為: 0.0196078431372549
-正在進行模糊匹配，關鍵字為: Weld Neck Flange，相似度為: 0.12173913043478261
-正在進行模糊匹配，關鍵字為: Socket Weld Flange，相似度為: 0.10256410256410256
-正在進行模糊匹配，關鍵字為: Slip-On Flange，相似度為: 0.07079646017699115
-正在進行模糊匹配，關鍵字為: Lap Joint Flange，相似度為: 0.08695652173913043
-正在進行模糊匹配，關鍵字為: Threaded Flange，相似度為: 0.12280701754385964
-正在進行模糊匹配，關鍵字為: Blind Flange，相似度為: 0.12612612612612611
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.07017543859649122
-正在進行模糊匹配，關鍵字為: Ball Valve，相似度為: 0.07339449541284404
-正在進行模糊匹配，關鍵字為: Gate Valve，相似度為: 0.11009174311926606
-正在進行模糊匹配，關鍵字為: Dual Plate Check Valve，相似度為: 0.09917355371900827
-正在進行模糊匹配，關鍵字為: Globe Valve，相似度為: 0.10909090909090909
-正在進行模糊匹配，關鍵字為: Needle Valve，相似度為: 0.14414414414414414
-正在進行模糊匹配，關鍵字為: Check Valve，相似度為: 0.10909090909090909
-正在進行模糊匹配，關鍵字為: Butterfly Valve，相似度為: 0.07017543859649122
-正在進行模糊匹配，關鍵字為: Support，相似度為: 0.03773584905660377
-正在進行模糊匹配，關鍵字為: Stub End，相似度為: 0.09345794392523364
-正在進行模糊匹配，關鍵字為: Swage Nipple，相似度為: 0.10810810810810811
-正在進行模糊匹配，關鍵字為: Spectacle Blind，相似度為: 0.07017543859649122
-正在進行模糊匹配，關鍵字為: Orifice Flange，相似度為: 0.10619469026548672
-正在進行模糊匹配，關鍵字為: Sockolet，相似度為: 0.056074766355140186
-正在進行模糊匹配，關鍵字為: Weldolet，相似度為: 0.07476635514018691
-正在進行模糊匹配，關鍵字為: Reducer，相似度為: 0.07547169811320754
-正在進行模糊匹配，關鍵字為: Tee，相似度為: 0.0392156862745098
+正在檢查第26行的單元格，其值為: GASKET CL150 RF 4.5mm THCK SP-WD SS 304 AND FILLER FLEX. GRAPHITE NON-ASB. FREE W/O.R. C.S. ASME B16.20B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['GASKET', 'CL150', 'RF', '4', '5mm', 'THCK', 'SP', 'WD', 'SS', '304', 'AND', 'FILLER', 'FLEX', 'GRAPHITE', 'NON', 'ASB', 'FREE', 'W/O', 'R', 'C', 'S', 'ASME', 'B16', '20B16', '5']
+正在檢查單詞 GASKET 與關鍵字 Gasket 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Gasket
+在第26行的單元格中找到了匹配項 Gasket。正在將值寫入B列26行。
+正在檢查第27行的單元格，其值為: WI-5-009_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '009_AN']
+in_match沒有匹配值
 在第27行的單元格中沒有找到匹配項。
-正在檢查第28行的單元格，其值為: Nipple , ASME B36.10 , Plain End x Male Threaded End , ASTM A106-B , 4in Long ,Seamless, SCH/THK S-XS
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-在第28行的單元格中找到了匹配項 Nipple。正在將值寫入B列28行。
-正在檢查第29行的單元格，其值為: Plug Hexagonal Head , ASME B16.11 , Male Threaded End , ASTM A105N
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-在第29行的單元格中找到了匹配項 Plug。正在將值寫入B列29行。
-正在檢查第30行的單元格，其值為: Slip-On Flange , ASME B16.5 , Class 150 , Flat-face flanged end , ASTM A105N ,-
-正在進行明確匹配，關鍵字為: Pipe
-正在進行明確匹配，關鍵字為: Bolt
-正在進行明確匹配，關鍵字為: Nut
-正在進行明確匹配，關鍵字為: Elbow
-正在進行明確匹配，關鍵字為: Gasket
-正在進行明確匹配，關鍵字為: Nipple
-正在進行明確匹配，關鍵字為: Union
-正在進行明確匹配，關鍵字為: Coupling
-正在進行明確匹配，關鍵字為: Plug
-正在進行明確匹配，關鍵字為: Cap
-正在進行明確匹配，關鍵字為: Weld Neck Flange
-正在進行明確匹配，關鍵字為: Socket Weld Flange
-正在進行明確匹配，關鍵字為: Slip-On Flange
-在第30行的單元格中找到了匹配項 Slip-On Flange。正在將值寫入B列30行。
+正在檢查第28行的單元格，其值為: GASKET CL150 RF 4.5mm THCK SP-WD SS 304 AND FILLER FLEX. GRAPHITE NON-ASB. FREE W/O.R. C.S. ASME B16.20B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['GASKET', 'CL150', 'RF', '4', '5mm', 'THCK', 'SP', 'WD', 'SS', '304', 'AND', 'FILLER', 'FLEX', 'GRAPHITE', 'NON', 'ASB', 'FREE', 'W/O', 'R', 'C', 'S', 'ASME', 'B16', '20B16', '5']
+正在檢查單詞 GASKET 與關鍵字 Gasket 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Gasket
+在第28行的單元格中找到了匹配項 Gasket。正在將值寫入B列28行。
+正在檢查第29行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第29行的單元格中沒有找到匹配項。
+正在檢查第30行的單元格，其值為: PIPE SMLS PE S-40 CS ASTM A106 Gr.B W/ HDZ. ASME-B36.10M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'SMLS', 'PE', 'S', '40', 'CS', 'ASTM', 'A106', 'Gr', 'B', 'W/', 'HDZ', 'ASME', 'B36', '10M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第30行的單元格中找到了匹配項 Pipe。正在將值寫入B列30行。
+正在檢查第31行的單元格，其值為: WI-5-009_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '009_AN']
+in_match沒有匹配值
+在第31行的單元格中沒有找到匹配項。
+正在檢查第32行的單元格，其值為: PIPE SMLS PE S-40 CS ASTM A106 Gr.B W/ HDZ. ASME-B36.10M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'SMLS', 'PE', 'S', '40', 'CS', 'ASTM', 'A106', 'Gr', 'B', 'W/', 'HDZ', 'ASME', 'B36', '10M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第32行的單元格中找到了匹配項 Pipe。正在將值寫入B列32行。
+正在檢查第33行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第33行的單元格中沒有找到匹配項。
+正在檢查第34行的單元格，其值為: PIPE SMLS PE S-40 CS ASTM A106 Gr.B W/ HDZ. ASME-B36.10M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'SMLS', 'PE', 'S', '40', 'CS', 'ASTM', 'A106', 'Gr', 'B', 'W/', 'HDZ', 'ASME', 'B36', '10M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第34行的單元格中找到了匹配項 Pipe。正在將值寫入B列34行。
+正在檢查第35行的單元格，其值為: WI-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '008_AN']
+in_match沒有匹配值
+在第35行的單元格中沒有找到匹配項。
+正在檢查第36行的單元格，其值為: Instrument Tag No. RO-5702
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'RO', '5702']
+in_match沒有匹配值
+在第36行的單元格中沒有找到匹配項。
+正在檢查第37行的單元格，其值為: WI-5-009_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '009_AN']
+in_match沒有匹配值
+在第37行的單元格中沒有找到匹配項。
+正在檢查第38行的單元格，其值為: CONCENTRIC SWAGE NIPPLE SMLS PBE S-40 X S-40 CS ASTM A234 Gr.WPBW/ HDZ. MSS-SP-95
+exact_match_start沒有匹配值
+re.split的結果為: ['CONCENTRIC', 'SWAGE', 'NIPPLE', 'SMLS', 'PBE', 'S', '40', 'X', 'S', '40', 'CS', 'ASTM', 'A234', 'Gr', 'WPBW/', 'HDZ', 'MSS', 'SP', '95']
+正在檢查單詞 NIPPLE 與關鍵字 Nipple 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Nipple
+在第38行的單元格中找到了匹配項 Nipple。正在將值寫入B列38行。
+正在檢查第39行的單元格，其值為: WI-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '008_AN']
+in_match沒有匹配值
+在第39行的單元格中沒有找到匹配項。
+正在檢查第40行的單元格，其值為: TEE CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['TEE', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 TEE 與關鍵字 Tee 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Tee
+在第40行的單元格中找到了匹配項 Tee。正在將值寫入B列40行。
+正在檢查第41行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第41行的單元格中沒有找到匹配項。
+正在檢查第42行的單元格，其值為: REDU. TEE CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['REDU', 'TEE', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 TEE 與關鍵字 Tee 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Tee
+在第42行的單元格中找到了匹配項 Tee。正在將值寫入B列42行。
+正在檢查第43行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第43行的單元格中沒有找到匹配項。
+正在檢查第44行的單元格，其值為: REDU. TEE CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['REDU', 'TEE', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 TEE 與關鍵字 Tee 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Tee
+在第44行的單元格中找到了匹配項 Tee。正在將值寫入B列44行。
+正在檢查第45行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第45行的單元格中沒有找到匹配項。
+正在檢查第46行的單元格，其值為: TEE CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['TEE', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 TEE 與關鍵字 Tee 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Tee
+在第46行的單元格中找到了匹配項 Tee。正在將值寫入B列46行。
+正在檢查第47行的單元格，其值為: WI-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '008_AN']
+in_match沒有匹配值
+在第47行的單元格中沒有找到匹配項。
+正在檢查第48行的單元格，其值為: CHECK VALVE CL800 SW (WIV-5021)
+exact_match_start沒有匹配值
+re.split的結果為: ['CHECK', 'VALVE', 'CL800', 'SW', 'WIV', '5021', '']
+使用了整體匹配模組，匹配關鍵字為: Check Valve
+在第48行的單元格中找到了匹配項 Check Valve。正在將值寫入B列48行。
+正在檢查第49行的單元格，其值為: WI-5-009_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '009_AN']
+in_match沒有匹配值
+在第49行的單元格中沒有找到匹配項。
+正在檢查第50行的單元格，其值為: GLOBE VALVE CL800 SW (WIV-5020)
+exact_match_start沒有匹配值
+re.split的結果為: ['GLOBE', 'VALVE', 'CL800', 'SW', 'WIV', '5020', '']
+使用了整體匹配模組，匹配關鍵字為: Globe Valve
+在第50行的單元格中找到了匹配項 Globe Valve。正在將值寫入B列50行。
+正在檢查第51行的單元格，其值為: WI-5-009_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '009_AN']
+in_match沒有匹配值
+在第51行的單元格中沒有找到匹配項。
+正在檢查第52行的單元格，其值為: Instrument Tag No. XZV-5701
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'XZV', '5701']
+in_match沒有匹配值
+在第52行的單元格中沒有找到匹配項。
+正在檢查第53行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第53行的單元格中沒有找到匹配項。
+正在檢查第54行的單元格，其值為: 80 mm BOLT & NUT UNC STUD SS ASTM A193 Gr.B8 W/ TWO HEAVY HEX NUTS ASTM A194 Gr.8 ASME/ANSI B1.1 B18.2.2
+exact_match_start沒有匹配值
+re.split的結果為: ['80', 'mm', 'BOLT', '&', 'NUT', 'UNC', 'STUD', 'SS', 'ASTM', 'A193', 'Gr', 'B8', 'W/', 'TWO', 'HEAVY', 'HEX', 'NUTS', 'ASTM', 'A194', 'Gr', '8', 'ASME/ANSI', 'B1', '1', 'B18', '2', '2']
+正在檢查單詞 BOLT 與關鍵字 Bolt 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Bolt
+在第54行的單元格中找到了匹配項 Bolt。正在將值寫入B列54行。
+正在檢查第55行的單元格，其值為: AI-5-001B_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AI', '5', '001B_AN']
+in_match沒有匹配值
+在第55行的單元格中沒有找到匹配項。
+正在檢查第56行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第56行的單元格中沒有找到匹配項。
+正在檢查第57行的單元格，其值為: 90 mm BOLT & NUT UNC STUD SS ASTM A193 Gr.B8 W/ TWO HEAVY HEX NUTS ASTM A194 Gr.8 ASME/ANSI B1.1 B18.2.2
+exact_match_start沒有匹配值
+re.split的結果為: ['90', 'mm', 'BOLT', '&', 'NUT', 'UNC', 'STUD', 'SS', 'ASTM', 'A193', 'Gr', 'B8', 'W/', 'TWO', 'HEAVY', 'HEX', 'NUTS', 'ASTM', 'A194', 'Gr', '8', 'ASME/ANSI', 'B1', '1', 'B18', '2', '2']
+正在檢查單詞 BOLT 與關鍵字 Bolt 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Bolt
+在第57行的單元格中找到了匹配項 Bolt。正在將值寫入B列57行。
+正在檢查第58行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第58行的單元格中沒有找到匹配項。
+正在檢查第59行的單元格，其值為: FULL COUPLING CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['FULL', 'COUPLING', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 COUPLING 與關鍵字 Coupling 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Coupling
+在第59行的單元格中找到了匹配項 Coupling。正在將值寫入B列59行。
+正在檢查第60行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第60行的單元格中沒有找到匹配項。
+正在檢查第61行的單元格，其值為: FULL COUPLING CL3000 SW/FNPT CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['FULL', 'COUPLING', 'CL3000', 'SW/FNPT', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 COUPLING 與關鍵字 Coupling 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Coupling
+在第61行的單元格中找到了匹配項 Coupling。正在將值寫入B列61行。
+正在檢查第62行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第62行的單元格中沒有找到匹配項。
+正在檢查第63行的單元格，其值為: 90 ELBOW SMLS BW S-40 CS ASTM A234 Gr.WPB W/ HDZ. ASME-B16.9
+exact_match_start沒有匹配值
+re.split的結果為: ['90', 'ELBOW', 'SMLS', 'BW', 'S', '40', 'CS', 'ASTM', 'A234', 'Gr', 'WPB', 'W/', 'HDZ', 'ASME', 'B16', '9']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第63行的單元格中找到了匹配項 Elbow。正在將值寫入B列63行。
+正在檢查第64行的單元格，其值為: WI-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '006_AN']
+in_match沒有匹配值
+在第64行的單元格中沒有找到匹配項。
+正在檢查第65行的單元格，其值為: 90 ELBOW SMLS BW S-40 CS ASTM A234 Gr.WPB W/ HDZ. ASME-B16.9
+exact_match_start沒有匹配值
+re.split的結果為: ['90', 'ELBOW', 'SMLS', 'BW', 'S', '40', 'CS', 'ASTM', 'A234', 'Gr', 'WPB', 'W/', 'HDZ', 'ASME', 'B16', '9']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第65行的單元格中找到了匹配項 Elbow。正在將值寫入B列65行。
+正在檢查第66行的單元格，其值為: WI-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '006_AN']
+in_match沒有匹配值
+在第66行的單元格中沒有找到匹配項。
+正在檢查第67行的單元格，其值為: 90 ELBOW CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['90', 'ELBOW', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第67行的單元格中找到了匹配項 Elbow。正在將值寫入B列67行。
+正在檢查第68行的單元格，其值為: AI-5-001B_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AI', '5', '001B_AN']
+in_match沒有匹配值
+在第68行的單元格中沒有找到匹配項。
+正在檢查第69行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第69行的單元格中沒有找到匹配項。
+正在檢查第70行的單元格，其值為: BLIND FLANGE CL150 RF 125-250 RA-FN CS ASTM A105 W/ HDZ. ASME-B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['BLIND', 'FLANGE', 'CL150', 'RF', '125', '250', 'RA', 'FN', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '5']
+使用了整體匹配模組，匹配關鍵字為: Blind Flange
+在第70行的單元格中找到了匹配項 Blind Flange。正在將值寫入B列70行。
+正在檢查第71行的單元格，其值為: AI-5-001B_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AI', '5', '001B_AN']
+in_match沒有匹配值
+在第71行的單元格中沒有找到匹配項。
+正在檢查第72行的單元格，其值為: SOCKET WELD FLANGE CL150 RF 125-250 RA-FN S-40 CS ASTM A105 W/ HDZ. ASME-B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['SOCKET', 'WELD', 'FLANGE', 'CL150', 'RF', '125', '250', 'RA', 'FN', 'S', '40', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '5']
+正在檢查單詞 SOCKET 與關鍵字 Sockolet 的相似度，相似度為 0.8571428571428571
+使用了整體匹配模組，匹配關鍵字為: Socket Weld Flange
+在第72行的單元格中找到了匹配項 Socket Weld Flange。正在將值寫入B列72行。
+正在檢查第73行的單元格，其值為: AI-5-001B_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AI', '5', '001B_AN']
+in_match沒有匹配值
+在第73行的單元格中沒有找到匹配項。
+正在檢查第74行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第74行的單元格中沒有找到匹配項。
+正在檢查第75行的單元格，其值為: GASKET CL150 RF 4.5mm THCK SP-WD SS 304 AND FILLER FLEX. GRAPHITE NON-ASB. FREE W/O.R. C.S. ASME B16.20B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['GASKET', 'CL150', 'RF', '4', '5mm', 'THCK', 'SP', 'WD', 'SS', '304', 'AND', 'FILLER', 'FLEX', 'GRAPHITE', 'NON', 'ASB', 'FREE', 'W/O', 'R', 'C', 'S', 'ASME', 'B16', '20B16', '5']
+正在檢查單詞 GASKET 與關鍵字 Gasket 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Gasket
+在第75行的單元格中找到了匹配項 Gasket。正在將值寫入B列75行。
+正在檢查第76行的單元格，其值為: AI-5-001B_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AI', '5', '001B_AN']
+in_match沒有匹配值
+在第76行的單元格中沒有找到匹配項。
+正在檢查第77行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第77行的單元格中沒有找到匹配項。
+正在檢查第78行的單元格，其值為: PIPE NIPPLE SMLS TBE S-40 CS ASTM A106 Gr.B W/ HDZ. L=75mm ASME-B36.10M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'NIPPLE', 'SMLS', 'TBE', 'S', '40', 'CS', 'ASTM', 'A106', 'Gr', 'B', 'W/', 'HDZ', 'L', '75mm', 'ASME', 'B36', '10M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第78行的單元格中找到了匹配項 Pipe。正在將值寫入B列78行。
+正在檢查第79行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第79行的單元格中沒有找到匹配項。
+正在檢查第80行的單元格，其值為: PIPE NIPPLE SMLS POE/TOE S-40 CS ASTM A106 Gr.B W/ HDZ. L=75mm ASME-B36.10M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'NIPPLE', 'SMLS', 'POE/TOE', 'S', '40', 'CS', 'ASTM', 'A106', 'Gr', 'B', 'W/', 'HDZ', 'L', '75mm', 'ASME', 'B36', '10M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第80行的單元格中找到了匹配項 Pipe。正在將值寫入B列80行。
+正在檢查第81行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第81行的單元格中沒有找到匹配項。
+正在檢查第82行的單元格，其值為: PIPE SMLS PE S-40 CS ASTM A106 Gr.B W/ HDZ. ASME-B36.10M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'SMLS', 'PE', 'S', '40', 'CS', 'ASTM', 'A106', 'Gr', 'B', 'W/', 'HDZ', 'ASME', 'B36', '10M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第82行的單元格中找到了匹配項 Pipe。正在將值寫入B列82行。
+正在檢查第83行的單元格，其值為: AI-5-001B_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AI', '5', '001B_AN']
+in_match沒有匹配值
+在第83行的單元格中沒有找到匹配項。
+正在檢查第84行的單元格，其值為: PIPE SMLS PE S-40 CS ASTM A106 Gr.B W/ HDZ. ASME-B36.10M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'SMLS', 'PE', 'S', '40', 'CS', 'ASTM', 'A106', 'Gr', 'B', 'W/', 'HDZ', 'ASME', 'B36', '10M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第84行的單元格中找到了匹配項 Pipe。正在將值寫入B列84行。
+正在檢查第85行的單元格，其值為: AI-5-001B_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AI', '5', '001B_AN']
+in_match沒有匹配值
+在第85行的單元格中沒有找到匹配項。
+正在檢查第86行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第86行的單元格中沒有找到匹配項。
+正在檢查第87行的單元格，其值為: PIPE ERW BE S-40 CS ASTM A53 Gr.B W/ HDZ. ASME-B36.10M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'ERW', 'BE', 'S', '40', 'CS', 'ASTM', 'A53', 'Gr', 'B', 'W/', 'HDZ', 'ASME', 'B36', '10M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第87行的單元格中找到了匹配項 Pipe。正在將值寫入B列87行。
+正在檢查第88行的單元格，其值為: WI-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '006_AN']
+in_match沒有匹配值
+在第88行的單元格中沒有找到匹配項。
+正在檢查第89行的單元格，其值為: PIPE ERW BE S-40 CS ASTM A53 Gr.B W/ HDZ. ASME-B36.10M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'ERW', 'BE', 'S', '40', 'CS', 'ASTM', 'A53', 'Gr', 'B', 'W/', 'HDZ', 'ASME', 'B36', '10M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第89行的單元格中找到了匹配項 Pipe。正在將值寫入B列89行。
+正在檢查第90行的單元格，其值為: WI-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '006_AN']
+in_match沒有匹配值
+在第90行的單元格中沒有找到匹配項。
+正在檢查第91行的單元格，其值為: Instrument Tag No. PRV-5701
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'PRV', '5701']
+in_match沒有匹配值
+在第91行的單元格中沒有找到匹配項。
+正在檢查第92行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第92行的單元格中沒有找到匹配項。
+正在檢查第93行的單元格，其值為: CONCENTRIC REDUCER SMLS BW S-40 X S-40CS ASTM A234 Gr.WPB W/ HDZ. ASME-B16.9
+exact_match_start沒有匹配值
+re.split的結果為: ['CONCENTRIC', 'REDUCER', 'SMLS', 'BW', 'S', '40', 'X', 'S', '40CS', 'ASTM', 'A234', 'Gr', 'WPB', 'W/', 'HDZ', 'ASME', 'B16', '9']
+正在檢查單詞 REDUCER 與關鍵字 Reducer 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Reducer
+在第93行的單元格中找到了匹配項 Reducer。正在將值寫入B列93行。
+正在檢查第94行的單元格，其值為: WI-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '006_AN']
+in_match沒有匹配值
+在第94行的單元格中沒有找到匹配項。
+正在檢查第95行的單元格，其值為: Instrument Tag No. RO-5701
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'RO', '5701']
+in_match沒有匹配值
+在第95行的單元格中沒有找到匹配項。
+正在檢查第96行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第96行的單元格中沒有找到匹配項。
+正在檢查第97行的單元格，其值為: SOCKOLET CL3000 SW CS ASTM A105 W/ HDZ. MSS-SP-97
+exact_match_start沒有匹配值
+re.split的結果為: ['SOCKOLET', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'MSS', 'SP', '97']
+正在檢查單詞 SOCKOLET 與關鍵字 Sockolet 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Sockolet
+在第97行的單元格中找到了匹配項 Sockolet。正在將值寫入B列97行。
+正在檢查第98行的單元格，其值為: WI-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '006_AN']
+in_match沒有匹配值
+在第98行的單元格中沒有找到匹配項。
+正在檢查第99行的單元格，其值為: REDU. TEE CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['REDU', 'TEE', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 TEE 與關鍵字 Tee 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Tee
+在第99行的單元格中找到了匹配項 Tee。正在將值寫入B列99行。
+正在檢查第100行的單元格，其值為: AI-5-001B_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AI', '5', '001B_AN']
+in_match沒有匹配值
+在第100行的單元格中沒有找到匹配項。
+正在檢查第101行的單元格，其值為: BALL VALVE CL800 FNPT (N7V-5002)
+exact_match_start沒有匹配值
+re.split的結果為: ['BALL', 'VALVE', 'CL800', 'FNPT', 'N7V', '5002', '']
+使用了整體匹配模組，匹配關鍵字為: Ball Valve
+在第101行的單元格中找到了匹配項 Ball Valve。正在將值寫入B列101行。
+正在檢查第102行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第102行的單元格中沒有找到匹配項。
+正在檢查第103行的單元格，其值為: CHECK VALVE CL800 SW (N7V-5003)
+exact_match_start沒有匹配值
+re.split的結果為: ['CHECK', 'VALVE', 'CL800', 'SW', 'N7V', '5003', '']
+使用了整體匹配模組，匹配關鍵字為: Check Valve
+在第103行的單元格中找到了匹配項 Check Valve。正在將值寫入B列103行。
+正在檢查第104行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第104行的單元格中沒有找到匹配項。
+正在檢查第105行的單元格，其值為: GATE VALVE CL800 SW/FNPT (AI-)
+exact_match_start沒有匹配值
+re.split的結果為: ['GATE', 'VALVE', 'CL800', 'SW/FNPT', 'AI', '']
+使用了整體匹配模組，匹配關鍵字為: Gate Valve
+在第105行的單元格中找到了匹配項 Gate Valve。正在將值寫入B列105行。
+正在檢查第106行的單元格，其值為: AI-5-001B_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AI', '5', '001B_AN']
+in_match沒有匹配值
+在第106行的單元格中沒有找到匹配項。
+正在檢查第107行的單元格，其值為: 65 mm BOLT & NUT UNC STUD SS ASTM A193 Gr.B8 W/ TWO HEAVY HEX NUTS ASTM A194 Gr.8 ASME/ANSI B1.1 B18.2.2
+exact_match_start沒有匹配值
+re.split的結果為: ['65', 'mm', 'BOLT', '&', 'NUT', 'UNC', 'STUD', 'SS', 'ASTM', 'A193', 'Gr', 'B8', 'W/', 'TWO', 'HEAVY', 'HEX', 'NUTS', 'ASTM', 'A194', 'Gr', '8', 'ASME/ANSI', 'B1', '1', 'B18', '2', '2']
+正在檢查單詞 BOLT 與關鍵字 Bolt 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Bolt
+在第107行的單元格中找到了匹配項 Bolt。正在將值寫入B列107行。
+正在檢查第108行的單元格，其值為: T-5071-G1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5071', 'G1_AN']
+in_match沒有匹配值
+在第108行的單元格中沒有找到匹配項。
+正在檢查第109行的單元格，其值為: T-5701-G2_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'G2_AN']
+in_match沒有匹配值
+在第109行的單元格中沒有找到匹配項。
+正在檢查第110行的單元格，其值為: T-5702-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N3_AN']
+in_match沒有匹配值
+在第110行的單元格中沒有找到匹配項。
+正在檢查第111行的單元格，其值為: T-5702-N6_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N6_AN']
+in_match沒有匹配值
+在第111行的單元格中沒有找到匹配項。
+正在檢查第112行的單元格，其值為: 80 mm BOLT & NUT UNC STUD SS ASTM A193 Gr.B8 W/ TWO HEAVY HEX NUTS ASTM A194 Gr.8 ASME/ANSI B1.1 B18.2.2
+exact_match_start沒有匹配值
+re.split的結果為: ['80', 'mm', 'BOLT', '&', 'NUT', 'UNC', 'STUD', 'SS', 'ASTM', 'A193', 'Gr', 'B8', 'W/', 'TWO', 'HEAVY', 'HEX', 'NUTS', 'ASTM', 'A194', 'Gr', '8', 'ASME/ANSI', 'B1', '1', 'B18', '2', '2']
+正在檢查單詞 BOLT 與關鍵字 Bolt 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Bolt
+在第112行的單元格中找到了匹配項 Bolt。正在將值寫入B列112行。
+正在檢查第113行的單元格，其值為: T-5701-T1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T1_AN']
+in_match沒有匹配值
+在第113行的單元格中沒有找到匹配項。
+正在檢查第114行的單元格，其值為: T-5701-T2_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T2_AN']
+in_match沒有匹配值
+在第114行的單元格中沒有找到匹配項。
+正在檢查第115行的單元格，其值為: T-5702-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N3_AN']
+in_match沒有匹配值
+在第115行的單元格中沒有找到匹配項。
+正在檢查第116行的單元格，其值為: 100 mm BOLT & NUT UNC STUD SS ASTM A193 Gr.B8 W/ TWO HEAVY HEX NUTS ASTM A194 Gr.8 ASME/ANSI B1.1 B18.2.2
+exact_match_start沒有匹配值
+re.split的結果為: ['100', 'mm', 'BOLT', '&', 'NUT', 'UNC', 'STUD', 'SS', 'ASTM', 'A193', 'Gr', 'B8', 'W/', 'TWO', 'HEAVY', 'HEX', 'NUTS', 'ASTM', 'A194', 'Gr', '8', 'ASME/ANSI', 'B1', '1', 'B18', '2', '2']
+正在檢查單詞 BOLT 與關鍵字 Bolt 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Bolt
+在第116行的單元格中找到了匹配項 Bolt。正在將值寫入B列116行。
+正在檢查第117行的單元格，其值為: AN-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '008_AN']
+in_match沒有匹配值
+在第117行的單元格中沒有找到匹配項。
+正在檢查第118行的單元格，其值為: T-5701-LS_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'LS_AN']
+in_match沒有匹配值
+在第118行的單元格中沒有找到匹配項。
+正在檢查第119行的單元格，其值為: T-5701-LT_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'LT_AN']
+in_match沒有匹配值
+在第119行的單元格中沒有找到匹配項。
+正在檢查第120行的單元格，其值為: T-5701-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'N3_AN']
+in_match沒有匹配值
+在第120行的單元格中沒有找到匹配項。
+正在檢查第121行的單元格，其值為: T-5701-P_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'P_AN']
+in_match沒有匹配值
+在第121行的單元格中沒有找到匹配項。
+正在檢查第122行的單元格，其值為: 85 mm BOLT & NUT UNC STUD SS ASTM A193 Gr.B8 W/ TWO HEAVY HEX NUTS ASTM A194 Gr.8 ASME/ANSI B1.1 B18.2.2
+exact_match_start沒有匹配值
+re.split的結果為: ['85', 'mm', 'BOLT', '&', 'NUT', 'UNC', 'STUD', 'SS', 'ASTM', 'A193', 'Gr', 'B8', 'W/', 'TWO', 'HEAVY', 'HEX', 'NUTS', 'ASTM', 'A194', 'Gr', '8', 'ASME/ANSI', 'B1', '1', 'B18', '2', '2']
+正在檢查單詞 BOLT 與關鍵字 Bolt 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Bolt
+在第122行的單元格中找到了匹配項 Bolt。正在將值寫入B列122行。
+正在檢查第123行的單元格，其值為: AN-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '006_AN']
+in_match沒有匹配值
+在第123行的單元格中沒有找到匹配項。
+正在檢查第124行的單元格，其值為: AN-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '007_AN']
+in_match沒有匹配值
+在第124行的單元格中沒有找到匹配項。
+正在檢查第125行的單元格，其值為: T-5701-B3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'B3_AN']
+in_match沒有匹配值
+在第125行的單元格中沒有找到匹配項。
+正在檢查第126行的單元格，其值為: FULL COUPLING CL3000 SW/FNPT SS ASTM A182 Gr.F304 ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['FULL', 'COUPLING', 'CL3000', 'SW/FNPT', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'ASME', 'B16', '11']
+正在檢查單詞 COUPLING 與關鍵字 Coupling 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Coupling
+在第126行的單元格中找到了匹配項 Coupling。正在將值寫入B列126行。
+正在檢查第127行的單元格，其值為: T-5701-P_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'P_AN']
+in_match沒有匹配值
+在第127行的單元格中沒有找到匹配項。
+正在檢查第128行的單元格，其值為: FULL COUPLING CL3000 SW/FNPT SS ASTM A182 Gr.F304 ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['FULL', 'COUPLING', 'CL3000', 'SW/FNPT', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'ASME', 'B16', '11']
+正在檢查單詞 COUPLING 與關鍵字 Coupling 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Coupling
+在第128行的單元格中找到了匹配項 Coupling。正在將值寫入B列128行。
+正在檢查第129行的單元格，其值為: T-5701-T1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T1_AN']
+in_match沒有匹配值
+在第129行的單元格中沒有找到匹配項。
+正在檢查第130行的單元格，其值為: T-5701-T2_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T2_AN']
+in_match沒有匹配值
+在第130行的單元格中沒有找到匹配項。
+正在檢查第131行的單元格，其值為: 90 ELBOW SMLS BW S-10S SSASTM A403 Gr.WP304 ASME-B16.9
+exact_match_start沒有匹配值
+re.split的結果為: ['90', 'ELBOW', 'SMLS', 'BW', 'S', '10S', 'SSASTM', 'A403', 'Gr', 'WP304', 'ASME', 'B16', '9']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第131行的單元格中找到了匹配項 Elbow。正在將值寫入B列131行。
+正在檢查第132行的單元格，其值為: AN-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '008_AN']
+in_match沒有匹配值
+在第132行的單元格中沒有找到匹配項。
+正在檢查第133行的單元格，其值為: T-5701-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'N3_AN']
+in_match沒有匹配值
+在第133行的單元格中沒有找到匹配項。
+正在檢查第134行的單元格，其值為: 90 ELBOW CL3000 SW SS ASTM A182 Gr.F304 ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['90', 'ELBOW', 'CL3000', 'SW', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'ASME', 'B16', '11']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第134行的單元格中找到了匹配項 Elbow。正在將值寫入B列134行。
+正在檢查第135行的單元格，其值為: T-5702-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N3_AN']
+in_match沒有匹配值
+在第135行的單元格中沒有找到匹配項。
+正在檢查第136行的單元格，其值為: 45 ELBOW CL3000 SW SS ASTM A182 Gr.F304 ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['45', 'ELBOW', 'CL3000', 'SW', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'ASME', 'B16', '11']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第136行的單元格中找到了匹配項 Elbow。正在將值寫入B列136行。
+正在檢查第137行的單元格，其值為: AN-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '006_AN']
+in_match沒有匹配值
+在第137行的單元格中沒有找到匹配項。
+正在檢查第138行的單元格，其值為: 90 ELBOW CL3000 SW SS ASTM A182 Gr.F304 ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['90', 'ELBOW', 'CL3000', 'SW', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'ASME', 'B16', '11']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第138行的單元格中找到了匹配項 Elbow。正在將值寫入B列138行。
+正在檢查第139行的單元格，其值為: AN-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '006_AN']
+in_match沒有匹配值
+在第139行的單元格中沒有找到匹配項。
+正在檢查第140行的單元格，其值為: AN-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '007_AN']
+in_match沒有匹配值
+在第140行的單元格中沒有找到匹配項。
+正在檢查第141行的單元格，其值為: 90 ELBOW CL3000 SW SS ASTM A182 Gr.F304 ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['90', 'ELBOW', 'CL3000', 'SW', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'ASME', 'B16', '11']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第141行的單元格中找到了匹配項 Elbow。正在將值寫入B列141行。
+正在檢查第142行的單元格，其值為: T-5702-N6_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N6_AN']
+in_match沒有匹配值
+在第142行的單元格中沒有找到匹配項。
+正在檢查第143行的單元格，其值為: Instrument Tag No. FG-5702
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'FG', '5702']
+in_match沒有匹配值
+在第143行的單元格中沒有找到匹配項。
+正在檢查第144行的單元格，其值為: T-5702-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N3_AN']
+in_match沒有匹配值
+在第144行的單元格中沒有找到匹配項。
+正在檢查第145行的單元格，其值為: SOCKET WELD FLANGE CL150 RF 125-250 RA-FN S-10S SS ASTM A182 Gr.F304 ASME-B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['SOCKET', 'WELD', 'FLANGE', 'CL150', 'RF', '125', '250', 'RA', 'FN', 'S', '10S', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'ASME', 'B16', '5']
+正在檢查單詞 SOCKET 與關鍵字 Sockolet 的相似度，相似度為 0.8571428571428571
+使用了整體匹配模組，匹配關鍵字為: Socket Weld Flange
+在第145行的單元格中找到了匹配項 Socket Weld Flange。正在將值寫入B列145行。
+正在檢查第146行的單元格，其值為: T-5701-T1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T1_AN']
+in_match沒有匹配值
+在第146行的單元格中沒有找到匹配項。
+正在檢查第147行的單元格，其值為: T-5701-T2_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T2_AN']
+in_match沒有匹配值
+在第147行的單元格中沒有找到匹配項。
+正在檢查第148行的單元格，其值為: T-5702-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N3_AN']
+in_match沒有匹配值
+在第148行的單元格中沒有找到匹配項。
+正在檢查第149行的單元格，其值為: SOCKET WELD FLANGE CL150 RF 125-250 RA-FN S-10S SS ASTM A182 Gr.F304 ASME-B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['SOCKET', 'WELD', 'FLANGE', 'CL150', 'RF', '125', '250', 'RA', 'FN', 'S', '10S', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'ASME', 'B16', '5']
+正在檢查單詞 SOCKET 與關鍵字 Sockolet 的相似度，相似度為 0.8571428571428571
+使用了整體匹配模組，匹配關鍵字為: Socket Weld Flange
+在第149行的單元格中找到了匹配項 Socket Weld Flange。正在將值寫入B列149行。
+正在檢查第150行的單元格，其值為: AN-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '006_AN']
+in_match沒有匹配值
+在第150行的單元格中沒有找到匹配項。
+正在檢查第151行的單元格，其值為: AN-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '007_AN']
+in_match沒有匹配值
+在第151行的單元格中沒有找到匹配項。
+正在檢查第152行的單元格，其值為: T-5701-B3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'B3_AN']
+in_match沒有匹配值
+在第152行的單元格中沒有找到匹配項。
+正在檢查第153行的單元格，其值為: LAP JOINT FLANGE CL150 CS ASTM A105 ASME-B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['LAP', 'JOINT', 'FLANGE', 'CL150', 'CS', 'ASTM', 'A105', 'ASME', 'B16', '5']
+使用了整體匹配模組，匹配關鍵字為: Lap Joint Flange
+在第153行的單元格中找到了匹配項 Lap Joint Flange。正在將值寫入B列153行。
+正在檢查第154行的單元格，其值為: T-5701-P_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'P_AN']
+in_match沒有匹配值
+在第154行的單元格中沒有找到匹配項。
+正在檢查第155行的單元格，其值為: SOCKET WELD FLANGE CL150 RF 125-250 RA-FN S-10S SS ASTM A182 Gr.F304 ASME-B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['SOCKET', 'WELD', 'FLANGE', 'CL150', 'RF', '125', '250', 'RA', 'FN', 'S', '10S', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'ASME', 'B16', '5']
+正在檢查單詞 SOCKET 與關鍵字 Sockolet 的相似度，相似度為 0.8571428571428571
+使用了整體匹配模組，匹配關鍵字為: Socket Weld Flange
+在第155行的單元格中找到了匹配項 Socket Weld Flange。正在將值寫入B列155行。
+正在檢查第156行的單元格，其值為: T-5071-G1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5071', 'G1_AN']
+in_match沒有匹配值
+在第156行的單元格中沒有找到匹配項。
+正在檢查第157行的單元格，其值為: T-5701-G2_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'G2_AN']
+in_match沒有匹配值
+在第157行的單元格中沒有找到匹配項。
+正在檢查第158行的單元格，其值為: T-5702-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N3_AN']
+in_match沒有匹配值
+在第158行的單元格中沒有找到匹配項。
+正在檢查第159行的單元格，其值為: T-5702-N6_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N6_AN']
+in_match沒有匹配值
+在第159行的單元格中沒有找到匹配項。
+正在檢查第160行的單元格，其值為: LAP JOINT FLANGE CL150 CS ASTM A105 ASME-B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['LAP', 'JOINT', 'FLANGE', 'CL150', 'CS', 'ASTM', 'A105', 'ASME', 'B16', '5']
+使用了整體匹配模組，匹配關鍵字為: Lap Joint Flange
+在第160行的單元格中找到了匹配項 Lap Joint Flange。正在將值寫入B列160行。
+正在檢查第161行的單元格，其值為: AN-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '008_AN']
+in_match沒有匹配值
+在第161行的單元格中沒有找到匹配項。
+正在檢查第162行的單元格，其值為: T-5701-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'N3_AN']
+in_match沒有匹配值
+在第162行的單元格中沒有找到匹配項。
+正在檢查第163行的單元格，其值為: GASKET CL150 RF 4.5mm THCK SP-WD SS 304 AND FILLER FLEX. GRAPHITE NON-ASB. FREE W/O.R. C.S. ASME B16.20B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['GASKET', 'CL150', 'RF', '4', '5mm', 'THCK', 'SP', 'WD', 'SS', '304', 'AND', 'FILLER', 'FLEX', 'GRAPHITE', 'NON', 'ASB', 'FREE', 'W/O', 'R', 'C', 'S', 'ASME', 'B16', '20B16', '5']
+正在檢查單詞 GASKET 與關鍵字 Gasket 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Gasket
+在第163行的單元格中找到了匹配項 Gasket。正在將值寫入B列163行。
+正在檢查第164行的單元格，其值為: T-5701-T1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T1_AN']
+in_match沒有匹配值
+在第164行的單元格中沒有找到匹配項。
+正在檢查第165行的單元格，其值為: T-5701-T2_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T2_AN']
+in_match沒有匹配值
+在第165行的單元格中沒有找到匹配項。
+正在檢查第166行的單元格，其值為: T-5702-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N3_AN']
+in_match沒有匹配值
+在第166行的單元格中沒有找到匹配項。
+正在檢查第167行的單元格，其值為: GASKET CL150 RF 4.5mm THCK SP-WD SS 304 AND FILLER FLEX. GRAPHITE NON-ASB. FREE W/O.R. C.S. ASME B16.20B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['GASKET', 'CL150', 'RF', '4', '5mm', 'THCK', 'SP', 'WD', 'SS', '304', 'AND', 'FILLER', 'FLEX', 'GRAPHITE', 'NON', 'ASB', 'FREE', 'W/O', 'R', 'C', 'S', 'ASME', 'B16', '20B16', '5']
+正在檢查單詞 GASKET 與關鍵字 Gasket 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Gasket
+在第167行的單元格中找到了匹配項 Gasket。正在將值寫入B列167行。
+正在檢查第168行的單元格，其值為: AN-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '006_AN']
+in_match沒有匹配值
+在第168行的單元格中沒有找到匹配項。
+正在檢查第169行的單元格，其值為: AN-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '007_AN']
+in_match沒有匹配值
+在第169行的單元格中沒有找到匹配項。
+正在檢查第170行的單元格，其值為: T-5701-B3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'B3_AN']
+in_match沒有匹配值
+在第170行的單元格中沒有找到匹配項。
+正在檢查第171行的單元格，其值為: GASKET CL150 RF 4.5mm THCK SP-WD SS 304 AND FILLER FLEX. GRAPHITE NON-ASB. FREE W/O.R. C.S. ASME B16.20B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['GASKET', 'CL150', 'RF', '4', '5mm', 'THCK', 'SP', 'WD', 'SS', '304', 'AND', 'FILLER', 'FLEX', 'GRAPHITE', 'NON', 'ASB', 'FREE', 'W/O', 'R', 'C', 'S', 'ASME', 'B16', '20B16', '5']
+正在檢查單詞 GASKET 與關鍵字 Gasket 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Gasket
+在第171行的單元格中找到了匹配項 Gasket。正在將值寫入B列171行。
+正在檢查第172行的單元格，其值為: T-5701-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'N3_AN']
+in_match沒有匹配值
+在第172行的單元格中沒有找到匹配項。
+正在檢查第173行的單元格，其值為: T-5701-P_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'P_AN']
+in_match沒有匹配值
+在第173行的單元格中沒有找到匹配項。
+正在檢查第174行的單元格，其值為: GASKET CL150 RF 4.5mm THCK SP-WD SS 304 AND FILLER FLEX. GRAPHITE NON-ASB. FREE W/O.R. C.S. ASME B16.20B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['GASKET', 'CL150', 'RF', '4', '5mm', 'THCK', 'SP', 'WD', 'SS', '304', 'AND', 'FILLER', 'FLEX', 'GRAPHITE', 'NON', 'ASB', 'FREE', 'W/O', 'R', 'C', 'S', 'ASME', 'B16', '20B16', '5']
+正在檢查單詞 GASKET 與關鍵字 Gasket 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Gasket
+在第174行的單元格中找到了匹配項 Gasket。正在將值寫入B列174行。
+正在檢查第175行的單元格，其值為: T-5071-G1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5071', 'G1_AN']
+in_match沒有匹配值
+在第175行的單元格中沒有找到匹配項。
+正在檢查第176行的單元格，其值為: T-5701-G2_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'G2_AN']
+in_match沒有匹配值
+在第176行的單元格中沒有找到匹配項。
+正在檢查第177行的單元格，其值為: T-5702-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N3_AN']
+in_match沒有匹配值
+在第177行的單元格中沒有找到匹配項。
+正在檢查第178行的單元格，其值為: T-5702-N6_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N6_AN']
+in_match沒有匹配值
+在第178行的單元格中沒有找到匹配項。
+正在檢查第179行的單元格，其值為: GASKET CL150 RF 4.5mm THCK SP-WD SS 304 AND FILLER FLEX. GRAPHITE NON-ASB. FREE W/O.R. C.S. ASME B16.20B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['GASKET', 'CL150', 'RF', '4', '5mm', 'THCK', 'SP', 'WD', 'SS', '304', 'AND', 'FILLER', 'FLEX', 'GRAPHITE', 'NON', 'ASB', 'FREE', 'W/O', 'R', 'C', 'S', 'ASME', 'B16', '20B16', '5']
+正在檢查單詞 GASKET 與關鍵字 Gasket 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Gasket
+在第179行的單元格中找到了匹配項 Gasket。正在將值寫入B列179行。
+正在檢查第180行的單元格，其值為: AN-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '008_AN']
+in_match沒有匹配值
+在第180行的單元格中沒有找到匹配項。
+正在檢查第181行的單元格，其值為: T-5701-LS_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'LS_AN']
+in_match沒有匹配值
+在第181行的單元格中沒有找到匹配項。
+正在檢查第182行的單元格，其值為: T-5701-LT_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'LT_AN']
+in_match沒有匹配值
+在第182行的單元格中沒有找到匹配項。
+正在檢查第183行的單元格，其值為: T-5701-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'N3_AN']
+in_match沒有匹配值
+在第183行的單元格中沒有找到匹配項。
+正在檢查第184行的單元格，其值為: Instrument Tag No. LG-5701
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'LG', '5701']
+in_match沒有匹配值
+在第184行的單元格中沒有找到匹配項。
+正在檢查第185行的單元格，其值為: T-5071-G1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5071', 'G1_AN']
+in_match沒有匹配值
+在第185行的單元格中沒有找到匹配項。
+正在檢查第186行的單元格，其值為: Instrument Tag No. LS-5701
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'LS', '5701']
+in_match沒有匹配值
+在第186行的單元格中沒有找到匹配項。
+正在檢查第187行的單元格，其值為: T-5701-LS_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'LS_AN']
+in_match沒有匹配值
+在第187行的單元格中沒有找到匹配項。
+正在檢查第188行的單元格，其值為: Instrument Tag No. LT-5701
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'LT', '5701']
+in_match沒有匹配值
+在第188行的單元格中沒有找到匹配項。
+正在檢查第189行的單元格，其值為: T-5701-LT_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'LT_AN']
+in_match沒有匹配值
+在第189行的單元格中沒有找到匹配項。
+正在檢查第190行的單元格，其值為: PIPE SMLS PE S-10S SS ASTM A312 Gr.TP304 ASME-B36.19M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'SMLS', 'PE', 'S', '10S', 'SS', 'ASTM', 'A312', 'Gr', 'TP304', 'ASME', 'B36', '19M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第190行的單元格中找到了匹配項 Pipe。正在將值寫入B列190行。
+正在檢查第191行的單元格，其值為: T-5701-T1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T1_AN']
+in_match沒有匹配值
+在第191行的單元格中沒有找到匹配項。
+正在檢查第192行的單元格，其值為: T-5701-T2_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T2_AN']
+in_match沒有匹配值
+在第192行的單元格中沒有找到匹配項。
+正在檢查第193行的單元格，其值為: T-5702-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N3_AN']
+in_match沒有匹配值
+在第193行的單元格中沒有找到匹配項。
+正在檢查第194行的單元格，其值為: PIPE SMLS PE S-10S SS ASTM A312 Gr.TP304 ASME-B36.19M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'SMLS', 'PE', 'S', '10S', 'SS', 'ASTM', 'A312', 'Gr', 'TP304', 'ASME', 'B36', '19M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第194行的單元格中找到了匹配項 Pipe。正在將值寫入B列194行。
+正在檢查第195行的單元格，其值為: AN-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '006_AN']
+in_match沒有匹配值
+在第195行的單元格中沒有找到匹配項。
+正在檢查第196行的單元格，其值為: AN-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '007_AN']
+in_match沒有匹配值
+在第196行的單元格中沒有找到匹配項。
+正在檢查第197行的單元格，其值為: T-5701-B3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'B3_AN']
+in_match沒有匹配值
+在第197行的單元格中沒有找到匹配項。
+正在檢查第198行的單元格，其值為: PIPE SMLS PE S-10S SS ASTM A312 Gr.TP304 ASME-B36.19M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'SMLS', 'PE', 'S', '10S', 'SS', 'ASTM', 'A312', 'Gr', 'TP304', 'ASME', 'B36', '19M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第198行的單元格中找到了匹配項 Pipe。正在將值寫入B列198行。
+正在檢查第199行的單元格，其值為: T-5071-G1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5071', 'G1_AN']
+in_match沒有匹配值
+在第199行的單元格中沒有找到匹配項。
+正在檢查第200行的單元格，其值為: T-5701-G2_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'G2_AN']
+in_match沒有匹配值
+在第200行的單元格中沒有找到匹配項。
+正在檢查第201行的單元格，其值為: T-5702-N6_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N6_AN']
+in_match沒有匹配值
+在第201行的單元格中沒有找到匹配項。
+正在檢查第202行的單元格，其值為: PIPE EFW PE S-10S SS ASTM A312 Gr.TP304 ASME-B36.19M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'EFW', 'PE', 'S', '10S', 'SS', 'ASTM', 'A312', 'Gr', 'TP304', 'ASME', 'B36', '19M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第202行的單元格中找到了匹配項 Pipe。正在將值寫入B列202行。
+正在檢查第203行的單元格，其值為: AN-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '008_AN']
+in_match沒有匹配值
+在第203行的單元格中沒有找到匹配項。
+正在檢查第204行的單元格，其值為: Instrument Tag No. PG-5701
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'PG', '5701']
+in_match沒有匹配值
+在第204行的單元格中沒有找到匹配項。
+正在檢查第205行的單元格，其值為: T-5701-P_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'P_AN']
+in_match沒有匹配值
+在第205行的單元格中沒有找到匹配項。
+正在檢查第206行的單元格，其值為: QUICK CONNECTOR CL3000 SCRD(NPT)
+exact_match_start沒有匹配值
+re.split的結果為: ['QUICK', 'CONNECTOR', 'CL3000', 'SCRD', 'NPT', '']
+in_match沒有匹配值
+在第206行的單元格中沒有找到匹配項。
+正在檢查第207行的單元格，其值為: AN-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '006_AN']
+in_match沒有匹配值
+在第207行的單元格中沒有找到匹配項。
+正在檢查第208行的單元格，其值為: AN-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '007_AN']
+in_match沒有匹配值
+在第208行的單元格中沒有找到匹配項。
+正在檢查第209行的單元格，其值為: CONCENTRIC REDUCER SMLS BW S-10S X S-10S SS ASTM A403 Gr.F304 ASME-B16.9
+exact_match_start沒有匹配值
+re.split的結果為: ['CONCENTRIC', 'REDUCER', 'SMLS', 'BW', 'S', '10S', 'X', 'S', '10S', 'SS', 'ASTM', 'A403', 'Gr', 'F304', 'ASME', 'B16', '9']
+正在檢查單詞 REDUCER 與關鍵字 Reducer 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Reducer
+在第209行的單元格中找到了匹配項 Reducer。正在將值寫入B列209行。
+正在檢查第210行的單元格，其值為: T-5701-P_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'P_AN']
+in_match沒有匹配值
+在第210行的單元格中沒有找到匹配項。
+正在檢查第211行的單元格，其值為: CONCENTRIC SWAGE NIPPLE SMLS PBE S-10S X S-10S SS ASTM A182 Gr.F304 MSS-SP-95
+exact_match_start沒有匹配值
+re.split的結果為: ['CONCENTRIC', 'SWAGE', 'NIPPLE', 'SMLS', 'PBE', 'S', '10S', 'X', 'S', '10S', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'MSS', 'SP', '95']
+正在檢查單詞 NIPPLE 與關鍵字 Nipple 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Nipple
+在第211行的單元格中找到了匹配項 Nipple。正在將值寫入B列211行。
+正在檢查第212行的單元格，其值為: T-5702-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N3_AN']
+in_match沒有匹配值
+在第212行的單元格中沒有找到匹配項。
+正在檢查第213行的單元格，其值為: CONCENTRIC SWAGE NIPPLE SMLS PBE S-10S X S-10S SS ASTM A182 Gr.F304 MSS-SP-95
+exact_match_start沒有匹配值
+re.split的結果為: ['CONCENTRIC', 'SWAGE', 'NIPPLE', 'SMLS', 'PBE', 'S', '10S', 'X', 'S', '10S', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'MSS', 'SP', '95']
+正在檢查單詞 NIPPLE 與關鍵字 Nipple 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Nipple
+在第213行的單元格中找到了匹配項 Nipple。正在將值寫入B列213行。
+正在檢查第214行的單元格，其值為: T-5701-P_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'P_AN']
+in_match沒有匹配值
+在第214行的單元格中沒有找到匹配項。
+正在檢查第215行的單元格，其值為: STUB END SMLS BW S-10S SSASTM A403 Gr.WP304 125-250 RA-FN SHORTPARTTERN MSS SP-43
+exact_match_start沒有匹配值
+re.split的結果為: ['STUB', 'END', 'SMLS', 'BW', 'S', '10S', 'SSASTM', 'A403', 'Gr', 'WP304', '125', '250', 'RA', 'FN', 'SHORTPARTTERN', 'MSS', 'SP', '43']
+使用了整體匹配模組，匹配關鍵字為: Stub End
+在第215行的單元格中找到了匹配項 Stub End。正在將值寫入B列215行。
+正在檢查第216行的單元格，其值為: T-5701-P_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'P_AN']
+in_match沒有匹配值
+在第216行的單元格中沒有找到匹配項。
+正在檢查第217行的單元格，其值為: STUB END SMLS BW S-10S SSASTM A403 Gr.WP304 125-250 RA-FN SHORTPARTTERN MSS SP-43
+exact_match_start沒有匹配值
+re.split的結果為: ['STUB', 'END', 'SMLS', 'BW', 'S', '10S', 'SSASTM', 'A403', 'Gr', 'WP304', '125', '250', 'RA', 'FN', 'SHORTPARTTERN', 'MSS', 'SP', '43']
+使用了整體匹配模組，匹配關鍵字為: Stub End
+在第217行的單元格中找到了匹配項 Stub End。正在將值寫入B列217行。
+正在檢查第218行的單元格，其值為: AN-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '008_AN']
+in_match沒有匹配值
+在第218行的單元格中沒有找到匹配項。
+正在檢查第219行的單元格，其值為: T-5701-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'N3_AN']
+in_match沒有匹配值
+在第219行的單元格中沒有找到匹配項。
+正在檢查第220行的單元格，其值為: Instrument Tag No. TE-5701
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'TE', '5701']
+in_match沒有匹配值
+在第220行的單元格中沒有找到匹配項。
+正在檢查第221行的單元格，其值為: T-5701-T2_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T2_AN']
+in_match沒有匹配值
+在第221行的單元格中沒有找到匹配項。
+正在檢查第222行的單元格，其值為: Instrument Tag No. TG-5701
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'TG', '5701']
+in_match沒有匹配值
+在第222行的單元格中沒有找到匹配項。
+正在檢查第223行的單元格，其值為: T-5701-T1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T1_AN']
+in_match沒有匹配值
+在第223行的單元格中沒有找到匹配項。
+正在檢查第224行的單元格，其值為: REDU. TEE CL3000 SW SS ASTM A182 Gr.F304 ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['REDU', 'TEE', 'CL3000', 'SW', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'ASME', 'B16', '11']
+正在檢查單詞 TEE 與關鍵字 Tee 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Tee
+在第224行的單元格中找到了匹配項 Tee。正在將值寫入B列224行。
+正在檢查第225行的單元格，其值為: T-5702-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N3_AN']
+in_match沒有匹配值
+在第225行的單元格中沒有找到匹配項。
+正在檢查第226行的單元格，其值為: GATE VALVE CL800 SW (ANV-5030)
+exact_match_start沒有匹配值
+re.split的結果為: ['GATE', 'VALVE', 'CL800', 'SW', 'ANV', '5030', '']
+使用了整體匹配模組，匹配關鍵字為: Gate Valve
+在第226行的單元格中找到了匹配項 Gate Valve。正在將值寫入B列226行。
+正在檢查第227行的單元格，其值為: AN-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '007_AN']
+in_match沒有匹配值
+在第227行的單元格中沒有找到匹配項。
+正在檢查第228行的單元格，其值為: GATE VALVE CL800 SW (ANV-5036)
+exact_match_start沒有匹配值
+re.split的結果為: ['GATE', 'VALVE', 'CL800', 'SW', 'ANV', '5036', '']
+使用了整體匹配模組，匹配關鍵字為: Gate Valve
+在第228行的單元格中找到了匹配項 Gate Valve。正在將值寫入B列228行。
+正在檢查第229行的單元格，其值為: AN-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '006_AN']
+in_match沒有匹配值
+在第229行的單元格中沒有找到匹配項。
+正在檢查第230行的單元格，其值為: GATE VALVE CL800 SW (ANV-5037)
+exact_match_start沒有匹配值
+re.split的結果為: ['GATE', 'VALVE', 'CL800', 'SW', 'ANV', '5037', '']
+使用了整體匹配模組，匹配關鍵字為: Gate Valve
+在第230行的單元格中找到了匹配項 Gate Valve。正在將值寫入B列230行。
+正在檢查第231行的單元格，其值為: T-5701-B3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'B3_AN']
+in_match沒有匹配值
+在第231行的單元格中沒有找到匹配項。
+正在檢查第232行的單元格，其值為: GATE VALVE CL800 SW (ANV-5034)
+exact_match_start沒有匹配值
+re.split的結果為: ['GATE', 'VALVE', 'CL800', 'SW', 'ANV', '5034', '']
+使用了整體匹配模組，匹配關鍵字為: Gate Valve
+在第232行的單元格中找到了匹配項 Gate Valve。正在將值寫入B列232行。
+正在檢查第233行的單元格，其值為: T-5071-G1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5071', 'G1_AN']
+in_match沒有匹配值
+在第233行的單元格中沒有找到匹配項。
+正在檢查第234行的單元格，其值為: GATE VALVE CL800 SW (ANV-5035)
+exact_match_start沒有匹配值
+re.split的結果為: ['GATE', 'VALVE', 'CL800', 'SW', 'ANV', '5035', '']
+使用了整體匹配模組，匹配關鍵字為: Gate Valve
+在第234行的單元格中找到了匹配項 Gate Valve。正在將值寫入B列234行。
+正在檢查第235行的單元格，其值為: T-5701-G2_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'G2_AN']
+in_match沒有匹配值
+在第235行的單元格中沒有找到匹配項。
+正在檢查第236行的單元格，其值為: GLOBE VALVE CL800 SW (ANV-5038)
+exact_match_start沒有匹配值
+re.split的結果為: ['GLOBE', 'VALVE', 'CL800', 'SW', 'ANV', '5038', '']
+使用了整體匹配模組，匹配關鍵字為: Globe Valve
+在第236行的單元格中找到了匹配項 Globe Valve。正在將值寫入B列236行。
+正在檢查第237行的單元格，其值為: T-5702-N6_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N6_AN']
+in_match沒有匹配值
+在第237行的單元格中沒有找到匹配項。
+正在檢查第238行的單元格，其值為: Instrument Tag No. VSV-5701
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'VSV', '5701']
+in_match沒有匹配值
+在第238行的單元格中沒有找到匹配項。
+正在檢查第239行的單元格，其值為: T-5701-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'N3_AN']
+in_match沒有匹配值
+在第239行的單元格中沒有找到匹配項。
+正在檢查第240行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第240行的單元格中找到了匹配項 Support。正在將值寫入B列240行。
+正在檢查第241行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第241行的單元格中沒有找到匹配項。
+正在檢查第242行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第242行的單元格中找到了匹配項 Support。正在將值寫入B列242行。
+正在檢查第243行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第243行的單元格中沒有找到匹配項。
+正在檢查第244行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第244行的單元格中找到了匹配項 Support。正在將值寫入B列244行。
+正在檢查第245行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第245行的單元格中沒有找到匹配項。
+正在檢查第246行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第246行的單元格中找到了匹配項 Support。正在將值寫入B列246行。
+正在檢查第247行的單元格，其值為: AN-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '007_AN']
+in_match沒有匹配值
+在第247行的單元格中沒有找到匹配項。
+正在檢查第248行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第248行的單元格中找到了匹配項 Support。正在將值寫入B列248行。
+正在檢查第249行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第249行的單元格中沒有找到匹配項。
+正在檢查第250行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第250行的單元格中找到了匹配項 Support。正在將值寫入B列250行。
+正在檢查第251行的單元格，其值為: AN-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '007_AN']
+in_match沒有匹配值
+在第251行的單元格中沒有找到匹配項。
+正在檢查第252行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第252行的單元格中沒有找到匹配項。
+正在檢查第253行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第253行的單元格中找到了匹配項 Support。正在將值寫入B列253行。
+正在檢查第254行的單元格，其值為: WI-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '006_AN']
+in_match沒有匹配值
+在第254行的單元格中沒有找到匹配項。
+正在檢查第255行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第255行的單元格中找到了匹配項 Support。正在將值寫入B列255行。
+正在檢查第256行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第256行的單元格中沒有找到匹配項。
+正在檢查第257行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第257行的單元格中找到了匹配項 Support。正在將值寫入B列257行。
+正在檢查第258行的單元格，其值為: T-5702-N6_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N6_AN']
+in_match沒有匹配值
+在第258行的單元格中沒有找到匹配項。
+正在檢查第259行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第259行的單元格中找到了匹配項 Support。正在將值寫入B列259行。
+正在檢查第260行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第260行的單元格中沒有找到匹配項。
+正在檢查第261行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第261行的單元格中找到了匹配項 Support。正在將值寫入B列261行。
+正在檢查第262行的單元格，其值為: WI-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '006_AN']
+in_match沒有匹配值
+在第262行的單元格中沒有找到匹配項。
+正在檢查第263行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第263行的單元格中找到了匹配項 Support。正在將值寫入B列263行。
+正在檢查第264行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第264行的單元格中沒有找到匹配項。
+正在檢查第265行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第265行的單元格中找到了匹配項 Support。正在將值寫入B列265行。
+正在檢查第266行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第266行的單元格中沒有找到匹配項。
+正在檢查第267行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第267行的單元格中找到了匹配項 Support。正在將值寫入B列267行。
+正在檢查第268行的單元格，其值為: WI-5-009_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '009_AN']
+in_match沒有匹配值
+在第268行的單元格中沒有找到匹配項。
+正在檢查第269行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第269行的單元格中找到了匹配項 Support。正在將值寫入B列269行。
+正在檢查第270行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第270行的單元格中沒有找到匹配項。
+正在檢查第271行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第271行的單元格中找到了匹配項 Support。正在將值寫入B列271行。
+正在檢查第272行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第272行的單元格中沒有找到匹配項。
+正在檢查第273行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第273行的單元格中找到了匹配項 Support。正在將值寫入B列273行。
+正在檢查第274行的單元格，其值為: AN-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '008_AN']
+in_match沒有匹配值
+在第274行的單元格中沒有找到匹配項。
+正在檢查第275行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第275行的單元格中找到了匹配項 Support。正在將值寫入B列275行。
+正在檢查第276行的單元格，其值為: AI-5-001B_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AI', '5', '001B_AN']
+in_match沒有匹配值
+在第276行的單元格中沒有找到匹配項。
+正在檢查第277行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第277行的單元格中沒有找到匹配項。
+正在檢查第278行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第278行的單元格中找到了匹配項 Support。正在將值寫入B列278行。
+正在檢查第279行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第279行的單元格中沒有找到匹配項。
+正在檢查第280行的單元格，其值為: WI-5-009_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '009_AN']
+in_match沒有匹配值
+在第280行的單元格中沒有找到匹配項。
+正在檢查第281行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第281行的單元格中找到了匹配項 Support。正在將值寫入B列281行。
+正在檢查第282行的單元格，其值為: AN-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '006_AN']
+in_match沒有匹配值
+在第282行的單元格中沒有找到匹配項。
+正在檢查第283行的單元格，其值為: AN-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '007_AN']
+in_match沒有匹配值
+在第283行的單元格中沒有找到匹配項。
+正在檢查第284行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第284行的單元格中沒有找到匹配項。
+正在檢查第285行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第285行的單元格中找到了匹配項 Support。正在將值寫入B列285行。
+正在檢查第286行的單元格，其值為: AN-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '006_AN']
+in_match沒有匹配值
+在第286行的單元格中沒有找到匹配項。
+正在檢查第287行的單元格，其值為: AN-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '007_AN']
+in_match沒有匹配值
+在第287行的單元格中沒有找到匹配項。
+正在檢查第288行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第288行的單元格中沒有找到匹配項。
+正在檢查第289行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第289行的單元格中找到了匹配項 Support。正在將值寫入B列289行。
+正在檢查第290行的單元格，其值為: T-5702-N6_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N6_AN']
+in_match沒有匹配值
+在第290行的單元格中沒有找到匹配項。
+正在檢查第291行的單元格，其值為: WI-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '008_AN']
+in_match沒有匹配值
+在第291行的單元格中沒有找到匹配項。
+正在檢查第292行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第292行的單元格中找到了匹配項 Support。正在將值寫入B列292行。
+正在檢查第293行的單元格，其值為: WI-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '006_AN']
+in_match沒有匹配值
+在第293行的單元格中沒有找到匹配項。
+正在檢查第294行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第294行的單元格中找到了匹配項 Support。正在將值寫入B列294行。
+正在檢查第295行的單元格，其值為: WI-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '006_AN']
+in_match沒有匹配值
+在第295行的單元格中沒有找到匹配項。
+正在檢查第296行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第296行的單元格中找到了匹配項 Support。正在將值寫入B列296行。
+正在檢查第297行的單元格，其值為: AN-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '008_AN']
+in_match沒有匹配值
+在第297行的單元格中沒有找到匹配項。
+正在檢查第298行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第298行的單元格中找到了匹配項 Support。正在將值寫入B列298行。
+正在檢查第299行的單元格，其值為: AN-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '006_AN']
+in_match沒有匹配值
+在第299行的單元格中沒有找到匹配項。
+正在檢查第300行的單元格，其值為: AN-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '007_AN']
+in_match沒有匹配值
+在第300行的單元格中沒有找到匹配項。
 正在保存Excel文件...
 Excel文件保存成功。
+正在嘗試加載Excel文件...
+Excel文件成功加載。
+開始迭代工作表中的{ws.max_row}行...
+正在檢查第1行的單元格，其值為: Description
+exact_match_start沒有匹配值
+re.split的結果為: ['Description']
+in_match沒有匹配值
+在第1行的單元格中沒有找到匹配項。
+正在檢查第2行的單元格，其值為: 130 mm BOLT & NUT UNC STUD AS ASTM A193 Gr.B7 W /TWO HEAVY HEX NUTS W/ ZINC-CHROMEATE COATING ASTM A194 Gr.2H ASME/ANSI B1.1 B18.2.2
+exact_match_start沒有匹配值
+re.split的結果為: ['130', 'mm', 'BOLT', '&', 'NUT', 'UNC', 'STUD', 'AS', 'ASTM', 'A193', 'Gr', 'B7', 'W', '/TWO', 'HEAVY', 'HEX', 'NUTS', 'W/', 'ZINC', 'CHROMEATE', 'COATING', 'ASTM', 'A194', 'Gr', '2H', 'ASME/ANSI', 'B1', '1', 'B18', '2', '2']
+正在檢查單詞 BOLT 與關鍵字 Bolt 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Bolt
+在第2行的單元格中找到了匹配項 Bolt。正在將值寫入B列2行。
+正在檢查第3行的單元格，其值為: T-5701-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'N3_AN']
+in_match沒有匹配值
+在第3行的單元格中沒有找到匹配項。
+正在檢查第4行的單元格，其值為: 75 mm BOLT & NUT UNC STUD AS ASTM A193 Gr.B7 W/ TWO HEAVY HEX NUTS ASTM A194 Gr.2H W/ HDZ. ASME/ANSI B1.1 B18.2.2
+exact_match_start沒有匹配值
+re.split的結果為: ['75', 'mm', 'BOLT', '&', 'NUT', 'UNC', 'STUD', 'AS', 'ASTM', 'A193', 'Gr', 'B7', 'W/', 'TWO', 'HEAVY', 'HEX', 'NUTS', 'ASTM', 'A194', 'Gr', '2H', 'W/', 'HDZ', 'ASME/ANSI', 'B1', '1', 'B18', '2', '2']
+正在檢查單詞 BOLT 與關鍵字 Bolt 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Bolt
+在第4行的單元格中找到了匹配項 Bolt。正在將值寫入B列4行。
+正在檢查第5行的單元格，其值為: WI-5-009_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '009_AN']
+in_match沒有匹配值
+在第5行的單元格中沒有找到匹配項。
+正在檢查第6行的單元格，其值為: 85 mm BOLT & NUT UNC STUD AS ASTM A193 Gr.B7 W/ TWO HEAVY HEX NUTS ASTM A194 Gr.2H W/ HDZ. ASME/ANSI B1.1 B18.2.2
+exact_match_start沒有匹配值
+re.split的結果為: ['85', 'mm', 'BOLT', '&', 'NUT', 'UNC', 'STUD', 'AS', 'ASTM', 'A193', 'Gr', 'B7', 'W/', 'TWO', 'HEAVY', 'HEX', 'NUTS', 'ASTM', 'A194', 'Gr', '2H', 'W/', 'HDZ', 'ASME/ANSI', 'B1', '1', 'B18', '2', '2']
+正在檢查單詞 BOLT 與關鍵字 Bolt 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Bolt
+在第6行的單元格中找到了匹配項 Bolt。正在將值寫入B列6行。
+正在檢查第7行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第7行的單元格中沒有找到匹配項。
+正在檢查第8行的單元格，其值為: FULL COUPLING CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['FULL', 'COUPLING', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 COUPLING 與關鍵字 Coupling 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Coupling
+在第8行的單元格中找到了匹配項 Coupling。正在將值寫入B列8行。
+正在檢查第9行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第9行的單元格中沒有找到匹配項。
+正在檢查第10行的單元格，其值為: FULL COUPLING CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['FULL', 'COUPLING', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 COUPLING 與關鍵字 Coupling 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Coupling
+在第10行的單元格中找到了匹配項 Coupling。正在將值寫入B列10行。
+正在檢查第11行的單元格，其值為: WI-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '008_AN']
+in_match沒有匹配值
+在第11行的單元格中沒有找到匹配項。
+正在檢查第12行的單元格，其值為: CAP CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['CAP', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 CAP 與關鍵字 Cap 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Cap
+在第12行的單元格中找到了匹配項 Cap。正在將值寫入B列12行。
+正在檢查第13行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第13行的單元格中沒有找到匹配項。
+正在檢查第14行的單元格，其值為: 90 ELBOW CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['90', 'ELBOW', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第14行的單元格中找到了匹配項 Elbow。正在將值寫入B列14行。
+正在檢查第15行的單元格，其值為: WI-5-009_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '009_AN']
+in_match沒有匹配值
+在第15行的單元格中沒有找到匹配項。
+正在檢查第16行的單元格，其值為: 45 ELBOW CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['45', 'ELBOW', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第16行的單元格中找到了匹配項 Elbow。正在將值寫入B列16行。
+正在檢查第17行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第17行的單元格中沒有找到匹配項。
+正在檢查第18行的單元格，其值為: 90 ELBOW CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['90', 'ELBOW', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第18行的單元格中找到了匹配項 Elbow。正在將值寫入B列18行。
+正在檢查第19行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第19行的單元格中沒有找到匹配項。
+正在檢查第20行的單元格，其值為: 90 ELBOW CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['90', 'ELBOW', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第20行的單元格中找到了匹配項 Elbow。正在將值寫入B列20行。
+正在檢查第21行的單元格，其值為: WI-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '008_AN']
+in_match沒有匹配值
+在第21行的單元格中沒有找到匹配項。
+正在檢查第22行的單元格，其值為: SOCKET WELD FLANGE CL150 RF 125-250 RA-FN S-40 CS ASTM A105 W/ HDZ. ASME-B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['SOCKET', 'WELD', 'FLANGE', 'CL150', 'RF', '125', '250', 'RA', 'FN', 'S', '40', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '5']
+正在檢查單詞 SOCKET 與關鍵字 Sockolet 的相似度，相似度為 0.8571428571428571
+使用了整體匹配模組，匹配關鍵字為: Socket Weld Flange
+在第22行的單元格中找到了匹配項 Socket Weld Flange。正在將值寫入B列22行。
+正在檢查第23行的單元格，其值為: WI-5-009_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '009_AN']
+in_match沒有匹配值
+在第23行的單元格中沒有找到匹配項。
+正在檢查第24行的單元格，其值為: SOCKET WELD FLANGE CL150 RF 125-250 RA-FN S-40 CS ASTM A105 W/ HDZ. ASME-B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['SOCKET', 'WELD', 'FLANGE', 'CL150', 'RF', '125', '250', 'RA', 'FN', 'S', '40', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '5']
+正在檢查單詞 SOCKET 與關鍵字 Sockolet 的相似度，相似度為 0.8571428571428571
+使用了整體匹配模組，匹配關鍵字為: Socket Weld Flange
+在第24行的單元格中找到了匹配項 Socket Weld Flange。正在將值寫入B列24行。
+正在檢查第25行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第25行的單元格中沒有找到匹配項。
+正在檢查第26行的單元格，其值為: GASKET CL150 RF 4.5mm THCK SP-WD SS 304 AND FILLER FLEX. GRAPHITE NON-ASB. FREE W/O.R. C.S. ASME B16.20B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['GASKET', 'CL150', 'RF', '4', '5mm', 'THCK', 'SP', 'WD', 'SS', '304', 'AND', 'FILLER', 'FLEX', 'GRAPHITE', 'NON', 'ASB', 'FREE', 'W/O', 'R', 'C', 'S', 'ASME', 'B16', '20B16', '5']
+正在檢查單詞 GASKET 與關鍵字 Gasket 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Gasket
+在第26行的單元格中找到了匹配項 Gasket。正在將值寫入B列26行。
+正在檢查第27行的單元格，其值為: WI-5-009_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '009_AN']
+in_match沒有匹配值
+在第27行的單元格中沒有找到匹配項。
+正在檢查第28行的單元格，其值為: GASKET CL150 RF 4.5mm THCK SP-WD SS 304 AND FILLER FLEX. GRAPHITE NON-ASB. FREE W/O.R. C.S. ASME B16.20B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['GASKET', 'CL150', 'RF', '4', '5mm', 'THCK', 'SP', 'WD', 'SS', '304', 'AND', 'FILLER', 'FLEX', 'GRAPHITE', 'NON', 'ASB', 'FREE', 'W/O', 'R', 'C', 'S', 'ASME', 'B16', '20B16', '5']
+正在檢查單詞 GASKET 與關鍵字 Gasket 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Gasket
+在第28行的單元格中找到了匹配項 Gasket。正在將值寫入B列28行。
+正在檢查第29行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第29行的單元格中沒有找到匹配項。
+正在檢查第30行的單元格，其值為: PIPE SMLS PE S-40 CS ASTM A106 Gr.B W/ HDZ. ASME-B36.10M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'SMLS', 'PE', 'S', '40', 'CS', 'ASTM', 'A106', 'Gr', 'B', 'W/', 'HDZ', 'ASME', 'B36', '10M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第30行的單元格中找到了匹配項 Pipe。正在將值寫入B列30行。
+正在檢查第31行的單元格，其值為: WI-5-009_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '009_AN']
+in_match沒有匹配值
+在第31行的單元格中沒有找到匹配項。
+正在檢查第32行的單元格，其值為: PIPE SMLS PE S-40 CS ASTM A106 Gr.B W/ HDZ. ASME-B36.10M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'SMLS', 'PE', 'S', '40', 'CS', 'ASTM', 'A106', 'Gr', 'B', 'W/', 'HDZ', 'ASME', 'B36', '10M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第32行的單元格中找到了匹配項 Pipe。正在將值寫入B列32行。
+正在檢查第33行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第33行的單元格中沒有找到匹配項。
+正在檢查第34行的單元格，其值為: PIPE SMLS PE S-40 CS ASTM A106 Gr.B W/ HDZ. ASME-B36.10M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'SMLS', 'PE', 'S', '40', 'CS', 'ASTM', 'A106', 'Gr', 'B', 'W/', 'HDZ', 'ASME', 'B36', '10M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第34行的單元格中找到了匹配項 Pipe。正在將值寫入B列34行。
+正在檢查第35行的單元格，其值為: WI-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '008_AN']
+in_match沒有匹配值
+在第35行的單元格中沒有找到匹配項。
+正在檢查第36行的單元格，其值為: Instrument Tag No. RO-5702
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'RO', '5702']
+in_match沒有匹配值
+在第36行的單元格中沒有找到匹配項。
+正在檢查第37行的單元格，其值為: WI-5-009_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '009_AN']
+in_match沒有匹配值
+在第37行的單元格中沒有找到匹配項。
+正在檢查第38行的單元格，其值為: CONCENTRIC SWAGE NIPPLE SMLS PBE S-40 X S-40 CS ASTM A234 Gr.WPBW/ HDZ. MSS-SP-95
+exact_match_start沒有匹配值
+re.split的結果為: ['CONCENTRIC', 'SWAGE', 'NIPPLE', 'SMLS', 'PBE', 'S', '40', 'X', 'S', '40', 'CS', 'ASTM', 'A234', 'Gr', 'WPBW/', 'HDZ', 'MSS', 'SP', '95']
+正在檢查單詞 NIPPLE 與關鍵字 Nipple 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Nipple
+在第38行的單元格中找到了匹配項 Nipple。正在將值寫入B列38行。
+正在檢查第39行的單元格，其值為: WI-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '008_AN']
+in_match沒有匹配值
+在第39行的單元格中沒有找到匹配項。
+正在檢查第40行的單元格，其值為: TEE CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['TEE', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 TEE 與關鍵字 Tee 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Tee
+在第40行的單元格中找到了匹配項 Tee。正在將值寫入B列40行。
+正在檢查第41行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第41行的單元格中沒有找到匹配項。
+正在檢查第42行的單元格，其值為: REDU. TEE CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['REDU', 'TEE', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 TEE 與關鍵字 Tee 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Tee
+在第42行的單元格中找到了匹配項 Tee。正在將值寫入B列42行。
+正在檢查第43行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第43行的單元格中沒有找到匹配項。
+正在檢查第44行的單元格，其值為: REDU. TEE CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['REDU', 'TEE', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 TEE 與關鍵字 Tee 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Tee
+在第44行的單元格中找到了匹配項 Tee。正在將值寫入B列44行。
+正在檢查第45行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第45行的單元格中沒有找到匹配項。
+正在檢查第46行的單元格，其值為: TEE CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['TEE', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 TEE 與關鍵字 Tee 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Tee
+在第46行的單元格中找到了匹配項 Tee。正在將值寫入B列46行。
+正在檢查第47行的單元格，其值為: WI-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '008_AN']
+in_match沒有匹配值
+在第47行的單元格中沒有找到匹配項。
+正在檢查第48行的單元格，其值為: CHECK VALVE CL800 SW (WIV-5021)
+exact_match_start沒有匹配值
+re.split的結果為: ['CHECK', 'VALVE', 'CL800', 'SW', 'WIV', '5021', '']
+使用了整體匹配模組，匹配關鍵字為: Check Valve
+在第48行的單元格中找到了匹配項 Check Valve。正在將值寫入B列48行。
+正在檢查第49行的單元格，其值為: WI-5-009_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '009_AN']
+in_match沒有匹配值
+在第49行的單元格中沒有找到匹配項。
+正在檢查第50行的單元格，其值為: GLOBE VALVE CL800 SW (WIV-5020)
+exact_match_start沒有匹配值
+re.split的結果為: ['GLOBE', 'VALVE', 'CL800', 'SW', 'WIV', '5020', '']
+使用了整體匹配模組，匹配關鍵字為: Globe Valve
+在第50行的單元格中找到了匹配項 Globe Valve。正在將值寫入B列50行。
+正在檢查第51行的單元格，其值為: WI-5-009_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '009_AN']
+in_match沒有匹配值
+在第51行的單元格中沒有找到匹配項。
+正在檢查第52行的單元格，其值為: Instrument Tag No. XZV-5701
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'XZV', '5701']
+in_match沒有匹配值
+在第52行的單元格中沒有找到匹配項。
+正在檢查第53行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第53行的單元格中沒有找到匹配項。
+正在檢查第54行的單元格，其值為: 80 mm BOLT & NUT UNC STUD SS ASTM A193 Gr.B8 W/ TWO HEAVY HEX NUTS ASTM A194 Gr.8 ASME/ANSI B1.1 B18.2.2
+exact_match_start沒有匹配值
+re.split的結果為: ['80', 'mm', 'BOLT', '&', 'NUT', 'UNC', 'STUD', 'SS', 'ASTM', 'A193', 'Gr', 'B8', 'W/', 'TWO', 'HEAVY', 'HEX', 'NUTS', 'ASTM', 'A194', 'Gr', '8', 'ASME/ANSI', 'B1', '1', 'B18', '2', '2']
+正在檢查單詞 BOLT 與關鍵字 Bolt 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Bolt
+在第54行的單元格中找到了匹配項 Bolt。正在將值寫入B列54行。
+正在檢查第55行的單元格，其值為: AI-5-001B_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AI', '5', '001B_AN']
+in_match沒有匹配值
+在第55行的單元格中沒有找到匹配項。
+正在檢查第56行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第56行的單元格中沒有找到匹配項。
+正在檢查第57行的單元格，其值為: 90 mm BOLT & NUT UNC STUD SS ASTM A193 Gr.B8 W/ TWO HEAVY HEX NUTS ASTM A194 Gr.8 ASME/ANSI B1.1 B18.2.2
+exact_match_start沒有匹配值
+re.split的結果為: ['90', 'mm', 'BOLT', '&', 'NUT', 'UNC', 'STUD', 'SS', 'ASTM', 'A193', 'Gr', 'B8', 'W/', 'TWO', 'HEAVY', 'HEX', 'NUTS', 'ASTM', 'A194', 'Gr', '8', 'ASME/ANSI', 'B1', '1', 'B18', '2', '2']
+正在檢查單詞 BOLT 與關鍵字 Bolt 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Bolt
+在第57行的單元格中找到了匹配項 Bolt。正在將值寫入B列57行。
+正在檢查第58行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第58行的單元格中沒有找到匹配項。
+正在檢查第59行的單元格，其值為: FULL COUPLING CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['FULL', 'COUPLING', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 COUPLING 與關鍵字 Coupling 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Coupling
+在第59行的單元格中找到了匹配項 Coupling。正在將值寫入B列59行。
+正在檢查第60行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第60行的單元格中沒有找到匹配項。
+正在檢查第61行的單元格，其值為: FULL COUPLING CL3000 SW/FNPT CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['FULL', 'COUPLING', 'CL3000', 'SW/FNPT', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 COUPLING 與關鍵字 Coupling 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Coupling
+在第61行的單元格中找到了匹配項 Coupling。正在將值寫入B列61行。
+正在檢查第62行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第62行的單元格中沒有找到匹配項。
+正在檢查第63行的單元格，其值為: 90 ELBOW SMLS BW S-40 CS ASTM A234 Gr.WPB W/ HDZ. ASME-B16.9
+exact_match_start沒有匹配值
+re.split的結果為: ['90', 'ELBOW', 'SMLS', 'BW', 'S', '40', 'CS', 'ASTM', 'A234', 'Gr', 'WPB', 'W/', 'HDZ', 'ASME', 'B16', '9']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第63行的單元格中找到了匹配項 Elbow。正在將值寫入B列63行。
+正在檢查第64行的單元格，其值為: WI-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '006_AN']
+in_match沒有匹配值
+在第64行的單元格中沒有找到匹配項。
+正在檢查第65行的單元格，其值為: 90 ELBOW SMLS BW S-40 CS ASTM A234 Gr.WPB W/ HDZ. ASME-B16.9
+exact_match_start沒有匹配值
+re.split的結果為: ['90', 'ELBOW', 'SMLS', 'BW', 'S', '40', 'CS', 'ASTM', 'A234', 'Gr', 'WPB', 'W/', 'HDZ', 'ASME', 'B16', '9']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第65行的單元格中找到了匹配項 Elbow。正在將值寫入B列65行。
+正在檢查第66行的單元格，其值為: WI-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '006_AN']
+in_match沒有匹配值
+在第66行的單元格中沒有找到匹配項。
+正在檢查第67行的單元格，其值為: 90 ELBOW CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['90', 'ELBOW', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第67行的單元格中找到了匹配項 Elbow。正在將值寫入B列67行。
+正在檢查第68行的單元格，其值為: AI-5-001B_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AI', '5', '001B_AN']
+in_match沒有匹配值
+在第68行的單元格中沒有找到匹配項。
+正在檢查第69行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第69行的單元格中沒有找到匹配項。
+正在檢查第70行的單元格，其值為: BLIND FLANGE CL150 RF 125-250 RA-FN CS ASTM A105 W/ HDZ. ASME-B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['BLIND', 'FLANGE', 'CL150', 'RF', '125', '250', 'RA', 'FN', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '5']
+使用了整體匹配模組，匹配關鍵字為: Blind Flange
+在第70行的單元格中找到了匹配項 Blind Flange。正在將值寫入B列70行。
+正在檢查第71行的單元格，其值為: AI-5-001B_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AI', '5', '001B_AN']
+in_match沒有匹配值
+在第71行的單元格中沒有找到匹配項。
+正在檢查第72行的單元格，其值為: SOCKET WELD FLANGE CL150 RF 125-250 RA-FN S-40 CS ASTM A105 W/ HDZ. ASME-B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['SOCKET', 'WELD', 'FLANGE', 'CL150', 'RF', '125', '250', 'RA', 'FN', 'S', '40', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '5']
+正在檢查單詞 SOCKET 與關鍵字 Sockolet 的相似度，相似度為 0.8571428571428571
+使用了整體匹配模組，匹配關鍵字為: Socket Weld Flange
+在第72行的單元格中找到了匹配項 Socket Weld Flange。正在將值寫入B列72行。
+正在檢查第73行的單元格，其值為: AI-5-001B_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AI', '5', '001B_AN']
+in_match沒有匹配值
+在第73行的單元格中沒有找到匹配項。
+正在檢查第74行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第74行的單元格中沒有找到匹配項。
+正在檢查第75行的單元格，其值為: GASKET CL150 RF 4.5mm THCK SP-WD SS 304 AND FILLER FLEX. GRAPHITE NON-ASB. FREE W/O.R. C.S. ASME B16.20B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['GASKET', 'CL150', 'RF', '4', '5mm', 'THCK', 'SP', 'WD', 'SS', '304', 'AND', 'FILLER', 'FLEX', 'GRAPHITE', 'NON', 'ASB', 'FREE', 'W/O', 'R', 'C', 'S', 'ASME', 'B16', '20B16', '5']
+正在檢查單詞 GASKET 與關鍵字 Gasket 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Gasket
+在第75行的單元格中找到了匹配項 Gasket。正在將值寫入B列75行。
+正在檢查第76行的單元格，其值為: AI-5-001B_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AI', '5', '001B_AN']
+in_match沒有匹配值
+在第76行的單元格中沒有找到匹配項。
+正在檢查第77行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第77行的單元格中沒有找到匹配項。
+正在檢查第78行的單元格，其值為: PIPE NIPPLE SMLS TBE S-40 CS ASTM A106 Gr.B W/ HDZ. L=75mm ASME-B36.10M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'NIPPLE', 'SMLS', 'TBE', 'S', '40', 'CS', 'ASTM', 'A106', 'Gr', 'B', 'W/', 'HDZ', 'L', '75mm', 'ASME', 'B36', '10M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第78行的單元格中找到了匹配項 Pipe。正在將值寫入B列78行。
+正在檢查第79行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第79行的單元格中沒有找到匹配項。
+正在檢查第80行的單元格，其值為: PIPE NIPPLE SMLS POE/TOE S-40 CS ASTM A106 Gr.B W/ HDZ. L=75mm ASME-B36.10M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'NIPPLE', 'SMLS', 'POE/TOE', 'S', '40', 'CS', 'ASTM', 'A106', 'Gr', 'B', 'W/', 'HDZ', 'L', '75mm', 'ASME', 'B36', '10M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第80行的單元格中找到了匹配項 Pipe。正在將值寫入B列80行。
+正在檢查第81行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第81行的單元格中沒有找到匹配項。
+正在檢查第82行的單元格，其值為: PIPE SMLS PE S-40 CS ASTM A106 Gr.B W/ HDZ. ASME-B36.10M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'SMLS', 'PE', 'S', '40', 'CS', 'ASTM', 'A106', 'Gr', 'B', 'W/', 'HDZ', 'ASME', 'B36', '10M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第82行的單元格中找到了匹配項 Pipe。正在將值寫入B列82行。
+正在檢查第83行的單元格，其值為: AI-5-001B_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AI', '5', '001B_AN']
+in_match沒有匹配值
+在第83行的單元格中沒有找到匹配項。
+正在檢查第84行的單元格，其值為: PIPE SMLS PE S-40 CS ASTM A106 Gr.B W/ HDZ. ASME-B36.10M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'SMLS', 'PE', 'S', '40', 'CS', 'ASTM', 'A106', 'Gr', 'B', 'W/', 'HDZ', 'ASME', 'B36', '10M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第84行的單元格中找到了匹配項 Pipe。正在將值寫入B列84行。
+正在檢查第85行的單元格，其值為: AI-5-001B_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AI', '5', '001B_AN']
+in_match沒有匹配值
+在第85行的單元格中沒有找到匹配項。
+正在檢查第86行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第86行的單元格中沒有找到匹配項。
+正在檢查第87行的單元格，其值為: PIPE ERW BE S-40 CS ASTM A53 Gr.B W/ HDZ. ASME-B36.10M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'ERW', 'BE', 'S', '40', 'CS', 'ASTM', 'A53', 'Gr', 'B', 'W/', 'HDZ', 'ASME', 'B36', '10M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第87行的單元格中找到了匹配項 Pipe。正在將值寫入B列87行。
+正在檢查第88行的單元格，其值為: WI-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '006_AN']
+in_match沒有匹配值
+在第88行的單元格中沒有找到匹配項。
+正在檢查第89行的單元格，其值為: PIPE ERW BE S-40 CS ASTM A53 Gr.B W/ HDZ. ASME-B36.10M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'ERW', 'BE', 'S', '40', 'CS', 'ASTM', 'A53', 'Gr', 'B', 'W/', 'HDZ', 'ASME', 'B36', '10M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第89行的單元格中找到了匹配項 Pipe。正在將值寫入B列89行。
+正在檢查第90行的單元格，其值為: WI-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '006_AN']
+in_match沒有匹配值
+在第90行的單元格中沒有找到匹配項。
+正在檢查第91行的單元格，其值為: Instrument Tag No. PRV-5701
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'PRV', '5701']
+in_match沒有匹配值
+在第91行的單元格中沒有找到匹配項。
+正在檢查第92行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第92行的單元格中沒有找到匹配項。
+正在檢查第93行的單元格，其值為: CONCENTRIC REDUCER SMLS BW S-40 X S-40CS ASTM A234 Gr.WPB W/ HDZ. ASME-B16.9
+exact_match_start沒有匹配值
+re.split的結果為: ['CONCENTRIC', 'REDUCER', 'SMLS', 'BW', 'S', '40', 'X', 'S', '40CS', 'ASTM', 'A234', 'Gr', 'WPB', 'W/', 'HDZ', 'ASME', 'B16', '9']
+正在檢查單詞 REDUCER 與關鍵字 Reducer 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Reducer
+在第93行的單元格中找到了匹配項 Reducer。正在將值寫入B列93行。
+正在檢查第94行的單元格，其值為: WI-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '006_AN']
+in_match沒有匹配值
+在第94行的單元格中沒有找到匹配項。
+正在檢查第95行的單元格，其值為: Instrument Tag No. RO-5701
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'RO', '5701']
+in_match沒有匹配值
+在第95行的單元格中沒有找到匹配項。
+正在檢查第96行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第96行的單元格中沒有找到匹配項。
+正在檢查第97行的單元格，其值為: SOCKOLET CL3000 SW CS ASTM A105 W/ HDZ. MSS-SP-97
+exact_match_start沒有匹配值
+re.split的結果為: ['SOCKOLET', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'MSS', 'SP', '97']
+正在檢查單詞 SOCKOLET 與關鍵字 Sockolet 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Sockolet
+在第97行的單元格中找到了匹配項 Sockolet。正在將值寫入B列97行。
+正在檢查第98行的單元格，其值為: WI-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '006_AN']
+in_match沒有匹配值
+在第98行的單元格中沒有找到匹配項。
+正在檢查第99行的單元格，其值為: REDU. TEE CL3000 SW CS ASTM A105 W/ HDZ. ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['REDU', 'TEE', 'CL3000', 'SW', 'CS', 'ASTM', 'A105', 'W/', 'HDZ', 'ASME', 'B16', '11']
+正在檢查單詞 TEE 與關鍵字 Tee 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Tee
+在第99行的單元格中找到了匹配項 Tee。正在將值寫入B列99行。
+正在檢查第100行的單元格，其值為: AI-5-001B_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AI', '5', '001B_AN']
+in_match沒有匹配值
+在第100行的單元格中沒有找到匹配項。
+正在檢查第101行的單元格，其值為: BALL VALVE CL800 FNPT (N7V-5002)
+exact_match_start沒有匹配值
+re.split的結果為: ['BALL', 'VALVE', 'CL800', 'FNPT', 'N7V', '5002', '']
+使用了整體匹配模組，匹配關鍵字為: Ball Valve
+在第101行的單元格中找到了匹配項 Ball Valve。正在將值寫入B列101行。
+正在檢查第102行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第102行的單元格中沒有找到匹配項。
+正在檢查第103行的單元格，其值為: CHECK VALVE CL800 SW (N7V-5003)
+exact_match_start沒有匹配值
+re.split的結果為: ['CHECK', 'VALVE', 'CL800', 'SW', 'N7V', '5003', '']
+使用了整體匹配模組，匹配關鍵字為: Check Valve
+在第103行的單元格中找到了匹配項 Check Valve。正在將值寫入B列103行。
+正在檢查第104行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第104行的單元格中沒有找到匹配項。
+正在檢查第105行的單元格，其值為: GATE VALVE CL800 SW/FNPT (AI-)
+exact_match_start沒有匹配值
+re.split的結果為: ['GATE', 'VALVE', 'CL800', 'SW/FNPT', 'AI', '']
+使用了整體匹配模組，匹配關鍵字為: Gate Valve
+在第105行的單元格中找到了匹配項 Gate Valve。正在將值寫入B列105行。
+正在檢查第106行的單元格，其值為: AI-5-001B_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AI', '5', '001B_AN']
+in_match沒有匹配值
+在第106行的單元格中沒有找到匹配項。
+正在檢查第107行的單元格，其值為: 65 mm BOLT & NUT UNC STUD SS ASTM A193 Gr.B8 W/ TWO HEAVY HEX NUTS ASTM A194 Gr.8 ASME/ANSI B1.1 B18.2.2
+exact_match_start沒有匹配值
+re.split的結果為: ['65', 'mm', 'BOLT', '&', 'NUT', 'UNC', 'STUD', 'SS', 'ASTM', 'A193', 'Gr', 'B8', 'W/', 'TWO', 'HEAVY', 'HEX', 'NUTS', 'ASTM', 'A194', 'Gr', '8', 'ASME/ANSI', 'B1', '1', 'B18', '2', '2']
+正在檢查單詞 BOLT 與關鍵字 Bolt 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Bolt
+在第107行的單元格中找到了匹配項 Bolt。正在將值寫入B列107行。
+正在檢查第108行的單元格，其值為: T-5071-G1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5071', 'G1_AN']
+in_match沒有匹配值
+在第108行的單元格中沒有找到匹配項。
+正在檢查第109行的單元格，其值為: T-5701-G2_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'G2_AN']
+in_match沒有匹配值
+在第109行的單元格中沒有找到匹配項。
+正在檢查第110行的單元格，其值為: T-5702-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N3_AN']
+in_match沒有匹配值
+在第110行的單元格中沒有找到匹配項。
+正在檢查第111行的單元格，其值為: T-5702-N6_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N6_AN']
+in_match沒有匹配值
+在第111行的單元格中沒有找到匹配項。
+正在檢查第112行的單元格，其值為: 80 mm BOLT & NUT UNC STUD SS ASTM A193 Gr.B8 W/ TWO HEAVY HEX NUTS ASTM A194 Gr.8 ASME/ANSI B1.1 B18.2.2
+exact_match_start沒有匹配值
+re.split的結果為: ['80', 'mm', 'BOLT', '&', 'NUT', 'UNC', 'STUD', 'SS', 'ASTM', 'A193', 'Gr', 'B8', 'W/', 'TWO', 'HEAVY', 'HEX', 'NUTS', 'ASTM', 'A194', 'Gr', '8', 'ASME/ANSI', 'B1', '1', 'B18', '2', '2']
+正在檢查單詞 BOLT 與關鍵字 Bolt 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Bolt
+在第112行的單元格中找到了匹配項 Bolt。正在將值寫入B列112行。
+正在檢查第113行的單元格，其值為: T-5701-T1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T1_AN']
+in_match沒有匹配值
+在第113行的單元格中沒有找到匹配項。
+正在檢查第114行的單元格，其值為: T-5701-T2_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T2_AN']
+in_match沒有匹配值
+在第114行的單元格中沒有找到匹配項。
+正在檢查第115行的單元格，其值為: T-5702-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N3_AN']
+in_match沒有匹配值
+在第115行的單元格中沒有找到匹配項。
+正在檢查第116行的單元格，其值為: 100 mm BOLT & NUT UNC STUD SS ASTM A193 Gr.B8 W/ TWO HEAVY HEX NUTS ASTM A194 Gr.8 ASME/ANSI B1.1 B18.2.2
+exact_match_start沒有匹配值
+re.split的結果為: ['100', 'mm', 'BOLT', '&', 'NUT', 'UNC', 'STUD', 'SS', 'ASTM', 'A193', 'Gr', 'B8', 'W/', 'TWO', 'HEAVY', 'HEX', 'NUTS', 'ASTM', 'A194', 'Gr', '8', 'ASME/ANSI', 'B1', '1', 'B18', '2', '2']
+正在檢查單詞 BOLT 與關鍵字 Bolt 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Bolt
+在第116行的單元格中找到了匹配項 Bolt。正在將值寫入B列116行。
+正在檢查第117行的單元格，其值為: AN-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '008_AN']
+in_match沒有匹配值
+在第117行的單元格中沒有找到匹配項。
+正在檢查第118行的單元格，其值為: T-5701-LS_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'LS_AN']
+in_match沒有匹配值
+在第118行的單元格中沒有找到匹配項。
+正在檢查第119行的單元格，其值為: T-5701-LT_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'LT_AN']
+in_match沒有匹配值
+在第119行的單元格中沒有找到匹配項。
+正在檢查第120行的單元格，其值為: T-5701-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'N3_AN']
+in_match沒有匹配值
+在第120行的單元格中沒有找到匹配項。
+正在檢查第121行的單元格，其值為: T-5701-P_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'P_AN']
+in_match沒有匹配值
+在第121行的單元格中沒有找到匹配項。
+正在檢查第122行的單元格，其值為: 85 mm BOLT & NUT UNC STUD SS ASTM A193 Gr.B8 W/ TWO HEAVY HEX NUTS ASTM A194 Gr.8 ASME/ANSI B1.1 B18.2.2
+exact_match_start沒有匹配值
+re.split的結果為: ['85', 'mm', 'BOLT', '&', 'NUT', 'UNC', 'STUD', 'SS', 'ASTM', 'A193', 'Gr', 'B8', 'W/', 'TWO', 'HEAVY', 'HEX', 'NUTS', 'ASTM', 'A194', 'Gr', '8', 'ASME/ANSI', 'B1', '1', 'B18', '2', '2']
+正在檢查單詞 BOLT 與關鍵字 Bolt 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Bolt
+在第122行的單元格中找到了匹配項 Bolt。正在將值寫入B列122行。
+正在檢查第123行的單元格，其值為: AN-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '006_AN']
+in_match沒有匹配值
+在第123行的單元格中沒有找到匹配項。
+正在檢查第124行的單元格，其值為: AN-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '007_AN']
+in_match沒有匹配值
+在第124行的單元格中沒有找到匹配項。
+正在檢查第125行的單元格，其值為: T-5701-B3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'B3_AN']
+in_match沒有匹配值
+在第125行的單元格中沒有找到匹配項。
+正在檢查第126行的單元格，其值為: FULL COUPLING CL3000 SW/FNPT SS ASTM A182 Gr.F304 ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['FULL', 'COUPLING', 'CL3000', 'SW/FNPT', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'ASME', 'B16', '11']
+正在檢查單詞 COUPLING 與關鍵字 Coupling 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Coupling
+在第126行的單元格中找到了匹配項 Coupling。正在將值寫入B列126行。
+正在檢查第127行的單元格，其值為: T-5701-P_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'P_AN']
+in_match沒有匹配值
+在第127行的單元格中沒有找到匹配項。
+正在檢查第128行的單元格，其值為: FULL COUPLING CL3000 SW/FNPT SS ASTM A182 Gr.F304 ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['FULL', 'COUPLING', 'CL3000', 'SW/FNPT', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'ASME', 'B16', '11']
+正在檢查單詞 COUPLING 與關鍵字 Coupling 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Coupling
+在第128行的單元格中找到了匹配項 Coupling。正在將值寫入B列128行。
+正在檢查第129行的單元格，其值為: T-5701-T1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T1_AN']
+in_match沒有匹配值
+在第129行的單元格中沒有找到匹配項。
+正在檢查第130行的單元格，其值為: T-5701-T2_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T2_AN']
+in_match沒有匹配值
+在第130行的單元格中沒有找到匹配項。
+正在檢查第131行的單元格，其值為: 90 ELBOW SMLS BW S-10S SSASTM A403 Gr.WP304 ASME-B16.9
+exact_match_start沒有匹配值
+re.split的結果為: ['90', 'ELBOW', 'SMLS', 'BW', 'S', '10S', 'SSASTM', 'A403', 'Gr', 'WP304', 'ASME', 'B16', '9']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第131行的單元格中找到了匹配項 Elbow。正在將值寫入B列131行。
+正在檢查第132行的單元格，其值為: AN-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '008_AN']
+in_match沒有匹配值
+在第132行的單元格中沒有找到匹配項。
+正在檢查第133行的單元格，其值為: T-5701-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'N3_AN']
+in_match沒有匹配值
+在第133行的單元格中沒有找到匹配項。
+正在檢查第134行的單元格，其值為: 90 ELBOW CL3000 SW SS ASTM A182 Gr.F304 ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['90', 'ELBOW', 'CL3000', 'SW', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'ASME', 'B16', '11']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第134行的單元格中找到了匹配項 Elbow。正在將值寫入B列134行。
+正在檢查第135行的單元格，其值為: T-5702-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N3_AN']
+in_match沒有匹配值
+在第135行的單元格中沒有找到匹配項。
+正在檢查第136行的單元格，其值為: 45 ELBOW CL3000 SW SS ASTM A182 Gr.F304 ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['45', 'ELBOW', 'CL3000', 'SW', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'ASME', 'B16', '11']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第136行的單元格中找到了匹配項 Elbow。正在將值寫入B列136行。
+正在檢查第137行的單元格，其值為: AN-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '006_AN']
+in_match沒有匹配值
+在第137行的單元格中沒有找到匹配項。
+正在檢查第138行的單元格，其值為: 90 ELBOW CL3000 SW SS ASTM A182 Gr.F304 ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['90', 'ELBOW', 'CL3000', 'SW', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'ASME', 'B16', '11']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第138行的單元格中找到了匹配項 Elbow。正在將值寫入B列138行。
+正在檢查第139行的單元格，其值為: AN-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '006_AN']
+in_match沒有匹配值
+在第139行的單元格中沒有找到匹配項。
+正在檢查第140行的單元格，其值為: AN-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '007_AN']
+in_match沒有匹配值
+在第140行的單元格中沒有找到匹配項。
+正在檢查第141行的單元格，其值為: 90 ELBOW CL3000 SW SS ASTM A182 Gr.F304 ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['90', 'ELBOW', 'CL3000', 'SW', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'ASME', 'B16', '11']
+正在檢查單詞 ELBOW 與關鍵字 Elbow 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Elbow
+在第141行的單元格中找到了匹配項 Elbow。正在將值寫入B列141行。
+正在檢查第142行的單元格，其值為: T-5702-N6_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N6_AN']
+in_match沒有匹配值
+在第142行的單元格中沒有找到匹配項。
+正在檢查第143行的單元格，其值為: Instrument Tag No. FG-5702
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'FG', '5702']
+in_match沒有匹配值
+在第143行的單元格中沒有找到匹配項。
+正在檢查第144行的單元格，其值為: T-5702-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N3_AN']
+in_match沒有匹配值
+在第144行的單元格中沒有找到匹配項。
+正在檢查第145行的單元格，其值為: SOCKET WELD FLANGE CL150 RF 125-250 RA-FN S-10S SS ASTM A182 Gr.F304 ASME-B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['SOCKET', 'WELD', 'FLANGE', 'CL150', 'RF', '125', '250', 'RA', 'FN', 'S', '10S', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'ASME', 'B16', '5']
+正在檢查單詞 SOCKET 與關鍵字 Sockolet 的相似度，相似度為 0.8571428571428571
+使用了整體匹配模組，匹配關鍵字為: Socket Weld Flange
+在第145行的單元格中找到了匹配項 Socket Weld Flange。正在將值寫入B列145行。
+正在檢查第146行的單元格，其值為: T-5701-T1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T1_AN']
+in_match沒有匹配值
+在第146行的單元格中沒有找到匹配項。
+正在檢查第147行的單元格，其值為: T-5701-T2_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T2_AN']
+in_match沒有匹配值
+在第147行的單元格中沒有找到匹配項。
+正在檢查第148行的單元格，其值為: T-5702-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N3_AN']
+in_match沒有匹配值
+在第148行的單元格中沒有找到匹配項。
+正在檢查第149行的單元格，其值為: SOCKET WELD FLANGE CL150 RF 125-250 RA-FN S-10S SS ASTM A182 Gr.F304 ASME-B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['SOCKET', 'WELD', 'FLANGE', 'CL150', 'RF', '125', '250', 'RA', 'FN', 'S', '10S', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'ASME', 'B16', '5']
+正在檢查單詞 SOCKET 與關鍵字 Sockolet 的相似度，相似度為 0.8571428571428571
+使用了整體匹配模組，匹配關鍵字為: Socket Weld Flange
+在第149行的單元格中找到了匹配項 Socket Weld Flange。正在將值寫入B列149行。
+正在檢查第150行的單元格，其值為: AN-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '006_AN']
+in_match沒有匹配值
+在第150行的單元格中沒有找到匹配項。
+正在檢查第151行的單元格，其值為: AN-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '007_AN']
+in_match沒有匹配值
+在第151行的單元格中沒有找到匹配項。
+正在檢查第152行的單元格，其值為: T-5701-B3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'B3_AN']
+in_match沒有匹配值
+在第152行的單元格中沒有找到匹配項。
+正在檢查第153行的單元格，其值為: LAP JOINT FLANGE CL150 CS ASTM A105 ASME-B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['LAP', 'JOINT', 'FLANGE', 'CL150', 'CS', 'ASTM', 'A105', 'ASME', 'B16', '5']
+使用了整體匹配模組，匹配關鍵字為: Lap Joint Flange
+在第153行的單元格中找到了匹配項 Lap Joint Flange。正在將值寫入B列153行。
+正在檢查第154行的單元格，其值為: T-5701-P_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'P_AN']
+in_match沒有匹配值
+在第154行的單元格中沒有找到匹配項。
+正在檢查第155行的單元格，其值為: SOCKET WELD FLANGE CL150 RF 125-250 RA-FN S-10S SS ASTM A182 Gr.F304 ASME-B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['SOCKET', 'WELD', 'FLANGE', 'CL150', 'RF', '125', '250', 'RA', 'FN', 'S', '10S', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'ASME', 'B16', '5']
+正在檢查單詞 SOCKET 與關鍵字 Sockolet 的相似度，相似度為 0.8571428571428571
+使用了整體匹配模組，匹配關鍵字為: Socket Weld Flange
+在第155行的單元格中找到了匹配項 Socket Weld Flange。正在將值寫入B列155行。
+正在檢查第156行的單元格，其值為: T-5071-G1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5071', 'G1_AN']
+in_match沒有匹配值
+在第156行的單元格中沒有找到匹配項。
+正在檢查第157行的單元格，其值為: T-5701-G2_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'G2_AN']
+in_match沒有匹配值
+在第157行的單元格中沒有找到匹配項。
+正在檢查第158行的單元格，其值為: T-5702-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N3_AN']
+in_match沒有匹配值
+在第158行的單元格中沒有找到匹配項。
+正在檢查第159行的單元格，其值為: T-5702-N6_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N6_AN']
+in_match沒有匹配值
+在第159行的單元格中沒有找到匹配項。
+正在檢查第160行的單元格，其值為: LAP JOINT FLANGE CL150 CS ASTM A105 ASME-B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['LAP', 'JOINT', 'FLANGE', 'CL150', 'CS', 'ASTM', 'A105', 'ASME', 'B16', '5']
+使用了整體匹配模組，匹配關鍵字為: Lap Joint Flange
+在第160行的單元格中找到了匹配項 Lap Joint Flange。正在將值寫入B列160行。
+正在檢查第161行的單元格，其值為: AN-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '008_AN']
+in_match沒有匹配值
+在第161行的單元格中沒有找到匹配項。
+正在檢查第162行的單元格，其值為: T-5701-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'N3_AN']
+in_match沒有匹配值
+在第162行的單元格中沒有找到匹配項。
+正在檢查第163行的單元格，其值為: GASKET CL150 RF 4.5mm THCK SP-WD SS 304 AND FILLER FLEX. GRAPHITE NON-ASB. FREE W/O.R. C.S. ASME B16.20B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['GASKET', 'CL150', 'RF', '4', '5mm', 'THCK', 'SP', 'WD', 'SS', '304', 'AND', 'FILLER', 'FLEX', 'GRAPHITE', 'NON', 'ASB', 'FREE', 'W/O', 'R', 'C', 'S', 'ASME', 'B16', '20B16', '5']
+正在檢查單詞 GASKET 與關鍵字 Gasket 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Gasket
+在第163行的單元格中找到了匹配項 Gasket。正在將值寫入B列163行。
+正在檢查第164行的單元格，其值為: T-5701-T1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T1_AN']
+in_match沒有匹配值
+在第164行的單元格中沒有找到匹配項。
+正在檢查第165行的單元格，其值為: T-5701-T2_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T2_AN']
+in_match沒有匹配值
+在第165行的單元格中沒有找到匹配項。
+正在檢查第166行的單元格，其值為: T-5702-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N3_AN']
+in_match沒有匹配值
+在第166行的單元格中沒有找到匹配項。
+正在檢查第167行的單元格，其值為: GASKET CL150 RF 4.5mm THCK SP-WD SS 304 AND FILLER FLEX. GRAPHITE NON-ASB. FREE W/O.R. C.S. ASME B16.20B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['GASKET', 'CL150', 'RF', '4', '5mm', 'THCK', 'SP', 'WD', 'SS', '304', 'AND', 'FILLER', 'FLEX', 'GRAPHITE', 'NON', 'ASB', 'FREE', 'W/O', 'R', 'C', 'S', 'ASME', 'B16', '20B16', '5']
+正在檢查單詞 GASKET 與關鍵字 Gasket 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Gasket
+在第167行的單元格中找到了匹配項 Gasket。正在將值寫入B列167行。
+正在檢查第168行的單元格，其值為: AN-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '006_AN']
+in_match沒有匹配值
+在第168行的單元格中沒有找到匹配項。
+正在檢查第169行的單元格，其值為: AN-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '007_AN']
+in_match沒有匹配值
+在第169行的單元格中沒有找到匹配項。
+正在檢查第170行的單元格，其值為: T-5701-B3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'B3_AN']
+in_match沒有匹配值
+在第170行的單元格中沒有找到匹配項。
+正在檢查第171行的單元格，其值為: GASKET CL150 RF 4.5mm THCK SP-WD SS 304 AND FILLER FLEX. GRAPHITE NON-ASB. FREE W/O.R. C.S. ASME B16.20B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['GASKET', 'CL150', 'RF', '4', '5mm', 'THCK', 'SP', 'WD', 'SS', '304', 'AND', 'FILLER', 'FLEX', 'GRAPHITE', 'NON', 'ASB', 'FREE', 'W/O', 'R', 'C', 'S', 'ASME', 'B16', '20B16', '5']
+正在檢查單詞 GASKET 與關鍵字 Gasket 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Gasket
+在第171行的單元格中找到了匹配項 Gasket。正在將值寫入B列171行。
+正在檢查第172行的單元格，其值為: T-5701-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'N3_AN']
+in_match沒有匹配值
+在第172行的單元格中沒有找到匹配項。
+正在檢查第173行的單元格，其值為: T-5701-P_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'P_AN']
+in_match沒有匹配值
+在第173行的單元格中沒有找到匹配項。
+正在檢查第174行的單元格，其值為: GASKET CL150 RF 4.5mm THCK SP-WD SS 304 AND FILLER FLEX. GRAPHITE NON-ASB. FREE W/O.R. C.S. ASME B16.20B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['GASKET', 'CL150', 'RF', '4', '5mm', 'THCK', 'SP', 'WD', 'SS', '304', 'AND', 'FILLER', 'FLEX', 'GRAPHITE', 'NON', 'ASB', 'FREE', 'W/O', 'R', 'C', 'S', 'ASME', 'B16', '20B16', '5']
+正在檢查單詞 GASKET 與關鍵字 Gasket 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Gasket
+在第174行的單元格中找到了匹配項 Gasket。正在將值寫入B列174行。
+正在檢查第175行的單元格，其值為: T-5071-G1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5071', 'G1_AN']
+in_match沒有匹配值
+在第175行的單元格中沒有找到匹配項。
+正在檢查第176行的單元格，其值為: T-5701-G2_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'G2_AN']
+in_match沒有匹配值
+在第176行的單元格中沒有找到匹配項。
+正在檢查第177行的單元格，其值為: T-5702-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N3_AN']
+in_match沒有匹配值
+在第177行的單元格中沒有找到匹配項。
+正在檢查第178行的單元格，其值為: T-5702-N6_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N6_AN']
+in_match沒有匹配值
+在第178行的單元格中沒有找到匹配項。
+正在檢查第179行的單元格，其值為: GASKET CL150 RF 4.5mm THCK SP-WD SS 304 AND FILLER FLEX. GRAPHITE NON-ASB. FREE W/O.R. C.S. ASME B16.20B16.5
+exact_match_start沒有匹配值
+re.split的結果為: ['GASKET', 'CL150', 'RF', '4', '5mm', 'THCK', 'SP', 'WD', 'SS', '304', 'AND', 'FILLER', 'FLEX', 'GRAPHITE', 'NON', 'ASB', 'FREE', 'W/O', 'R', 'C', 'S', 'ASME', 'B16', '20B16', '5']
+正在檢查單詞 GASKET 與關鍵字 Gasket 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Gasket
+在第179行的單元格中找到了匹配項 Gasket。正在將值寫入B列179行。
+正在檢查第180行的單元格，其值為: AN-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '008_AN']
+in_match沒有匹配值
+在第180行的單元格中沒有找到匹配項。
+正在檢查第181行的單元格，其值為: T-5701-LS_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'LS_AN']
+in_match沒有匹配值
+在第181行的單元格中沒有找到匹配項。
+正在檢查第182行的單元格，其值為: T-5701-LT_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'LT_AN']
+in_match沒有匹配值
+在第182行的單元格中沒有找到匹配項。
+正在檢查第183行的單元格，其值為: T-5701-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'N3_AN']
+in_match沒有匹配值
+在第183行的單元格中沒有找到匹配項。
+正在檢查第184行的單元格，其值為: Instrument Tag No. LG-5701
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'LG', '5701']
+in_match沒有匹配值
+在第184行的單元格中沒有找到匹配項。
+正在檢查第185行的單元格，其值為: T-5071-G1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5071', 'G1_AN']
+in_match沒有匹配值
+在第185行的單元格中沒有找到匹配項。
+正在檢查第186行的單元格，其值為: Instrument Tag No. LS-5701
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'LS', '5701']
+in_match沒有匹配值
+在第186行的單元格中沒有找到匹配項。
+正在檢查第187行的單元格，其值為: T-5701-LS_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'LS_AN']
+in_match沒有匹配值
+在第187行的單元格中沒有找到匹配項。
+正在檢查第188行的單元格，其值為: Instrument Tag No. LT-5701
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'LT', '5701']
+in_match沒有匹配值
+在第188行的單元格中沒有找到匹配項。
+正在檢查第189行的單元格，其值為: T-5701-LT_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'LT_AN']
+in_match沒有匹配值
+在第189行的單元格中沒有找到匹配項。
+正在檢查第190行的單元格，其值為: PIPE SMLS PE S-10S SS ASTM A312 Gr.TP304 ASME-B36.19M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'SMLS', 'PE', 'S', '10S', 'SS', 'ASTM', 'A312', 'Gr', 'TP304', 'ASME', 'B36', '19M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第190行的單元格中找到了匹配項 Pipe。正在將值寫入B列190行。
+正在檢查第191行的單元格，其值為: T-5701-T1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T1_AN']
+in_match沒有匹配值
+在第191行的單元格中沒有找到匹配項。
+正在檢查第192行的單元格，其值為: T-5701-T2_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T2_AN']
+in_match沒有匹配值
+在第192行的單元格中沒有找到匹配項。
+正在檢查第193行的單元格，其值為: T-5702-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N3_AN']
+in_match沒有匹配值
+在第193行的單元格中沒有找到匹配項。
+正在檢查第194行的單元格，其值為: PIPE SMLS PE S-10S SS ASTM A312 Gr.TP304 ASME-B36.19M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'SMLS', 'PE', 'S', '10S', 'SS', 'ASTM', 'A312', 'Gr', 'TP304', 'ASME', 'B36', '19M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第194行的單元格中找到了匹配項 Pipe。正在將值寫入B列194行。
+正在檢查第195行的單元格，其值為: AN-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '006_AN']
+in_match沒有匹配值
+在第195行的單元格中沒有找到匹配項。
+正在檢查第196行的單元格，其值為: AN-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '007_AN']
+in_match沒有匹配值
+在第196行的單元格中沒有找到匹配項。
+正在檢查第197行的單元格，其值為: T-5701-B3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'B3_AN']
+in_match沒有匹配值
+在第197行的單元格中沒有找到匹配項。
+正在檢查第198行的單元格，其值為: PIPE SMLS PE S-10S SS ASTM A312 Gr.TP304 ASME-B36.19M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'SMLS', 'PE', 'S', '10S', 'SS', 'ASTM', 'A312', 'Gr', 'TP304', 'ASME', 'B36', '19M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第198行的單元格中找到了匹配項 Pipe。正在將值寫入B列198行。
+正在檢查第199行的單元格，其值為: T-5071-G1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5071', 'G1_AN']
+in_match沒有匹配值
+在第199行的單元格中沒有找到匹配項。
+正在檢查第200行的單元格，其值為: T-5701-G2_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'G2_AN']
+in_match沒有匹配值
+在第200行的單元格中沒有找到匹配項。
+正在檢查第201行的單元格，其值為: T-5702-N6_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N6_AN']
+in_match沒有匹配值
+在第201行的單元格中沒有找到匹配項。
+正在檢查第202行的單元格，其值為: PIPE EFW PE S-10S SS ASTM A312 Gr.TP304 ASME-B36.19M
+exact_match_start沒有匹配值
+re.split的結果為: ['PIPE', 'EFW', 'PE', 'S', '10S', 'SS', 'ASTM', 'A312', 'Gr', 'TP304', 'ASME', 'B36', '19M']
+正在檢查單詞 PIPE 與關鍵字 Pipe 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Pipe
+在第202行的單元格中找到了匹配項 Pipe。正在將值寫入B列202行。
+正在檢查第203行的單元格，其值為: AN-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '008_AN']
+in_match沒有匹配值
+在第203行的單元格中沒有找到匹配項。
+正在檢查第204行的單元格，其值為: Instrument Tag No. PG-5701
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'PG', '5701']
+in_match沒有匹配值
+在第204行的單元格中沒有找到匹配項。
+正在檢查第205行的單元格，其值為: T-5701-P_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'P_AN']
+in_match沒有匹配值
+在第205行的單元格中沒有找到匹配項。
+正在檢查第206行的單元格，其值為: QUICK CONNECTOR CL3000 SCRD(NPT)
+exact_match_start沒有匹配值
+re.split的結果為: ['QUICK', 'CONNECTOR', 'CL3000', 'SCRD', 'NPT', '']
+in_match沒有匹配值
+在第206行的單元格中沒有找到匹配項。
+正在檢查第207行的單元格，其值為: AN-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '006_AN']
+in_match沒有匹配值
+在第207行的單元格中沒有找到匹配項。
+正在檢查第208行的單元格，其值為: AN-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '007_AN']
+in_match沒有匹配值
+在第208行的單元格中沒有找到匹配項。
+正在檢查第209行的單元格，其值為: CONCENTRIC REDUCER SMLS BW S-10S X S-10S SS ASTM A403 Gr.F304 ASME-B16.9
+exact_match_start沒有匹配值
+re.split的結果為: ['CONCENTRIC', 'REDUCER', 'SMLS', 'BW', 'S', '10S', 'X', 'S', '10S', 'SS', 'ASTM', 'A403', 'Gr', 'F304', 'ASME', 'B16', '9']
+正在檢查單詞 REDUCER 與關鍵字 Reducer 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Reducer
+在第209行的單元格中找到了匹配項 Reducer。正在將值寫入B列209行。
+正在檢查第210行的單元格，其值為: T-5701-P_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'P_AN']
+in_match沒有匹配值
+在第210行的單元格中沒有找到匹配項。
+正在檢查第211行的單元格，其值為: CONCENTRIC SWAGE NIPPLE SMLS PBE S-10S X S-10S SS ASTM A182 Gr.F304 MSS-SP-95
+exact_match_start沒有匹配值
+re.split的結果為: ['CONCENTRIC', 'SWAGE', 'NIPPLE', 'SMLS', 'PBE', 'S', '10S', 'X', 'S', '10S', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'MSS', 'SP', '95']
+正在檢查單詞 NIPPLE 與關鍵字 Nipple 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Nipple
+在第211行的單元格中找到了匹配項 Nipple。正在將值寫入B列211行。
+正在檢查第212行的單元格，其值為: T-5702-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N3_AN']
+in_match沒有匹配值
+在第212行的單元格中沒有找到匹配項。
+正在檢查第213行的單元格，其值為: CONCENTRIC SWAGE NIPPLE SMLS PBE S-10S X S-10S SS ASTM A182 Gr.F304 MSS-SP-95
+exact_match_start沒有匹配值
+re.split的結果為: ['CONCENTRIC', 'SWAGE', 'NIPPLE', 'SMLS', 'PBE', 'S', '10S', 'X', 'S', '10S', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'MSS', 'SP', '95']
+正在檢查單詞 NIPPLE 與關鍵字 Nipple 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Nipple
+在第213行的單元格中找到了匹配項 Nipple。正在將值寫入B列213行。
+正在檢查第214行的單元格，其值為: T-5701-P_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'P_AN']
+in_match沒有匹配值
+在第214行的單元格中沒有找到匹配項。
+正在檢查第215行的單元格，其值為: STUB END SMLS BW S-10S SSASTM A403 Gr.WP304 125-250 RA-FN SHORTPARTTERN MSS SP-43
+exact_match_start沒有匹配值
+re.split的結果為: ['STUB', 'END', 'SMLS', 'BW', 'S', '10S', 'SSASTM', 'A403', 'Gr', 'WP304', '125', '250', 'RA', 'FN', 'SHORTPARTTERN', 'MSS', 'SP', '43']
+使用了整體匹配模組，匹配關鍵字為: Stub End
+在第215行的單元格中找到了匹配項 Stub End。正在將值寫入B列215行。
+正在檢查第216行的單元格，其值為: T-5701-P_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'P_AN']
+in_match沒有匹配值
+在第216行的單元格中沒有找到匹配項。
+正在檢查第217行的單元格，其值為: STUB END SMLS BW S-10S SSASTM A403 Gr.WP304 125-250 RA-FN SHORTPARTTERN MSS SP-43
+exact_match_start沒有匹配值
+re.split的結果為: ['STUB', 'END', 'SMLS', 'BW', 'S', '10S', 'SSASTM', 'A403', 'Gr', 'WP304', '125', '250', 'RA', 'FN', 'SHORTPARTTERN', 'MSS', 'SP', '43']
+使用了整體匹配模組，匹配關鍵字為: Stub End
+在第217行的單元格中找到了匹配項 Stub End。正在將值寫入B列217行。
+正在檢查第218行的單元格，其值為: AN-5-008_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '008_AN']
+in_match沒有匹配值
+在第218行的單元格中沒有找到匹配項。
+正在檢查第219行的單元格，其值為: T-5701-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'N3_AN']
+in_match沒有匹配值
+在第219行的單元格中沒有找到匹配項。
+正在檢查第220行的單元格，其值為: Instrument Tag No. TE-5701
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'TE', '5701']
+in_match沒有匹配值
+在第220行的單元格中沒有找到匹配項。
+正在檢查第221行的單元格，其值為: T-5701-T2_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T2_AN']
+in_match沒有匹配值
+在第221行的單元格中沒有找到匹配項。
+正在檢查第222行的單元格，其值為: Instrument Tag No. TG-5701
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'TG', '5701']
+in_match沒有匹配值
+在第222行的單元格中沒有找到匹配項。
+正在檢查第223行的單元格，其值為: T-5701-T1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'T1_AN']
+in_match沒有匹配值
+在第223行的單元格中沒有找到匹配項。
+正在檢查第224行的單元格，其值為: REDU. TEE CL3000 SW SS ASTM A182 Gr.F304 ASME-B16.11
+exact_match_start沒有匹配值
+re.split的結果為: ['REDU', 'TEE', 'CL3000', 'SW', 'SS', 'ASTM', 'A182', 'Gr', 'F304', 'ASME', 'B16', '11']
+正在檢查單詞 TEE 與關鍵字 Tee 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Tee
+在第224行的單元格中找到了匹配項 Tee。正在將值寫入B列224行。
+正在檢查第225行的單元格，其值為: T-5702-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N3_AN']
+in_match沒有匹配值
+在第225行的單元格中沒有找到匹配項。
+正在檢查第226行的單元格，其值為: GATE VALVE CL800 SW (ANV-5030)
+exact_match_start沒有匹配值
+re.split的結果為: ['GATE', 'VALVE', 'CL800', 'SW', 'ANV', '5030', '']
+使用了整體匹配模組，匹配關鍵字為: Gate Valve
+在第226行的單元格中找到了匹配項 Gate Valve。正在將值寫入B列226行。
+正在檢查第227行的單元格，其值為: AN-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '007_AN']
+in_match沒有匹配值
+在第227行的單元格中沒有找到匹配項。
+正在檢查第228行的單元格，其值為: GATE VALVE CL800 SW (ANV-5036)
+exact_match_start沒有匹配值
+re.split的結果為: ['GATE', 'VALVE', 'CL800', 'SW', 'ANV', '5036', '']
+使用了整體匹配模組，匹配關鍵字為: Gate Valve
+在第228行的單元格中找到了匹配項 Gate Valve。正在將值寫入B列228行。
+正在檢查第229行的單元格，其值為: AN-5-006_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '006_AN']
+in_match沒有匹配值
+在第229行的單元格中沒有找到匹配項。
+正在檢查第230行的單元格，其值為: GATE VALVE CL800 SW (ANV-5037)
+exact_match_start沒有匹配值
+re.split的結果為: ['GATE', 'VALVE', 'CL800', 'SW', 'ANV', '5037', '']
+使用了整體匹配模組，匹配關鍵字為: Gate Valve
+在第230行的單元格中找到了匹配項 Gate Valve。正在將值寫入B列230行。
+正在檢查第231行的單元格，其值為: T-5701-B3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'B3_AN']
+in_match沒有匹配值
+在第231行的單元格中沒有找到匹配項。
+正在檢查第232行的單元格，其值為: GATE VALVE CL800 SW (ANV-5034)
+exact_match_start沒有匹配值
+re.split的結果為: ['GATE', 'VALVE', 'CL800', 'SW', 'ANV', '5034', '']
+使用了整體匹配模組，匹配關鍵字為: Gate Valve
+在第232行的單元格中找到了匹配項 Gate Valve。正在將值寫入B列232行。
+正在檢查第233行的單元格，其值為: T-5071-G1_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5071', 'G1_AN']
+in_match沒有匹配值
+在第233行的單元格中沒有找到匹配項。
+正在檢查第234行的單元格，其值為: GATE VALVE CL800 SW (ANV-5035)
+exact_match_start沒有匹配值
+re.split的結果為: ['GATE', 'VALVE', 'CL800', 'SW', 'ANV', '5035', '']
+使用了整體匹配模組，匹配關鍵字為: Gate Valve
+在第234行的單元格中找到了匹配項 Gate Valve。正在將值寫入B列234行。
+正在檢查第235行的單元格，其值為: T-5701-G2_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'G2_AN']
+in_match沒有匹配值
+在第235行的單元格中沒有找到匹配項。
+正在檢查第236行的單元格，其值為: GLOBE VALVE CL800 SW (ANV-5038)
+exact_match_start沒有匹配值
+re.split的結果為: ['GLOBE', 'VALVE', 'CL800', 'SW', 'ANV', '5038', '']
+使用了整體匹配模組，匹配關鍵字為: Globe Valve
+在第236行的單元格中找到了匹配項 Globe Valve。正在將值寫入B列236行。
+正在檢查第237行的單元格，其值為: T-5702-N6_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5702', 'N6_AN']
+in_match沒有匹配值
+在第237行的單元格中沒有找到匹配項。
+正在檢查第238行的單元格，其值為: Instrument Tag No. VSV-5701
+exact_match_start沒有匹配值
+re.split的結果為: ['Instrument', 'Tag', 'No', 'VSV', '5701']
+in_match沒有匹配值
+在第238行的單元格中沒有找到匹配項。
+正在檢查第239行的單元格，其值為: T-5701-N3_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['T', '5701', 'N3_AN']
+in_match沒有匹配值
+在第239行的單元格中沒有找到匹配項。
+正在檢查第240行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第240行的單元格中找到了匹配項 Support。正在將值寫入B列240行。
+正在檢查第241行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第241行的單元格中沒有找到匹配項。
+正在檢查第242行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第242行的單元格中找到了匹配項 Support。正在將值寫入B列242行。
+正在檢查第243行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第243行的單元格中沒有找到匹配項。
+正在檢查第244行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第244行的單元格中找到了匹配項 Support。正在將值寫入B列244行。
+正在檢查第245行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第245行的單元格中沒有找到匹配項。
+正在檢查第246行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第246行的單元格中找到了匹配項 Support。正在將值寫入B列246行。
+正在檢查第247行的單元格，其值為: AN-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '007_AN']
+in_match沒有匹配值
+在第247行的單元格中沒有找到匹配項。
+正在檢查第248行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第248行的單元格中找到了匹配項 Support。正在將值寫入B列248行。
+正在檢查第249行的單元格，其值為: N7-5-001_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['N7', '5', '001_AN']
+in_match沒有匹配值
+在第249行的單元格中沒有找到匹配項。
+正在檢查第250行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
+使用了模糊匹配模組，匹配關鍵字為: Support
+在第250行的單元格中找到了匹配項 Support。正在將值寫入B列250行。
+正在檢查第251行的單元格，其值為: AN-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['AN', '5', '007_AN']
+in_match沒有匹配值
+在第251行的單元格中沒有找到匹配項。
+正在檢查第252行的單元格，其值為: WI-5-007_AN
+exact_match_start沒有匹配值
+re.split的結果為: ['WI', '5', '007_AN']
+in_match沒有匹配值
+在第252行的單元格中沒有找到匹配項。
+正在檢查第253行的單元格，其值為: SUPPORT
+exact_match_start沒有匹配值
+re.split的結果為: ['SUPPORT']
+正在檢查單詞 SUPPORT 與關鍵字 Support 的相似度，相似度為 1.0
